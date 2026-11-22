@@ -1,0 +1,28 @@
+ticket_id,ticket_name,ticket_type,severity,description
+4501,Report scheduler not running,Software,Sev4,Report scheduler not running. Minor issue with negligible business impact. Affects multiple sites.
+4502,Packet loss on core switch,Network,Sev2,Packet loss on core switch. Major degradation affecting a department. No recent changes were reported by the customer.
+4503,Branch WAN link down,Network,Sev3,Branch WAN link down. Limited impact with a workaround available. Affects multiple sites.
+4504,API returns 500 for batch endpoint,Integration,Sev3,API returns 500 for batch endpoint. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+4505,Packet loss on core switch, Network,Sev2,Packet loss on core switch. Major degradation affecting a department. Requester asked for an update every few hours.
+4506,Webhook deliveries delayed,Integration,Sev3,Webhook deliveries delayed. Limited impact with a workaround available. Issue has happened before according to the customer.
+4507,Permissions missing on shared drive, Access Management,Sev3,Permissions missing on shared drive. Limited impact with a workaround available. Requester asked for an update every few hours.
+4508,Slow stored procedure after release,Database,Sev3,Slow stored procedure after release. Limited impact with a workaround available. No recent changes were reported by the customer.
+4509,Server disk failure alert,Hardware,Sev4,Server disk failure alert. Minor issue with negligible business impact. Issue has happened before according to the customer.
+4510,Deadlocks during peak hours,Database,Sev3,Deadlocks during peak hours. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+4511,Leaver account still active,Access Management,Sev3,Leaver account still active. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+4512,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. Affects multiple sites.
+4513,Transaction log growth uncontrolled, Database,Sev3,Transaction log growth uncontrolled. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+4515,Password reset not working,Access Management,Sev2,Password reset not working. Major degradation affecting a department. No recent changes were reported by the customer.
+4517,ERP to CRM sync failing,Integration,Sev3,ERP to CRM sync failing. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+4518,Customer portal page errors,Software,Sev3,Customer portal page errors. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+4519,Phishing campaign reported,Security,Sev2,Phishing campaign reported. Major degradation affecting a department. Affects a single site only.
+4520,Memory leak suspected in service,Performance,Sev2,Memory leak suspected in service. Major degradation affecting a department. Issue has happened before according to the customer.
+4522,Message queue backlog growing,Integration,Sev3,Message queue backlog growing. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+4523,Rack cooling alarm,Hardware,Sev2,Rack cooling alarm. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+4524,POS terminal not responding,Hardware,Sev3,POS terminal not responding. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+4525,Memory leak suspected in service,Performance,Sev4,Memory leak suspected in service. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+4526,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+4527,Report scheduler not running,Software,Sev1,Report scheduler not running. Business-critical outage affecting all users. Issue has happened before according to the customer.
+4528,Customer portal page errors,Software,Sev1,Customer portal page errors. Business-critical outage affecting all users. Requester asked for an update every few hours.
+4529,Memory leak suspected in service,Performance,Sev1,Memory leak suspected in service. Business-critical outage affecting all users. No recent changes were reported by the customer.
+4530,VPN tunnel drops intermittently,Network,Sev3,VPN tunnel drops intermittently. Limited impact with a workaround available. Affects multiple sites.

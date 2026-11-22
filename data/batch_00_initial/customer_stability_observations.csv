@@ -1,0 +1,3670 @@
+customer_id,snapshot_date,stability_status
+3,2025-01-01,very stable
+3,2025-01-02,very stable
+3,2025-01-03,very stable
+3,2025-01-04,very stable
+3,2025-01-05,very stable
+3,2025-01-06,very stable
+3,2025-01-07,very stable
+3,2025-01-08,very stable
+3,2025-01-09,very stable
+3,2025-01-11,very stable
+3,2025-01-14,very stable
+3,2025-01-16,very stable
+3,2025-01-18,very stable
+3,2025-01-20,very stable
+3,2025-01-21,very stable
+3,2025-01-22,very stable
+3,2025-01-23,very stable
+3,2025-01-24,very stable
+3,2025-01-26,very stable
+3,2025-01-27,stable
+3,2025-01-28,stable
+3,2025-01-29,stable
+3,2025-01-30,stable
+3,2025-01-31,stable
+3,2025-02-05,stable
+3,2025-02-07,stable
+3,2025-02-08,stable
+3,2025-02-13,stable
+3,2025-02-14,stable
+3,2025-02-15,stable
+3,2025-02-22,stable
+3,2025-02-23,stable
+3,2025-02-25,stable
+3,2025-02-26,stable
+3,2025-02-27,stable
+3,2025-02-28,stable
+3,2025-03-01,stable
+3,2025-03-02,stable
+3,2025-03-04,stable
+3,2025-03-06,stable
+3,2025-03-07,stable
+3,2025-03-08,stable
+3,2025-03-13,stable
+3,2025-03-14,stable
+3,2025-03-15,stable
+3,2025-03-16,stable
+3,2025-03-17,stable
+3,2025-03-18,stable
+3,2025-03-19,stable
+3,2025-03-20,stable
+3,2025-03-21,stable
+3,2025-03-22,stable
+3,2025-03-23,stable
+3,2025-03-25,stable
+3,2025-03-26,stable
+3,2025-03-27,stable
+3,2025-03-28,stable
+3,2025-03-30,stable
+3,2025-03-31,stable
+3,2025-04-02,stable
+3,2025-04-03,stable
+3,2025-04-04,stable
+3,2025-04-06,stable
+3,2025-04-07,stable
+3,2025-04-08,stable
+3,2025-04-09,stable
+3,2025-04-10,stable
+3,2025-04-14,stable
+3,2025-04-16,stable
+3,2025-04-17,stable
+3,2025-04-24,stable
+3,2025-04-25,stable
+3,2025-04-26,stable
+3,2025-04-27,stable
+3,2025-04-28,stable
+3,2025-04-29,stable
+3,2025-04-30,stable
+3,2025-05-01,stable
+3,2025-05-03,stable
+3,2025-05-04,stable
+3,2025-05-08,stable
+3,2025-05-09,stable
+3,2025-05-14,stable
+3,2025-05-15,stable
+3,2025-05-17,stable
+3,2025-05-21,stable
+3,2025-05-22,stable
+3,2025-05-24,stable
+3,2025-05-25,stable
+3,2025-05-26,stable
+3,2025-05-30,stable
+3,2025-05-31,stable
+3,2025-06-01,stable
+3,2025-06-03,stable
+3,2025-06-07,stable
+3,2025-06-08,stable
+3,2025-06-09,stable
+3,2025-06-10,stable
+3,2025-06-12,stable
+3,2025-06-13,stable
+3,2025-06-15,stable
+3,2025-06-16,stable
+3,2025-06-17,stable
+3,2025-06-18,stable
+3,2025-06-20,stable
+3,2025-06-21,stable
+3,2025-06-24,stable
+3,2025-06-25,stable
+11,2025-02-07,stable
+11,2025-02-09,stable
+11,2025-02-13,stable
+11,2025-02-15,stable
+11,2025-02-20,stable
+11,2025-02-26,stable
+11,2025-02-27,stable
+11,2025-02-28,stable
+11,2025-03-01,stable
+11,2025-03-02,stable
+11,2025-03-04,stable
+11,2025-03-05,stable
+11,2025-03-28,stable
+11,2025-03-29,stable
+11,2025-03-30,stable
+11,2025-03-31,stable
+11,2025-04-01,stable
+11,2025-04-02,stable
+11,2025-04-03,stable
+11,2025-04-04,stable
+11,2025-04-05,stable
+11,2025-04-08,stable
+11,2025-04-09,stable
+11,2025-04-10,stable
+11,2025-04-11,stable
+11,2025-04-12,stable
+11,2025-04-13,stable
+11,2025-04-15,stable
+11,2025-04-16,stable
+11,2025-04-23,stable
+11,2025-04-24,stable
+11,2025-04-25,stable
+11,2025-04-26,stable
+11,2025-05-06,stable
+11,2025-05-08,stable
+11,2025-05-10,stable
+11,2025-05-11,stable
+11,2025-05-12,stable
+11,2025-05-22,stable
+11,2025-05-23,stable
+11,2025-05-24,stable
+11,2025-05-26,stable
+11,2025-05-27,stable
+11,2025-05-28,stable
+11,2025-05-29,stable
+11,2025-05-30,stable
+11,2025-05-31,stable
+11,2025-06-01,stable
+11,2025-06-09,stable
+11,2025-06-11,stable
+11,2025-06-13,stable
+11,2025-06-15,stable
+11,2025-06-17,stable
+11,2025-06-18,stable
+11,2025-06-19,stable
+11,2025-06-21,stable
+11,2025-06-24,stable
+11,2025-06-25,stable
+11,2025-06-27,stable
+11,2025-06-29,stable
+12,2025-01-16,stable
+12,2025-02-09,stable
+12,2025-02-12,stable
+12,2025-02-14,stable
+12,2025-02-16,stable
+12,2025-02-17,stable
+12,2025-02-19,stable
+12,2025-02-21,stable
+12,2025-02-22,stable
+12,2025-02-23,stable
+12,2025-02-27,stable
+12,2025-02-28,stable
+12,2025-03-01,stable
+12,2025-03-02,stable
+12,2025-03-03,stable
+12,2025-03-05,stable
+12,2025-03-06,stable
+12,2025-03-07,stable
+12,2025-03-09,stable
+12,2025-03-12,very stable
+12,2025-03-13,very stable
+12,2025-03-14,very stable
+12,2025-03-26,very stable
+12,2025-03-27,very stable
+12,2025-03-28,very stable
+12,2025-03-30,very stable
+12,2025-04-04,very stable
+12,2025-04-07,very stable
+12,2025-04-08,very stable
+12,2025-04-09,very stable
+12,2025-04-10,very stable
+12,2025-04-11,very stable
+12,2025-04-12,very stable
+12,2025-04-13,very stable
+12,2025-04-16,very stable
+12,2025-05-07,very stable
+12,2025-05-08,very stable
+12,2025-05-11,very stable
+12,2025-05-12,stable
+12,2025-05-13,very stable
+12,2025-05-14,stable
+12,2025-05-16,stable
+12,2025-05-17,stable
+12,2025-05-18,stable
+12,2025-05-23,stable
+12,2025-05-25,stable
+12,2025-05-26,stable
+12,2025-05-31,very stable
+12,2025-06-01,very stable
+12,2025-06-02,very stable
+12,2025-06-14,stable
+12,2025-06-15,stable
+12,2025-06-16,stable
+12,2025-06-20,stable
+12,2025-06-21,stable
+12,2025-06-23,stable
+12,2025-06-24,natural
+12,2025-06-29,natural
+12,2025-06-30,natural
+15,2025-01-26,stable
+15,2025-01-29,stable
+15,2025-01-30,stable
+15,2025-01-31,stable
+15,2025-02-01,stable
+15,2025-02-02,stable
+15,2025-02-09,stable
+15,2025-02-11,stable
+15,2025-02-12,stable
+15,2025-02-22,stable
+15,2025-02-24,stable
+15,2025-02-25,stable
+15,2025-02-26,stable
+15,2025-02-28,stable
+15,2025-03-02,stable
+15,2025-03-05,stable
+15,2025-03-07,stable
+15,2025-03-09,stable
+15,2025-03-11,stable
+15,2025-03-12,stable
+15,2025-03-14,stable
+15,2025-03-15,stable
+15,2025-03-17,stable
+15,2025-03-18,stable
+15,2025-03-19,stable
+15,2025-03-20,stable
+15,2025-03-21,stable
+15,2025-03-22,stable
+15,2025-03-25,stable
+15,2025-03-26,stable
+15,2025-04-06,stable
+15,2025-04-07,stable
+15,2025-04-08,stable
+15,2025-04-09,stable
+15,2025-04-10,stable
+15,2025-04-11,stable
+15,2025-04-14,stable
+15,2025-04-15,stable
+15,2025-04-17,stable
+15,2025-04-20,stable
+15,2025-04-21,stable
+15,2025-04-22,stable
+15,2025-04-23,stable
+15,2025-04-26,stable
+15,2025-04-27,stable
+15,2025-04-28,stable
+15,2025-04-29,stable
+15,2025-04-30,stable
+15,2025-05-01,stable
+15,2025-05-02,stable
+15,2025-05-03,stable
+15,2025-05-20,stable
+15,2025-05-22,stable
+15,2025-05-23,stable
+15,2025-05-24,stable
+15,2025-05-25,stable
+15,2025-05-27,stable
+15,2025-05-28,stable
+15,2025-05-29,stable
+15,2025-06-03,stable
+15,2025-06-05,stable
+15,2025-06-07,stable
+15,2025-06-08,stable
+15,2025-06-09,stable
+15,2025-06-10,stable
+15,2025-06-11,stable
+15,2025-06-12,stable
+15,2025-06-28,stable
+15,2025-06-30,stable
+16,2025-01-01,natural
+16,2025-01-03,natural
+16,2025-01-05,natural
+16,2025-01-07,natural
+16,2025-01-08,natural
+16,2025-01-09,natural
+16,2025-01-10,natural
+16,2025-01-13,natural
+16,2025-01-14,natural
+16,2025-01-16,natural
+16,2025-01-17,natural
+16,2025-01-21,natural
+16,2025-01-25,natural
+16,2025-01-31,natural
+16,2025-02-01,natural
+16,2025-02-02,natural
+16,2025-02-07,natural
+16,2025-02-10,natural
+16,2025-02-11,natural
+16,2025-02-12,natural
+16,2025-02-17,natural
+16,2025-02-18,natural
+16,2025-02-19,natural
+16,2025-02-20,natural
+16,2025-02-21,natural
+16,2025-02-23,natural
+16,2025-02-24,natural
+16,2025-02-28,natural
+16,2025-03-01,natural
+16,2025-03-03,natural
+16,2025-03-05,natural
+16,2025-03-14,natural
+16,2025-03-15,natural
+16,2025-03-16,natural
+16,2025-03-17,natural
+16,2025-03-18,natural
+16,2025-03-19,natural
+16,2025-03-21,natural
+16,2025-03-22,natural
+16,2025-03-24,natural
+16,2025-03-26,natural
+16,2025-04-05,natural
+16,2025-04-07,natural
+16,2025-04-08,natural
+16,2025-04-11,stable
+16,2025-04-12,stable
+16,2025-04-14,stable
+16,2025-04-18,stable
+16,2025-04-20,stable
+16,2025-04-21,stable
+16,2025-04-22,stable
+16,2025-04-25,stable
+16,2025-04-26,stable
+16,2025-04-27,stable
+16,2025-05-02,stable
+16,2025-05-04,stable
+16,2025-05-05,stable
+16,2025-05-06,stable
+16,2025-05-07,stable
+16,2025-05-09,stable
+16,2025-05-10,stable
+16,2025-05-11,stable
+16,2025-05-12,stable
+16,2025-05-15,stable
+16,2025-05-16,stable
+16,2025-05-17,stable
+16,2025-05-18,stable
+16,2025-05-19,stable
+16,2025-05-20,stable
+16,2025-05-27,stable
+16,2025-05-28,stable
+16,2025-05-29,stable
+16,2025-06-01,stable
+16,2025-06-03,stable
+16,2025-06-04,stable
+16,2025-06-05,stable
+16,2025-06-07,stable
+16,2025-06-08,stable
+16,2025-06-09,stable
+16,2025-06-10,stable
+16,2025-06-11,stable
+16,2025-06-18,stable
+16,2025-06-21,stable
+16,2025-06-22,stable
+16,2025-06-25,stable
+16,2025-06-27,stable
+20,2025-01-01,unstable
+20,2025-01-03,unstable
+20,2025-01-04,unstable
+20,2025-01-05,unstable
+20,2025-01-06,unstable
+20,2025-01-07,unstable
+20,2025-01-08,unstable
+20,2025-01-15,unstable
+20,2025-01-23,unstable
+20,2025-01-24,unstable
+20,2025-01-25,unstable
+20,2025-02-15,unstable
+20,2025-02-16,unstable
+20,2025-02-17,unstable
+20,2025-03-13,unstable
+20,2025-03-14,unstable
+20,2025-03-16,unstable
+20,2025-03-17,unstable
+20,2025-03-18,stable
+20,2025-03-20,stable
+20,2025-03-21,stable
+20,2025-03-22,stable
+20,2025-03-25,stable
+20,2025-03-28,stable
+20,2025-03-29,stable
+20,2025-03-30,natural
+20,2025-04-02,natural
+20,2025-04-03,natural
+20,2025-04-09,natural
+20,2025-04-10,natural
+20,2025-04-11,natural
+20,2025-04-18,natural
+20,2025-04-20,natural
+20,2025-04-21,natural
+20,2025-04-22,natural
+20,2025-04-23,natural
+20,2025-04-28,natural
+20,2025-04-29,natural
+20,2025-04-30,natural
+20,2025-05-01,natural
+20,2025-05-02,natural
+20,2025-05-03,natural
+20,2025-05-05,natural
+20,2025-05-06,very stable
+20,2025-05-07,very stable
+20,2025-05-08,very stable
+20,2025-05-11,very stable
+20,2025-05-14,very stable
+20,2025-05-15,very stable
+20,2025-05-16,very stable
+20,2025-05-17,very stable
+20,2025-05-19,very stable
+20,2025-05-22,very stable
+20,2025-05-24,very stable
+20,2025-05-26,very stable
+20,2025-05-27,very stable
+20,2025-06-05,very stable
+20,2025-06-06,very stable
+20,2025-06-08,very stable
+20,2025-06-09,very stable
+22,2025-01-20,very stable
+22,2025-01-21,very stable
+22,2025-01-22,very stable
+22,2025-01-24,very stable
+22,2025-01-26,very stable
+22,2025-01-27,very stable
+22,2025-01-28,very stable
+22,2025-01-29,very stable
+22,2025-01-30,very stable
+22,2025-01-31,very stable
+22,2025-02-16,very stable
+22,2025-02-17,very stable
+22,2025-02-22,very stable
+22,2025-02-25,very stable
+22,2025-02-27,very stable
+22,2025-03-10,very stable
+22,2025-03-11,very stable
+22,2025-03-12,very stable
+22,2025-03-13,very stable
+22,2025-03-16,very stable
+22,2025-03-17,very stable
+22,2025-03-24,very stable
+22,2025-03-25,very stable
+22,2025-03-26,very stable
+22,2025-04-06,very stable
+22,2025-04-08,very stable
+22,2025-04-10,stable
+22,2025-04-19,stable
+22,2025-04-21,stable
+22,2025-04-22,stable
+22,2025-04-25,stable
+22,2025-04-26,stable
+22,2025-04-28,stable
+22,2025-04-29,stable
+22,2025-04-30,stable
+22,2025-05-01,stable
+22,2025-05-03,stable
+22,2025-05-06,stable
+22,2025-05-11,natural
+22,2025-05-12,natural
+22,2025-05-14,natural
+22,2025-05-15,natural
+22,2025-05-16,natural
+22,2025-05-17,natural
+22,2025-05-18,natural
+22,2025-05-19,natural
+22,2025-05-21,natural
+22,2025-06-11,natural
+22,2025-06-23,natural
+22,2025-06-26,natural
+22,2025-06-27,natural
+22,2025-06-28,natural
+22,2025-06-29,natural
+24,2025-02-10,very unstable
+24,2025-02-11,very unstable
+24,2025-02-13,very unstable
+24,2025-02-15,very unstable
+24,2025-02-16,very unstable
+24,2025-02-17,very unstable
+24,2025-02-26,very unstable
+24,2025-03-01,very unstable
+24,2025-03-03,very unstable
+24,2025-03-04,very unstable
+24,2025-03-05,unstable
+24,2025-03-07,unstable
+24,2025-03-08,unstable
+24,2025-03-09,unstable
+24,2025-03-10,unstable
+24,2025-03-11,natural
+24,2025-03-12,natural
+24,2025-03-13,natural
+24,2025-03-14,natural
+24,2025-03-15,natural
+24,2025-03-16,very stable
+24,2025-03-17,very stable
+24,2025-03-18,very stable
+24,2025-03-19,very stable
+24,2025-03-22,very stable
+24,2025-04-01,very stable
+24,2025-04-11,very stable
+24,2025-04-14,very stable
+24,2025-04-15,very stable
+24,2025-04-17,very stable
+24,2025-04-18,very stable
+24,2025-04-20,very stable
+24,2025-04-21,very stable
+24,2025-04-23,very stable
+24,2025-04-24,very stable
+24,2025-04-25,very stable
+24,2025-04-26,very stable
+24,2025-04-28,very stable
+24,2025-04-29,very stable
+24,2025-05-01,very stable
+24,2025-05-11,very stable
+24,2025-05-22,very stable
+24,2025-05-23,very stable
+24,2025-06-06,very stable
+24,2025-06-08,very stable
+24,2025-06-09,very stable
+24,2025-06-10,very stable
+24,2025-06-11,very stable
+24,2025-06-13,very stable
+24,2025-06-14,very stable
+24,2025-06-15,very stable
+24,2025-06-18,very stable
+24,2025-06-20,very stable
+24,2025-06-22,very stable
+24,2025-06-23,very stable
+24,2025-06-25,very stable
+24,2025-06-27,very stable
+24,2025-06-28,very stable
+25,2025-03-26,very stable
+25,2025-03-27,very stable
+25,2025-03-29,very stable
+25,2025-04-12,very stable
+25,2025-04-13,very stable
+25,2025-04-14,very stable
+25,2025-04-15,very stable
+25,2025-04-16,very stable
+25,2025-04-20,very stable
+25,2025-04-21,very stable
+25,2025-04-22,very stable
+25,2025-04-23,very stable
+25,2025-04-25,very stable
+25,2025-04-27,very stable
+25,2025-05-02,very stable
+25,2025-05-11,very stable
+25,2025-05-13,very stable
+25,2025-05-14,very stable
+25,2025-05-16,very stable
+25,2025-05-17,very stable
+25,2025-05-18,very stable
+25,2025-05-22,very stable
+25,2025-05-23,very stable
+25,2025-05-27,very stable
+25,2025-05-29,very stable
+25,2025-05-30,very stable
+25,2025-06-03,very stable
+25,2025-06-04,very stable
+25,2025-06-05,very stable
+25,2025-06-06,very stable
+25,2025-06-07,very stable
+25,2025-06-08,very stable
+25,2025-06-10,very stable
+25,2025-06-11,very stable
+25,2025-06-14,very stable
+25,2025-06-15,very stable
+25,2025-06-16,very stable
+25,2025-06-17,very stable
+25,2025-06-18,very stable
+25,2025-06-19,very stable
+25,2025-06-20,very stable
+25,2025-06-21,very stable
+25,2025-06-23,very stable
+25,2025-06-25,very stable
+26,2025-04-28,very stable
+26,2025-04-29,very stable
+26,2025-04-30,very stable
+26,2025-05-01,very stable
+26,2025-05-02,stable
+26,2025-05-03,stable
+26,2025-05-05,stable
+26,2025-05-06,stable
+26,2025-05-07,stable
+26,2025-05-09,stable
+26,2025-05-12,stable
+26,2025-05-13,stable
+26,2025-05-16,natural
+26,2025-05-17,natural
+26,2025-05-21,natural
+26,2025-05-22,natural
+26,2025-06-03,natural
+26,2025-06-04,natural
+26,2025-06-05,natural
+26,2025-06-07,natural
+26,2025-06-08,natural
+26,2025-06-09,natural
+26,2025-06-10,unstable
+26,2025-06-11,unstable
+26,2025-06-12,unstable
+26,2025-06-13,unstable
+26,2025-06-14,unstable
+26,2025-06-19,unstable
+26,2025-06-20,unstable
+26,2025-06-21,unstable
+26,2025-06-24,unstable
+26,2025-06-26,unstable
+26,2025-06-28,unstable
+26,2025-06-29,unstable
+34,2025-01-01,very stable
+34,2025-01-04,very stable
+34,2025-01-17,very stable
+34,2025-01-18,very stable
+34,2025-01-19,very stable
+34,2025-01-20,very stable
+34,2025-01-22,very stable
+34,2025-01-23,very stable
+34,2025-01-25,very stable
+34,2025-01-26,very stable
+34,2025-01-28,very stable
+34,2025-01-29,very stable
+34,2025-01-30,very stable
+34,2025-02-07,very stable
+34,2025-02-08,very stable
+34,2025-02-10,very stable
+34,2025-02-11,very stable
+34,2025-02-12,very stable
+34,2025-02-13,very stable
+34,2025-02-14,very stable
+34,2025-02-18,very stable
+34,2025-02-19,very stable
+34,2025-02-21,very stable
+34,2025-02-25,very stable
+34,2025-02-27,very stable
+34,2025-03-03,very stable
+34,2025-03-15,very stable
+34,2025-03-22,very stable
+34,2025-03-24,very stable
+34,2025-03-28,very stable
+34,2025-03-29,very stable
+34,2025-03-30,very stable
+34,2025-04-04,very stable
+34,2025-04-05,very stable
+34,2025-04-08,very stable
+34,2025-04-09,very stable
+34,2025-04-10,very stable
+34,2025-04-11,very stable
+34,2025-04-13,very stable
+34,2025-04-14,very stable
+34,2025-04-16,very stable
+34,2025-04-17,very stable
+34,2025-04-19,very stable
+34,2025-04-20,very stable
+34,2025-04-28,very stable
+34,2025-04-30,very stable
+34,2025-05-02,very stable
+34,2025-05-05,very stable
+34,2025-05-06,very stable
+34,2025-05-07,very stable
+34,2025-05-08,very stable
+34,2025-05-09,very stable
+34,2025-05-11,very stable
+34,2025-05-13,very stable
+34,2025-05-15,very stable
+34,2025-05-17,very stable
+34,2025-05-20,very stable
+34,2025-06-11,very stable
+34,2025-06-12,very stable
+34,2025-06-17,very stable
+34,2025-06-29,very stable
+34,2025-06-30,very stable
+39,2025-01-01,stable
+39,2025-01-02,stable
+39,2025-01-03,stable
+39,2025-01-04,stable
+39,2025-01-06,stable
+39,2025-01-07,stable
+39,2025-02-01,stable
+39,2025-02-03,stable
+39,2025-02-04,stable
+39,2025-02-11,stable
+39,2025-02-12,stable
+39,2025-02-16,stable
+39,2025-02-17,stable
+39,2025-02-18,stable
+39,2025-02-19,stable
+39,2025-02-20,stable
+39,2025-02-21,stable
+39,2025-02-22,stable
+39,2025-02-23,stable
+39,2025-02-24,stable
+39,2025-02-25,stable
+39,2025-02-26,stable
+39,2025-02-27,stable
+39,2025-03-04,stable
+39,2025-03-06,stable
+39,2025-03-07,stable
+39,2025-03-08,stable
+39,2025-03-09,stable
+39,2025-03-10,stable
+39,2025-03-12,stable
+39,2025-03-13,stable
+39,2025-03-20,stable
+39,2025-03-21,stable
+39,2025-03-23,very stable
+39,2025-03-25,very stable
+39,2025-03-26,very stable
+39,2025-03-27,very stable
+39,2025-03-28,very stable
+39,2025-03-29,very stable
+39,2025-03-30,very stable
+39,2025-04-02,very stable
+39,2025-04-03,very stable
+39,2025-04-04,very stable
+39,2025-04-09,very stable
+39,2025-04-10,very stable
+39,2025-04-11,very stable
+39,2025-04-12,very stable
+39,2025-04-13,stable
+39,2025-04-14,stable
+39,2025-04-16,stable
+39,2025-04-17,stable
+39,2025-04-18,stable
+39,2025-04-20,stable
+39,2025-04-21,stable
+39,2025-04-22,stable
+39,2025-04-27,stable
+39,2025-04-30,stable
+39,2025-05-01,stable
+39,2025-05-02,stable
+39,2025-05-03,stable
+39,2025-05-04,stable
+39,2025-05-05,stable
+39,2025-05-17,stable
+39,2025-05-18,stable
+39,2025-05-19,stable
+39,2025-05-20,stable
+39,2025-05-21,stable
+39,2025-05-22,stable
+39,2025-05-25,stable
+39,2025-05-26,stable
+39,2025-05-30,stable
+39,2025-06-10,stable
+39,2025-06-11,stable
+39,2025-06-14,natural
+39,2025-06-19,natural
+39,2025-06-20,natural
+39,2025-06-21,natural
+39,2025-06-23,natural
+39,2025-06-28,natural
+42,2025-01-01,very unstable
+42,2025-01-04,very unstable
+42,2025-01-05,very unstable
+42,2025-01-06,very unstable
+42,2025-01-07,very unstable
+42,2025-01-08,very unstable
+42,2025-01-10,very unstable
+42,2025-01-12,very unstable
+42,2025-01-19,very unstable
+42,2025-01-20,very unstable
+42,2025-01-21,very unstable
+42,2025-01-23,very unstable
+42,2025-01-25,very unstable
+42,2025-01-29,very unstable
+42,2025-01-30,natural
+42,2025-01-31,natural
+42,2025-02-01,natural
+42,2025-02-02,natural
+42,2025-02-04,natural
+42,2025-02-05,natural
+42,2025-02-07,natural
+42,2025-02-08,natural
+42,2025-02-09,natural
+42,2025-02-10,natural
+42,2025-02-11,natural
+42,2025-02-12,natural
+42,2025-02-23,natural
+42,2025-02-26,natural
+42,2025-03-03,natural
+42,2025-03-05,natural
+42,2025-03-06,natural
+42,2025-03-11,natural
+42,2025-03-12,natural
+42,2025-03-13,natural
+42,2025-03-14,natural
+42,2025-03-19,natural
+42,2025-03-21,natural
+42,2025-04-10,natural
+42,2025-05-05,natural
+42,2025-05-06,natural
+42,2025-05-08,natural
+42,2025-05-10,natural
+42,2025-05-12,very stable
+42,2025-05-13,very stable
+42,2025-05-15,very stable
+42,2025-05-16,very stable
+42,2025-05-18,very stable
+42,2025-05-21,very stable
+42,2025-05-22,very stable
+42,2025-05-23,very stable
+42,2025-05-24,very stable
+42,2025-05-26,very stable
+42,2025-05-27,very stable
+42,2025-05-28,very stable
+42,2025-05-30,very stable
+42,2025-05-31,very stable
+42,2025-06-01,very stable
+42,2025-06-13,very stable
+42,2025-06-16,very stable
+42,2025-06-17,very stable
+42,2025-06-18,very stable
+42,2025-06-19,very stable
+42,2025-06-23,very stable
+44,2025-01-01,natural
+44,2025-01-02,natural
+44,2025-01-03,natural
+44,2025-01-04,natural
+44,2025-01-07,natural
+44,2025-01-08,natural
+44,2025-01-31,natural
+44,2025-02-02,natural
+44,2025-02-03,natural
+44,2025-02-05,natural
+44,2025-02-06,natural
+44,2025-02-18,natural
+44,2025-02-19,natural
+44,2025-02-20,stable
+44,2025-02-21,stable
+44,2025-02-23,stable
+44,2025-02-24,stable
+44,2025-02-25,stable
+44,2025-02-26,stable
+44,2025-02-27,stable
+44,2025-02-28,stable
+44,2025-03-01,stable
+44,2025-03-02,stable
+44,2025-03-03,stable
+44,2025-03-22,stable
+44,2025-03-24,stable
+44,2025-03-25,stable
+44,2025-03-28,stable
+44,2025-04-01,stable
+44,2025-04-02,stable
+44,2025-04-04,stable
+44,2025-04-09,unstable
+44,2025-04-10,unstable
+44,2025-04-13,unstable
+44,2025-04-14,unstable
+44,2025-04-15,unstable
+44,2025-04-16,unstable
+44,2025-04-17,unstable
+44,2025-04-18,unstable
+44,2025-04-23,unstable
+44,2025-04-24,unstable
+44,2025-04-25,unstable
+44,2025-04-26,unstable
+44,2025-04-27,natural
+44,2025-05-20,natural
+44,2025-06-14,natural
+44,2025-06-15,natural
+44,2025-06-16,natural
+44,2025-06-18,natural
+44,2025-06-19,natural
+44,2025-06-26,natural
+44,2025-06-27,natural
+44,2025-06-28,natural
+44,2025-06-29,natural
+44,2025-06-30,natural
+47,2025-01-01,unstable
+47,2025-01-02,unstable
+47,2025-01-03,unstable
+47,2025-01-11,unstable
+47,2025-01-12,unstable
+47,2025-01-13,natural
+47,2025-01-15,natural
+47,2025-01-16,natural
+47,2025-01-17,natural
+47,2025-01-18,natural
+47,2025-01-19,natural
+47,2025-01-20,natural
+47,2025-02-10,natural
+47,2025-02-14,natural
+47,2025-02-15,natural
+47,2025-02-18,natural
+47,2025-02-19,natural
+47,2025-02-20,natural
+47,2025-02-22,natural
+47,2025-02-25,natural
+47,2025-02-26,natural
+47,2025-03-01,natural
+47,2025-03-08,natural
+47,2025-03-10,natural
+47,2025-03-30,natural
+47,2025-04-02,natural
+47,2025-04-04,natural
+47,2025-04-05,natural
+47,2025-04-06,natural
+47,2025-04-11,natural
+47,2025-04-12,natural
+47,2025-04-14,natural
+47,2025-04-19,natural
+47,2025-04-20,natural
+47,2025-04-21,natural
+47,2025-04-23,natural
+47,2025-04-24,natural
+47,2025-04-28,natural
+47,2025-04-29,natural
+47,2025-04-30,natural
+47,2025-05-05,natural
+47,2025-05-09,natural
+47,2025-05-11,natural
+47,2025-05-16,natural
+47,2025-05-20,natural
+47,2025-05-22,natural
+47,2025-05-23,natural
+47,2025-05-25,natural
+47,2025-05-26,natural
+47,2025-05-28,natural
+47,2025-05-29,natural
+47,2025-05-30,natural
+47,2025-05-31,natural
+47,2025-06-02,natural
+47,2025-06-03,natural
+47,2025-06-06,natural
+47,2025-06-07,natural
+47,2025-06-08,natural
+47,2025-06-09,natural
+47,2025-06-11,natural
+47,2025-06-13,natural
+47,2025-06-15,natural
+47,2025-06-16,natural
+47,2025-06-17,natural
+47,2025-06-18,natural
+47,2025-06-22,natural
+47,2025-06-23,natural
+47,2025-06-24,natural
+47,2025-06-30,natural
+50,2025-01-01,very stable
+50,2025-01-02,very stable
+50,2025-01-03,very stable
+50,2025-01-04,very stable
+50,2025-01-05,very stable
+50,2025-01-10,very stable
+50,2025-01-27,very stable
+50,2025-01-28,very stable
+50,2025-01-29,very stable
+50,2025-01-30,natural
+50,2025-02-01,natural
+50,2025-02-02,natural
+50,2025-02-03,natural
+50,2025-02-04,natural
+50,2025-02-06,natural
+50,2025-02-07,natural
+50,2025-02-08,natural
+50,2025-02-11,natural
+50,2025-02-13,natural
+50,2025-02-15,natural
+50,2025-02-16,natural
+50,2025-02-18,natural
+50,2025-02-28,natural
+50,2025-03-01,natural
+50,2025-03-02,natural
+50,2025-03-03,natural
+50,2025-03-05,natural
+50,2025-03-08,natural
+50,2025-03-09,natural
+50,2025-03-10,very unstable
+50,2025-03-14,very unstable
+50,2025-03-15,very unstable
+50,2025-03-16,very unstable
+50,2025-03-17,very unstable
+50,2025-03-23,very unstable
+50,2025-03-24,very unstable
+50,2025-03-27,very unstable
+50,2025-03-28,very unstable
+50,2025-03-29,very unstable
+50,2025-03-30,very unstable
+50,2025-04-01,very unstable
+50,2025-04-02,very unstable
+50,2025-04-03,very unstable
+50,2025-04-08,very unstable
+50,2025-04-09,very unstable
+50,2025-04-11,very unstable
+50,2025-04-15,very unstable
+50,2025-04-17,very unstable
+50,2025-04-18,very unstable
+50,2025-04-21,very unstable
+50,2025-04-23,very unstable
+50,2025-04-24,very unstable
+50,2025-04-25,very unstable
+50,2025-04-26,very unstable
+50,2025-04-27,very unstable
+50,2025-05-01,very unstable
+50,2025-05-02,very unstable
+50,2025-05-04,very unstable
+50,2025-05-05,very unstable
+50,2025-05-16,very unstable
+50,2025-05-17,very unstable
+50,2025-05-19,very unstable
+50,2025-05-20,very unstable
+50,2025-05-21,very unstable
+50,2025-05-22,very unstable
+50,2025-05-23,very unstable
+50,2025-05-25,very unstable
+50,2025-05-27,very unstable
+50,2025-06-11,very unstable
+50,2025-06-13,very unstable
+50,2025-06-15,very unstable
+50,2025-06-18,very unstable
+50,2025-06-19,very unstable
+50,2025-06-20,very unstable
+50,2025-06-21,very unstable
+50,2025-06-22,very unstable
+50,2025-06-23,very unstable
+50,2025-06-24,very unstable
+50,2025-06-25,very unstable
+50,2025-06-30,very unstable
+53,2025-02-05,unstable
+53,2025-02-06,unstable
+53,2025-02-08,unstable
+53,2025-02-12,unstable
+53,2025-02-17,unstable
+53,2025-02-18,unstable
+53,2025-02-19,unstable
+53,2025-02-21,unstable
+53,2025-02-24,unstable
+53,2025-02-26,unstable
+53,2025-02-27,unstable
+53,2025-02-28,unstable
+53,2025-03-01,unstable
+53,2025-03-02,unstable
+53,2025-03-03,unstable
+53,2025-03-08,unstable
+53,2025-03-09,unstable
+53,2025-03-10,unstable
+53,2025-03-11,unstable
+53,2025-03-12,unstable
+53,2025-03-13,unstable
+53,2025-03-14,unstable
+53,2025-03-15,unstable
+53,2025-03-16,unstable
+53,2025-03-17,unstable
+53,2025-03-18,unstable
+53,2025-03-19,unstable
+53,2025-03-20,unstable
+53,2025-03-21,unstable
+53,2025-03-22,unstable
+53,2025-03-23,unstable
+53,2025-03-24,unstable
+53,2025-03-25,unstable
+53,2025-03-27,unstable
+53,2025-03-28,unstable
+53,2025-03-31,unstable
+53,2025-04-01,unstable
+53,2025-04-02,unstable
+53,2025-04-03,unstable
+53,2025-04-09,unstable
+53,2025-04-14,unstable
+53,2025-04-16,unstable
+53,2025-04-19,unstable
+53,2025-04-20,unstable
+53,2025-04-23,unstable
+53,2025-04-25,unstable
+53,2025-04-27,unstable
+53,2025-04-28,unstable
+53,2025-04-29,unstable
+53,2025-04-30,unstable
+53,2025-05-01,unstable
+53,2025-05-03,unstable
+53,2025-05-04,unstable
+53,2025-05-05,unstable
+53,2025-05-07,unstable
+53,2025-05-10,unstable
+53,2025-05-12,unstable
+53,2025-05-13,unstable
+53,2025-05-14,unstable
+53,2025-05-15,unstable
+53,2025-05-16,unstable
+53,2025-05-24,unstable
+53,2025-05-25,unstable
+53,2025-05-28,unstable
+53,2025-05-29,unstable
+53,2025-06-02,unstable
+53,2025-06-03,unstable
+53,2025-06-04,unstable
+53,2025-06-05,unstable
+53,2025-06-08,unstable
+53,2025-06-10,unstable
+53,2025-06-12,unstable
+53,2025-06-14,unstable
+53,2025-06-15,unstable
+53,2025-06-16,unstable
+57,2025-01-01,stable
+57,2025-01-04,stable
+57,2025-01-05,stable
+57,2025-01-07,stable
+57,2025-01-08,stable
+57,2025-01-11,stable
+57,2025-01-12,stable
+57,2025-01-16,stable
+57,2025-01-17,stable
+57,2025-01-18,stable
+57,2025-01-19,stable
+57,2025-01-20,stable
+57,2025-01-23,stable
+57,2025-01-24,stable
+57,2025-01-25,stable
+57,2025-01-26,stable
+57,2025-01-28,stable
+57,2025-01-29,stable
+57,2025-01-30,stable
+57,2025-01-31,stable
+57,2025-02-01,stable
+57,2025-02-02,stable
+57,2025-02-04,stable
+57,2025-02-05,stable
+57,2025-02-23,stable
+57,2025-02-24,stable
+57,2025-02-26,stable
+57,2025-03-01,stable
+57,2025-03-02,stable
+57,2025-03-03,stable
+57,2025-03-04,stable
+57,2025-03-05,stable
+57,2025-03-06,stable
+57,2025-03-08,stable
+57,2025-03-09,stable
+57,2025-03-10,stable
+57,2025-03-13,stable
+57,2025-03-15,stable
+57,2025-03-16,stable
+57,2025-03-19,stable
+57,2025-03-20,stable
+57,2025-03-23,stable
+57,2025-03-24,stable
+57,2025-03-25,stable
+57,2025-03-26,stable
+57,2025-03-27,stable
+57,2025-03-28,stable
+57,2025-03-29,stable
+57,2025-03-31,stable
+57,2025-04-01,stable
+57,2025-04-02,stable
+57,2025-04-03,stable
+57,2025-04-05,stable
+57,2025-04-06,stable
+57,2025-04-07,stable
+57,2025-04-08,stable
+57,2025-04-09,stable
+57,2025-04-10,stable
+57,2025-04-11,stable
+57,2025-04-12,stable
+57,2025-04-17,stable
+57,2025-04-18,stable
+57,2025-04-19,stable
+57,2025-04-20,stable
+57,2025-04-22,stable
+57,2025-04-23,stable
+57,2025-04-24,stable
+57,2025-04-26,stable
+57,2025-04-29,very stable
+57,2025-05-02,very stable
+57,2025-05-03,stable
+57,2025-05-04,stable
+57,2025-05-14,stable
+57,2025-05-15,stable
+57,2025-05-16,stable
+57,2025-05-17,stable
+57,2025-05-18,stable
+57,2025-05-27,stable
+57,2025-05-28,stable
+57,2025-05-30,stable
+57,2025-05-31,stable
+57,2025-06-03,stable
+57,2025-06-07,stable
+57,2025-06-08,stable
+57,2025-06-09,stable
+57,2025-06-10,stable
+57,2025-06-13,very stable
+57,2025-06-14,very stable
+57,2025-06-16,very stable
+57,2025-06-17,very stable
+57,2025-06-22,very stable
+57,2025-06-23,very stable
+57,2025-06-27,very stable
+57,2025-06-28,very stable
+57,2025-06-29,very stable
+57,2025-06-30,very stable
+66,2025-02-03,stable
+66,2025-02-04,stable
+66,2025-02-06,stable
+66,2025-02-24,stable
+66,2025-03-07,stable
+66,2025-03-09,stable
+66,2025-03-11,stable
+66,2025-03-12,stable
+66,2025-03-13,stable
+66,2025-03-14,stable
+66,2025-03-15,stable
+66,2025-03-16,stable
+66,2025-03-18,stable
+66,2025-03-19,stable
+66,2025-03-20,stable
+66,2025-03-23,stable
+66,2025-03-25,stable
+66,2025-03-26,stable
+66,2025-03-28,stable
+66,2025-03-29,stable
+66,2025-03-30,stable
+66,2025-03-31,stable
+66,2025-04-01,stable
+66,2025-04-02,stable
+66,2025-04-03,stable
+66,2025-04-22,stable
+66,2025-04-27,stable
+66,2025-04-28,stable
+66,2025-04-29,stable
+66,2025-05-01,stable
+66,2025-05-02,stable
+66,2025-05-03,stable
+66,2025-05-05,stable
+66,2025-05-06,stable
+66,2025-05-07,stable
+66,2025-05-08,stable
+66,2025-05-13,stable
+66,2025-05-14,stable
+66,2025-05-16,stable
+66,2025-05-28,stable
+66,2025-06-05,stable
+66,2025-06-13,stable
+66,2025-06-15,stable
+66,2025-06-25,stable
+66,2025-06-26,stable
+66,2025-06-27,stable
+66,2025-06-29,stable
+66,2025-06-30,stable
+70,2025-02-02,natural
+70,2025-02-03,natural
+70,2025-02-08,natural
+70,2025-02-10,natural
+70,2025-02-11,natural
+70,2025-02-12,natural
+70,2025-02-13,natural
+70,2025-02-14,natural
+70,2025-02-18,natural
+70,2025-02-20,natural
+70,2025-02-21,natural
+70,2025-02-22,natural
+70,2025-02-24,natural
+70,2025-02-26,natural
+70,2025-03-10,natural
+70,2025-03-20,unstable
+70,2025-03-21,unstable
+70,2025-03-22,unstable
+70,2025-03-24,unstable
+70,2025-03-25,unstable
+70,2025-03-26,unstable
+70,2025-03-30,natural
+70,2025-03-31,natural
+70,2025-04-01,natural
+70,2025-04-03,natural
+70,2025-04-04,natural
+70,2025-04-05,natural
+70,2025-04-06,natural
+70,2025-04-09,natural
+70,2025-04-12,natural
+70,2025-04-13,natural
+70,2025-04-15,natural
+70,2025-04-16,natural
+70,2025-04-17,natural
+70,2025-04-18,natural
+70,2025-04-22,natural
+70,2025-04-25,natural
+70,2025-05-02,natural
+70,2025-05-04,natural
+70,2025-05-05,natural
+70,2025-05-06,natural
+70,2025-05-07,natural
+70,2025-05-08,natural
+70,2025-05-09,unstable
+70,2025-05-10,unstable
+70,2025-05-11,unstable
+70,2025-05-12,unstable
+70,2025-05-13,unstable
+70,2025-05-14,unstable
+70,2025-06-06,unstable
+70,2025-06-09,unstable
+70,2025-06-10,unstable
+70,2025-06-13,unstable
+70,2025-06-14,unstable
+70,2025-06-16,unstable
+70,2025-06-17,natural
+70,2025-06-26,natural
+70,2025-06-27,natural
+70,2025-06-28,natural
+70,2025-06-29,natural
+70,2025-06-30,natural
+75,2025-01-01,natural
+75,2025-01-03,natural
+75,2025-01-04,natural
+75,2025-01-15,natural
+75,2025-01-16,natural
+75,2025-01-17,natural
+75,2025-01-18,natural
+75,2025-02-05,natural
+75,2025-02-06,natural
+75,2025-02-07,natural
+75,2025-02-08,natural
+75,2025-02-09,natural
+75,2025-02-10,natural
+75,2025-02-11,natural
+75,2025-02-15,natural
+75,2025-02-17,natural
+75,2025-02-19,natural
+75,2025-02-20,natural
+75,2025-02-21,unstable
+75,2025-02-22,unstable
+75,2025-02-23,unstable
+75,2025-02-24,natural
+75,2025-02-26,unstable
+75,2025-03-05,unstable
+75,2025-03-06,unstable
+75,2025-03-09,unstable
+75,2025-03-10,unstable
+75,2025-03-14,unstable
+75,2025-03-15,unstable
+75,2025-03-24,unstable
+75,2025-03-25,unstable
+75,2025-03-26,unstable
+75,2025-03-27,unstable
+75,2025-03-28,unstable
+75,2025-03-30,unstable
+75,2025-04-03,unstable
+75,2025-04-04,natural
+75,2025-04-05,natural
+75,2025-04-06,natural
+75,2025-04-07,natural
+75,2025-04-14,natural
+75,2025-04-15,unstable
+75,2025-04-16,natural
+75,2025-04-17,natural
+75,2025-04-18,natural
+75,2025-04-19,natural
+75,2025-04-20,natural
+75,2025-04-23,natural
+75,2025-04-27,natural
+75,2025-04-30,natural
+75,2025-05-02,natural
+75,2025-05-03,stable
+75,2025-05-04,stable
+75,2025-05-05,stable
+75,2025-05-06,stable
+75,2025-05-08,stable
+75,2025-05-13,stable
+75,2025-05-14,stable
+75,2025-05-15,stable
+75,2025-05-17,stable
+75,2025-05-18,stable
+75,2025-05-19,natural
+75,2025-05-21,natural
+75,2025-05-22,unstable
+75,2025-05-23,unstable
+75,2025-05-24,unstable
+75,2025-05-25,unstable
+75,2025-05-26,unstable
+75,2025-05-27,unstable
+75,2025-05-28,unstable
+75,2025-05-29,unstable
+75,2025-05-31,unstable
+75,2025-06-02,unstable
+75,2025-06-03,unstable
+75,2025-06-04,unstable
+75,2025-06-28,unstable
+76,2025-05-31,stable
+76,2025-06-05,stable
+76,2025-06-07,stable
+76,2025-06-08,stable
+76,2025-06-09,stable
+76,2025-06-12,stable
+76,2025-06-13,natural
+76,2025-06-15,natural
+76,2025-06-17,natural
+76,2025-06-18,natural
+76,2025-06-20,stable
+76,2025-06-22,stable
+76,2025-06-25,stable
+76,2025-06-26,stable
+76,2025-06-27,stable
+79,2025-04-12,natural
+79,2025-04-14,natural
+79,2025-04-17,natural
+79,2025-04-18,natural
+79,2025-04-20,natural
+79,2025-04-21,natural
+79,2025-04-23,natural
+79,2025-04-28,natural
+79,2025-04-29,natural
+79,2025-04-30,natural
+79,2025-05-02,natural
+79,2025-05-03,natural
+79,2025-05-04,natural
+79,2025-05-06,natural
+79,2025-05-07,natural
+79,2025-05-08,natural
+79,2025-05-09,unstable
+79,2025-05-12,unstable
+79,2025-05-23,unstable
+79,2025-05-24,unstable
+79,2025-05-27,unstable
+79,2025-05-30,very unstable
+79,2025-06-02,very unstable
+79,2025-06-04,very unstable
+79,2025-06-06,very unstable
+79,2025-06-07,very unstable
+79,2025-06-08,very unstable
+79,2025-06-09,very unstable
+79,2025-06-10,very unstable
+79,2025-06-11,very unstable
+79,2025-06-12,very unstable
+79,2025-06-13,very unstable
+79,2025-06-14,very unstable
+79,2025-06-15,very unstable
+79,2025-06-19,very unstable
+79,2025-06-20,very unstable
+79,2025-06-22,very unstable
+79,2025-06-23,very unstable
+79,2025-06-24,very unstable
+79,2025-06-25,very unstable
+79,2025-06-27,very unstable
+79,2025-06-28,very unstable
+79,2025-06-29,very unstable
+79,2025-06-30,very unstable
+80,2025-05-17,unstable
+80,2025-05-18,unstable
+80,2025-05-20,unstable
+80,2025-05-21,unstable
+80,2025-05-23,unstable
+80,2025-05-24,unstable
+80,2025-05-25,unstable
+80,2025-05-26,unstable
+80,2025-05-27,natural
+80,2025-05-31,natural
+80,2025-06-01,natural
+80,2025-06-02,natural
+80,2025-06-03,natural
+80,2025-06-05,natural
+80,2025-06-07,natural
+80,2025-06-09,natural
+80,2025-06-10,natural
+80,2025-06-11,natural
+80,2025-06-12,stable
+80,2025-06-13,stable
+80,2025-06-14,stable
+80,2025-06-15,stable
+80,2025-06-16,very stable
+80,2025-06-17,stable
+80,2025-06-18,stable
+81,2025-02-14,very stable
+81,2025-02-15,very stable
+81,2025-02-16,very stable
+81,2025-02-21,very stable
+81,2025-02-23,very stable
+81,2025-02-26,very stable
+81,2025-02-28,very stable
+81,2025-03-02,very stable
+81,2025-03-04,very stable
+81,2025-03-07,very stable
+81,2025-03-08,very stable
+81,2025-03-17,very stable
+81,2025-03-18,very stable
+81,2025-03-19,very stable
+81,2025-03-20,very stable
+81,2025-03-21,very stable
+81,2025-03-26,very stable
+81,2025-03-27,very stable
+81,2025-03-28,very stable
+81,2025-03-29,very stable
+81,2025-03-30,very stable
+81,2025-03-31,very stable
+81,2025-04-01,very stable
+81,2025-04-26,very stable
+81,2025-04-27,very stable
+81,2025-04-28,very stable
+81,2025-05-02,very stable
+81,2025-05-03,stable
+81,2025-05-04,stable
+81,2025-05-09,stable
+81,2025-05-10,stable
+81,2025-05-16,stable
+81,2025-05-17,stable
+81,2025-05-19,stable
+81,2025-05-20,stable
+81,2025-05-21,stable
+81,2025-05-22,stable
+81,2025-05-24,stable
+81,2025-05-25,stable
+81,2025-05-26,natural
+81,2025-05-28,natural
+81,2025-05-30,natural
+81,2025-05-31,natural
+81,2025-06-01,natural
+81,2025-06-02,natural
+81,2025-06-05,natural
+81,2025-06-15,natural
+81,2025-06-18,natural
+81,2025-06-23,natural
+81,2025-06-24,natural
+81,2025-06-25,natural
+82,2025-01-01,natural
+82,2025-01-02,natural
+82,2025-01-03,natural
+82,2025-01-04,natural
+82,2025-01-05,natural
+82,2025-01-06,natural
+82,2025-01-07,natural
+82,2025-01-19,natural
+82,2025-01-20,natural
+82,2025-01-25,natural
+82,2025-01-26,natural
+82,2025-01-27,natural
+82,2025-01-28,natural
+82,2025-01-29,natural
+82,2025-01-31,natural
+82,2025-02-02,natural
+82,2025-02-05,unstable
+82,2025-02-06,unstable
+82,2025-02-07,unstable
+82,2025-02-08,unstable
+82,2025-02-11,unstable
+82,2025-02-12,unstable
+82,2025-02-14,unstable
+82,2025-02-16,unstable
+82,2025-02-19,unstable
+82,2025-02-20,unstable
+82,2025-02-23,unstable
+82,2025-03-01,unstable
+82,2025-03-04,unstable
+82,2025-03-05,unstable
+82,2025-03-07,unstable
+82,2025-03-09,unstable
+82,2025-03-10,unstable
+82,2025-03-11,unstable
+82,2025-03-12,unstable
+82,2025-03-13,unstable
+82,2025-03-14,unstable
+82,2025-03-15,unstable
+82,2025-03-16,unstable
+82,2025-03-18,unstable
+82,2025-03-19,unstable
+82,2025-03-24,unstable
+82,2025-03-27,unstable
+82,2025-03-28,unstable
+82,2025-03-29,unstable
+82,2025-04-02,unstable
+82,2025-04-04,unstable
+82,2025-04-05,unstable
+82,2025-04-09,stable
+82,2025-04-10,stable
+82,2025-04-11,stable
+82,2025-04-13,stable
+82,2025-04-18,stable
+82,2025-04-19,stable
+82,2025-04-21,stable
+82,2025-04-22,stable
+82,2025-04-23,stable
+82,2025-04-24,stable
+82,2025-04-25,stable
+82,2025-04-27,stable
+82,2025-04-29,stable
+82,2025-05-10,stable
+82,2025-05-11,stable
+82,2025-05-12,stable
+82,2025-05-13,stable
+82,2025-05-30,stable
+82,2025-06-01,stable
+82,2025-06-02,natural
+82,2025-06-03,natural
+82,2025-06-04,natural
+82,2025-06-05,natural
+82,2025-06-13,natural
+82,2025-06-14,natural
+82,2025-06-15,natural
+82,2025-06-16,natural
+82,2025-06-17,natural
+82,2025-06-18,natural
+82,2025-06-19,natural
+82,2025-06-20,natural
+82,2025-06-21,natural
+82,2025-06-22,natural
+82,2025-06-24,natural
+86,2025-01-01,stable
+86,2025-01-04,stable
+86,2025-01-14,stable
+86,2025-01-25,stable
+86,2025-01-26,stable
+86,2025-01-29,stable
+86,2025-01-31,stable
+86,2025-02-02,stable
+86,2025-02-03,stable
+86,2025-02-04,stable
+86,2025-02-06,stable
+86,2025-02-07,stable
+86,2025-02-08,stable
+86,2025-02-10,stable
+86,2025-02-11,stable
+86,2025-02-21,stable
+86,2025-02-23,stable
+86,2025-02-24,stable
+86,2025-02-25,stable
+86,2025-02-27,stable
+86,2025-02-28,stable
+86,2025-03-01,natural
+86,2025-03-02,natural
+86,2025-03-03,natural
+86,2025-03-06,natural
+86,2025-03-07,natural
+86,2025-03-09,natural
+86,2025-03-10,natural
+86,2025-03-11,natural
+86,2025-03-12,natural
+86,2025-03-16,natural
+86,2025-03-17,natural
+86,2025-03-18,natural
+86,2025-03-19,natural
+86,2025-03-20,natural
+86,2025-04-02,natural
+86,2025-04-03,natural
+86,2025-04-04,natural
+86,2025-04-05,natural
+86,2025-04-06,natural
+86,2025-04-07,natural
+86,2025-04-08,natural
+86,2025-04-09,natural
+86,2025-04-10,very stable
+86,2025-04-11,very stable
+86,2025-04-30,very stable
+86,2025-05-04,very stable
+86,2025-05-05,very stable
+86,2025-05-07,very stable
+86,2025-05-08,very stable
+86,2025-05-10,very stable
+86,2025-05-11,very stable
+86,2025-05-17,very stable
+86,2025-05-18,very stable
+86,2025-05-21,very stable
+86,2025-05-26,very stable
+86,2025-05-27,very stable
+86,2025-05-28,very stable
+86,2025-05-29,very stable
+86,2025-05-30,very stable
+86,2025-05-31,stable
+86,2025-06-01,stable
+86,2025-06-02,stable
+86,2025-06-03,stable
+86,2025-06-05,stable
+86,2025-06-08,stable
+86,2025-06-10,stable
+86,2025-06-11,stable
+86,2025-06-12,stable
+86,2025-06-13,stable
+86,2025-06-14,stable
+86,2025-06-18,stable
+86,2025-06-19,stable
+86,2025-06-21,stable
+86,2025-06-26,stable
+86,2025-06-27,stable
+86,2025-06-28,stable
+86,2025-06-29,stable
+92,2025-01-01,stable
+92,2025-01-03,stable
+92,2025-01-05,stable
+92,2025-01-06,stable
+92,2025-01-09,stable
+92,2025-01-10,stable
+92,2025-01-11,stable
+92,2025-01-12,stable
+92,2025-01-14,stable
+92,2025-01-15,stable
+92,2025-01-18,stable
+92,2025-01-21,stable
+92,2025-01-24,stable
+92,2025-01-25,stable
+92,2025-01-26,stable
+92,2025-01-27,stable
+92,2025-01-31,stable
+92,2025-02-01,stable
+92,2025-02-02,stable
+92,2025-02-13,stable
+92,2025-02-15,stable
+92,2025-02-19,stable
+92,2025-02-21,stable
+92,2025-02-24,stable
+92,2025-02-25,stable
+92,2025-02-26,stable
+92,2025-02-28,stable
+92,2025-03-01,stable
+92,2025-03-02,stable
+92,2025-03-05,stable
+92,2025-03-07,stable
+92,2025-03-08,stable
+92,2025-03-09,stable
+92,2025-03-11,stable
+92,2025-03-15,stable
+92,2025-03-16,stable
+92,2025-03-30,stable
+92,2025-04-01,stable
+92,2025-04-10,stable
+92,2025-04-11,stable
+92,2025-04-12,stable
+92,2025-04-13,stable
+92,2025-04-16,stable
+92,2025-04-18,stable
+92,2025-04-19,stable
+92,2025-04-20,stable
+92,2025-04-21,stable
+92,2025-04-23,stable
+92,2025-04-26,stable
+92,2025-04-27,natural
+92,2025-04-28,natural
+92,2025-04-29,natural
+92,2025-04-30,natural
+92,2025-05-01,natural
+92,2025-05-02,natural
+92,2025-05-11,natural
+92,2025-05-13,natural
+92,2025-05-14,natural
+92,2025-05-19,natural
+92,2025-05-20,natural
+92,2025-05-21,natural
+92,2025-05-22,natural
+92,2025-05-23,natural
+92,2025-05-24,natural
+92,2025-05-26,natural
+92,2025-05-27,natural
+92,2025-05-28,natural
+92,2025-05-29,natural
+92,2025-05-31,natural
+92,2025-06-09,natural
+92,2025-06-10,natural
+92,2025-06-13,natural
+92,2025-06-14,natural
+92,2025-06-16,natural
+92,2025-06-18,natural
+92,2025-06-20,natural
+92,2025-06-21,natural
+92,2025-06-22,natural
+92,2025-06-23,natural
+92,2025-06-25,natural
+92,2025-06-30,natural
+96,2025-01-01,unstable
+96,2025-01-02,unstable
+96,2025-01-04,unstable
+96,2025-01-05,unstable
+96,2025-01-11,unstable
+96,2025-01-12,unstable
+96,2025-01-13,unstable
+96,2025-01-14,unstable
+96,2025-01-15,unstable
+96,2025-01-18,unstable
+96,2025-01-20,unstable
+96,2025-01-21,unstable
+96,2025-01-22,unstable
+96,2025-01-23,unstable
+96,2025-01-26,unstable
+96,2025-01-27,unstable
+96,2025-01-28,unstable
+96,2025-02-07,unstable
+96,2025-02-08,unstable
+96,2025-02-09,unstable
+96,2025-02-10,unstable
+96,2025-02-11,unstable
+96,2025-02-12,unstable
+96,2025-02-15,unstable
+96,2025-02-25,unstable
+96,2025-03-01,unstable
+96,2025-03-03,unstable
+96,2025-03-04,unstable
+96,2025-03-05,unstable
+96,2025-03-11,unstable
+96,2025-03-12,unstable
+96,2025-03-14,unstable
+96,2025-03-15,unstable
+96,2025-03-16,unstable
+96,2025-03-17,unstable
+96,2025-03-19,unstable
+96,2025-03-28,unstable
+96,2025-03-30,unstable
+96,2025-03-31,unstable
+96,2025-04-19,unstable
+96,2025-04-20,unstable
+96,2025-04-22,unstable
+96,2025-04-23,unstable
+96,2025-04-25,unstable
+96,2025-04-27,unstable
+96,2025-04-29,unstable
+96,2025-05-02,unstable
+96,2025-05-03,unstable
+96,2025-05-05,unstable
+96,2025-05-13,unstable
+96,2025-05-14,unstable
+96,2025-05-18,unstable
+96,2025-05-19,unstable
+96,2025-05-22,unstable
+96,2025-05-24,unstable
+96,2025-05-25,unstable
+96,2025-05-26,unstable
+96,2025-05-27,unstable
+96,2025-05-28,unstable
+96,2025-05-29,unstable
+96,2025-05-30,unstable
+96,2025-05-31,unstable
+96,2025-06-01,unstable
+96,2025-06-02,unstable
+96,2025-06-03,unstable
+96,2025-06-04,unstable
+96,2025-06-05,stable
+96,2025-06-16,stable
+96,2025-06-18,stable
+96,2025-06-19,stable
+96,2025-06-20,stable
+96,2025-06-21,stable
+96,2025-06-22,stable
+96,2025-06-25,stable
+96,2025-06-27,stable
+96,2025-06-28,stable
+97,2025-01-17,very unstable
+97,2025-01-26,very unstable
+97,2025-01-30,very unstable
+97,2025-01-31,very unstable
+97,2025-02-03,very unstable
+97,2025-02-07,very unstable
+97,2025-02-08,very unstable
+97,2025-02-12,very unstable
+97,2025-02-14,very unstable
+97,2025-02-15,very unstable
+97,2025-02-16,unstable
+97,2025-02-17,unstable
+97,2025-02-19,unstable
+97,2025-02-20,unstable
+97,2025-02-22,unstable
+97,2025-02-24,unstable
+97,2025-02-26,unstable
+97,2025-03-04,unstable
+97,2025-03-07,unstable
+97,2025-03-10,unstable
+97,2025-03-11,unstable
+97,2025-03-25,unstable
+97,2025-03-27,unstable
+97,2025-03-28,unstable
+97,2025-03-29,unstable
+97,2025-03-30,unstable
+97,2025-04-01,unstable
+97,2025-04-13,unstable
+97,2025-04-14,unstable
+97,2025-04-17,unstable
+97,2025-04-18,very unstable
+97,2025-04-19,very unstable
+97,2025-04-21,very unstable
+97,2025-04-22,very unstable
+97,2025-04-23,very unstable
+97,2025-04-24,very unstable
+97,2025-04-28,very unstable
+97,2025-05-05,very unstable
+97,2025-05-06,very unstable
+97,2025-05-07,very unstable
+97,2025-05-09,very unstable
+97,2025-05-10,unstable
+97,2025-05-13,unstable
+97,2025-05-23,unstable
+97,2025-05-27,unstable
+97,2025-05-30,unstable
+97,2025-06-18,unstable
+97,2025-06-19,unstable
+97,2025-06-22,unstable
+97,2025-06-23,unstable
+97,2025-06-24,unstable
+97,2025-06-26,unstable
+97,2025-06-27,unstable
+100,2025-04-22,very stable
+100,2025-04-23,very stable
+100,2025-04-24,very stable
+100,2025-04-29,very stable
+100,2025-04-30,very stable
+100,2025-05-01,very stable
+100,2025-05-03,very stable
+100,2025-05-04,very stable
+100,2025-05-06,very stable
+100,2025-05-07,very stable
+100,2025-05-08,very stable
+100,2025-05-13,very stable
+100,2025-05-14,very stable
+100,2025-05-17,very stable
+100,2025-05-18,very stable
+100,2025-05-19,very stable
+100,2025-05-20,very stable
+100,2025-05-24,very stable
+100,2025-05-26,very stable
+100,2025-05-29,very stable
+100,2025-05-30,very stable
+100,2025-05-31,very stable
+100,2025-06-02,very stable
+100,2025-06-06,very stable
+100,2025-06-22,very stable
+100,2025-06-23,very stable
+100,2025-06-25,very stable
+100,2025-06-27,very stable
+100,2025-06-29,very stable
+100,2025-06-30,very stable
+103,2025-01-01,very stable
+103,2025-01-02,very stable
+103,2025-01-04,very stable
+103,2025-01-05,very stable
+103,2025-01-07,very stable
+103,2025-01-08,very stable
+103,2025-01-09,very stable
+103,2025-01-11,very stable
+103,2025-01-13,very stable
+103,2025-01-16,very stable
+103,2025-01-17,very stable
+103,2025-01-25,very stable
+103,2025-01-27,very stable
+103,2025-02-02,very stable
+103,2025-02-03,very stable
+103,2025-02-04,very stable
+103,2025-02-05,very stable
+103,2025-02-06,very stable
+103,2025-02-08,very stable
+103,2025-02-18,stable
+103,2025-02-21,stable
+103,2025-02-22,stable
+103,2025-02-23,stable
+103,2025-02-27,stable
+103,2025-02-28,stable
+103,2025-03-02,stable
+103,2025-03-03,stable
+103,2025-03-04,stable
+103,2025-03-07,very stable
+103,2025-03-09,very stable
+103,2025-03-10,very stable
+103,2025-03-15,very stable
+103,2025-03-16,very stable
+103,2025-03-21,very stable
+103,2025-03-22,very stable
+103,2025-03-23,very stable
+103,2025-03-24,very stable
+103,2025-03-25,very stable
+103,2025-03-27,very stable
+103,2025-03-28,very stable
+103,2025-03-30,very stable
+103,2025-04-01,very stable
+103,2025-04-02,very stable
+103,2025-04-03,very stable
+103,2025-04-06,very stable
+103,2025-04-08,very stable
+103,2025-04-09,very stable
+103,2025-04-11,very stable
+103,2025-04-14,very stable
+103,2025-04-16,very stable
+103,2025-04-18,very stable
+103,2025-04-22,very stable
+103,2025-04-24,stable
+103,2025-04-25,stable
+103,2025-04-28,stable
+103,2025-04-29,stable
+103,2025-04-30,stable
+103,2025-05-01,stable
+103,2025-05-04,stable
+103,2025-05-05,stable
+103,2025-05-06,stable
+103,2025-05-10,stable
+103,2025-05-11,stable
+103,2025-05-13,stable
+103,2025-05-14,stable
+103,2025-05-17,stable
+103,2025-05-19,stable
+103,2025-05-22,stable
+103,2025-05-23,stable
+103,2025-06-03,stable
+103,2025-06-06,stable
+103,2025-06-07,stable
+103,2025-06-08,stable
+103,2025-06-09,stable
+103,2025-06-10,stable
+103,2025-06-11,stable
+103,2025-06-12,stable
+103,2025-06-13,stable
+103,2025-06-14,stable
+103,2025-06-15,stable
+103,2025-06-16,stable
+103,2025-06-18,stable
+103,2025-06-19,stable
+103,2025-06-24,stable
+104,2025-01-01,unstable
+104,2025-01-02,unstable
+104,2025-01-03,unstable
+104,2025-01-04,unstable
+104,2025-01-09,unstable
+104,2025-01-10,unstable
+104,2025-01-11,unstable
+104,2025-02-01,unstable
+104,2025-02-02,unstable
+104,2025-02-03,unstable
+104,2025-02-04,unstable
+104,2025-02-05,unstable
+104,2025-02-06,unstable
+104,2025-02-07,unstable
+104,2025-02-10,unstable
+104,2025-02-17,unstable
+104,2025-02-19,unstable
+104,2025-02-20,unstable
+104,2025-02-21,unstable
+104,2025-02-22,unstable
+104,2025-02-23,unstable
+104,2025-02-25,unstable
+104,2025-02-26,unstable
+104,2025-03-13,unstable
+104,2025-03-19,unstable
+104,2025-03-20,unstable
+104,2025-03-29,unstable
+104,2025-03-30,unstable
+104,2025-04-20,unstable
+104,2025-04-21,stable
+104,2025-04-22,stable
+104,2025-04-23,stable
+104,2025-04-24,stable
+104,2025-04-27,stable
+104,2025-04-28,stable
+104,2025-05-06,stable
+104,2025-05-08,stable
+104,2025-05-09,stable
+104,2025-05-10,stable
+104,2025-05-11,stable
+104,2025-05-15,stable
+104,2025-05-16,stable
+104,2025-05-19,stable
+104,2025-05-20,stable
+104,2025-05-21,very stable
+104,2025-05-23,very stable
+104,2025-05-24,very stable
+104,2025-05-27,very stable
+104,2025-05-29,very stable
+104,2025-05-31,very stable
+104,2025-06-05,very stable
+104,2025-06-06,very stable
+104,2025-06-10,very stable
+104,2025-06-11,very stable
+104,2025-06-12,very stable
+104,2025-06-13,very stable
+104,2025-06-14,very stable
+104,2025-06-20,very stable
+106,2025-02-13,stable
+106,2025-02-14,stable
+106,2025-02-15,stable
+106,2025-02-19,natural
+106,2025-02-20,natural
+106,2025-02-22,natural
+106,2025-02-23,natural
+106,2025-02-25,natural
+106,2025-02-26,natural
+106,2025-02-27,natural
+106,2025-02-28,natural
+106,2025-03-03,stable
+106,2025-03-05,stable
+106,2025-03-06,natural
+106,2025-03-07,natural
+106,2025-03-09,natural
+106,2025-03-13,natural
+106,2025-03-14,natural
+106,2025-03-18,natural
+106,2025-03-20,natural
+106,2025-03-24,natural
+106,2025-03-25,natural
+106,2025-03-27,natural
+106,2025-03-28,natural
+106,2025-03-29,natural
+106,2025-03-30,natural
+106,2025-03-31,natural
+106,2025-04-01,natural
+106,2025-04-04,natural
+106,2025-04-08,natural
+106,2025-04-09,natural
+106,2025-04-11,natural
+106,2025-04-12,natural
+106,2025-04-16,natural
+106,2025-04-17,natural
+106,2025-04-18,natural
+106,2025-04-20,natural
+106,2025-04-21,unstable
+106,2025-04-22,unstable
+106,2025-04-23,unstable
+106,2025-04-24,unstable
+106,2025-04-25,unstable
+106,2025-05-03,very unstable
+106,2025-05-06,very unstable
+106,2025-05-07,very unstable
+106,2025-05-08,very unstable
+106,2025-05-10,very unstable
+106,2025-05-24,very unstable
+106,2025-05-25,very unstable
+106,2025-05-26,very unstable
+106,2025-05-27,very unstable
+106,2025-05-28,very unstable
+106,2025-06-01,very unstable
+106,2025-06-02,very unstable
+106,2025-06-03,very unstable
+106,2025-06-15,unstable
+106,2025-06-16,unstable
+106,2025-06-17,unstable
+106,2025-06-19,unstable
+106,2025-06-29,unstable
+106,2025-06-30,unstable
+108,2025-06-09,natural
+108,2025-06-10,natural
+108,2025-06-12,natural
+108,2025-06-18,natural
+108,2025-06-20,natural
+108,2025-06-21,natural
+108,2025-06-22,natural
+108,2025-06-25,natural
+112,2025-01-01,stable
+112,2025-01-02,stable
+112,2025-01-10,stable
+112,2025-01-11,stable
+112,2025-01-13,stable
+112,2025-01-14,stable
+112,2025-01-15,stable
+112,2025-01-16,natural
+112,2025-01-18,stable
+112,2025-01-24,stable
+112,2025-01-25,stable
+112,2025-01-27,stable
+112,2025-01-28,stable
+112,2025-01-29,stable
+112,2025-01-30,stable
+112,2025-01-31,stable
+112,2025-02-01,stable
+112,2025-02-02,stable
+112,2025-02-21,stable
+112,2025-02-23,stable
+112,2025-02-25,stable
+112,2025-03-05,stable
+112,2025-03-07,stable
+112,2025-03-08,stable
+112,2025-03-09,stable
+112,2025-03-11,stable
+112,2025-04-02,stable
+112,2025-04-03,very stable
+112,2025-04-04,very stable
+112,2025-04-05,very stable
+112,2025-04-06,very stable
+112,2025-04-07,very stable
+112,2025-04-11,very stable
+112,2025-04-12,very stable
+112,2025-04-13,very stable
+112,2025-04-14,very stable
+112,2025-04-15,very stable
+112,2025-04-20,very stable
+112,2025-04-22,very stable
+112,2025-04-24,very stable
+112,2025-04-26,very stable
+112,2025-04-28,very stable
+112,2025-04-29,very stable
+112,2025-04-30,very stable
+112,2025-05-02,very stable
+112,2025-05-03,very stable
+112,2025-05-04,very stable
+112,2025-05-05,stable
+112,2025-05-06,natural
+112,2025-05-07,natural
+112,2025-05-09,natural
+112,2025-05-10,natural
+112,2025-05-11,natural
+112,2025-05-15,natural
+112,2025-05-18,natural
+112,2025-05-22,natural
+112,2025-05-23,natural
+112,2025-05-24,natural
+112,2025-05-26,natural
+112,2025-05-29,natural
+112,2025-05-30,natural
+112,2025-05-31,natural
+112,2025-06-10,natural
+112,2025-06-11,natural
+112,2025-06-13,natural
+112,2025-06-15,natural
+112,2025-06-17,natural
+112,2025-06-19,natural
+115,2025-04-23,very stable
+115,2025-04-24,very stable
+115,2025-04-26,very stable
+115,2025-04-27,very stable
+115,2025-04-29,very stable
+115,2025-04-30,very stable
+115,2025-05-07,very stable
+115,2025-05-09,very stable
+115,2025-05-20,very stable
+115,2025-05-23,stable
+115,2025-05-24,stable
+115,2025-05-25,stable
+115,2025-05-28,stable
+115,2025-05-31,stable
+115,2025-06-02,stable
+115,2025-06-03,unstable
+115,2025-06-08,unstable
+115,2025-06-09,unstable
+115,2025-06-11,unstable
+115,2025-06-17,unstable
+115,2025-06-28,unstable
+116,2025-01-01,stable
+116,2025-01-03,stable
+116,2025-01-04,stable
+116,2025-01-05,stable
+116,2025-01-06,stable
+116,2025-01-07,stable
+116,2025-01-08,stable
+116,2025-01-09,stable
+116,2025-01-11,stable
+116,2025-01-12,stable
+116,2025-01-14,stable
+116,2025-01-15,stable
+116,2025-01-16,stable
+116,2025-01-17,stable
+116,2025-01-27,stable
+116,2025-01-29,stable
+116,2025-01-30,stable
+116,2025-02-01,natural
+116,2025-02-02,natural
+116,2025-02-06,natural
+116,2025-02-08,natural
+116,2025-02-09,natural
+116,2025-02-10,natural
+116,2025-02-11,natural
+116,2025-02-12,natural
+116,2025-02-13,natural
+116,2025-02-15,natural
+116,2025-02-19,natural
+116,2025-02-28,natural
+116,2025-03-01,natural
+116,2025-03-02,natural
+116,2025-03-03,natural
+116,2025-03-14,natural
+116,2025-03-19,natural
+116,2025-03-20,natural
+116,2025-03-24,natural
+116,2025-04-04,natural
+116,2025-04-05,natural
+116,2025-04-06,natural
+116,2025-04-08,natural
+116,2025-04-10,natural
+116,2025-04-16,natural
+116,2025-04-17,natural
+116,2025-04-20,natural
+116,2025-04-21,natural
+116,2025-04-23,natural
+116,2025-04-24,natural
+116,2025-04-25,natural
+116,2025-04-27,natural
+116,2025-04-30,natural
+116,2025-05-01,natural
+116,2025-05-02,natural
+116,2025-05-04,natural
+116,2025-05-06,natural
+116,2025-05-07,natural
+116,2025-05-08,natural
+116,2025-05-09,natural
+116,2025-05-11,natural
+116,2025-05-14,natural
+116,2025-05-15,natural
+116,2025-05-16,natural
+116,2025-05-17,natural
+116,2025-05-18,natural
+116,2025-05-19,natural
+116,2025-05-23,natural
+116,2025-05-24,natural
+116,2025-05-25,natural
+116,2025-05-26,natural
+116,2025-05-27,natural
+116,2025-05-28,natural
+116,2025-05-29,natural
+116,2025-06-01,natural
+116,2025-06-02,natural
+116,2025-06-07,natural
+116,2025-06-08,natural
+116,2025-06-09,natural
+116,2025-06-10,natural
+116,2025-06-11,natural
+116,2025-06-13,natural
+116,2025-06-24,natural
+116,2025-06-25,natural
+116,2025-06-26,natural
+116,2025-06-30,natural
+117,2025-01-01,unstable
+117,2025-01-02,unstable
+117,2025-01-03,unstable
+117,2025-01-04,unstable
+117,2025-01-06,unstable
+117,2025-01-13,unstable
+117,2025-01-14,unstable
+117,2025-01-16,unstable
+117,2025-01-18,unstable
+117,2025-01-19,unstable
+117,2025-01-20,unstable
+117,2025-01-21,unstable
+117,2025-01-24,unstable
+117,2025-01-28,unstable
+117,2025-01-29,stable
+117,2025-01-31,stable
+117,2025-02-01,stable
+117,2025-02-03,stable
+117,2025-02-04,stable
+117,2025-02-09,stable
+117,2025-02-10,stable
+117,2025-02-11,stable
+117,2025-02-16,stable
+117,2025-02-24,stable
+117,2025-02-25,stable
+117,2025-03-08,stable
+117,2025-03-13,stable
+117,2025-03-15,stable
+117,2025-03-17,stable
+117,2025-03-18,stable
+117,2025-03-19,stable
+117,2025-03-22,stable
+117,2025-04-03,stable
+117,2025-04-04,stable
+117,2025-04-05,stable
+117,2025-04-07,stable
+117,2025-04-08,stable
+117,2025-04-09,stable
+117,2025-04-10,very stable
+117,2025-04-11,very stable
+117,2025-04-13,very stable
+117,2025-04-14,very stable
+117,2025-04-15,very stable
+117,2025-04-16,very stable
+117,2025-04-25,very stable
+117,2025-04-26,very stable
+117,2025-04-27,very stable
+117,2025-05-01,very stable
+117,2025-05-06,very stable
+117,2025-05-07,very stable
+117,2025-05-09,very stable
+117,2025-05-10,very stable
+117,2025-05-11,very stable
+117,2025-05-12,very stable
+117,2025-05-24,very stable
+117,2025-05-25,very stable
+117,2025-05-27,very stable
+117,2025-05-28,very stable
+117,2025-06-02,very stable
+117,2025-06-03,very stable
+117,2025-06-04,very stable
+117,2025-06-05,very stable
+117,2025-06-23,very stable
+120,2025-01-01,natural
+120,2025-01-02,natural
+120,2025-01-03,natural
+120,2025-01-04,natural
+120,2025-01-05,natural
+120,2025-01-06,natural
+120,2025-01-07,natural
+120,2025-01-09,natural
+120,2025-01-10,natural
+120,2025-01-12,natural
+120,2025-01-15,natural
+120,2025-01-18,natural
+120,2025-01-22,natural
+120,2025-01-24,natural
+120,2025-01-25,natural
+120,2025-01-26,natural
+120,2025-01-27,natural
+120,2025-01-28,natural
+120,2025-01-29,natural
+120,2025-01-31,natural
+120,2025-02-01,natural
+120,2025-02-02,natural
+120,2025-02-04,natural
+120,2025-02-05,stable
+120,2025-02-07,stable
+120,2025-02-08,stable
+120,2025-02-09,stable
+120,2025-02-11,stable
+120,2025-02-17,stable
+120,2025-02-18,stable
+120,2025-02-19,stable
+120,2025-02-21,stable
+120,2025-02-22,stable
+120,2025-02-27,stable
+120,2025-03-01,stable
+120,2025-03-03,stable
+120,2025-03-05,stable
+120,2025-03-07,stable
+120,2025-03-08,stable
+120,2025-03-09,stable
+120,2025-03-10,stable
+120,2025-03-11,stable
+120,2025-03-12,stable
+120,2025-03-16,stable
+120,2025-03-17,stable
+120,2025-03-25,stable
+120,2025-03-26,natural
+120,2025-03-27,natural
+120,2025-03-28,unstable
+120,2025-03-29,unstable
+120,2025-03-30,unstable
+120,2025-03-31,unstable
+120,2025-04-01,natural
+120,2025-04-06,natural
+120,2025-04-08,natural
+120,2025-04-10,natural
+120,2025-04-21,natural
+120,2025-04-26,natural
+120,2025-04-28,natural
+120,2025-04-29,natural
+120,2025-05-01,natural
+120,2025-05-02,natural
+120,2025-05-03,natural
+120,2025-05-04,natural
+120,2025-05-24,natural
+120,2025-05-25,natural
+120,2025-05-26,natural
+120,2025-05-31,natural
+120,2025-06-02,unstable
+120,2025-06-03,unstable
+120,2025-06-06,unstable
+120,2025-06-07,unstable
+120,2025-06-08,unstable
+120,2025-06-09,unstable
+120,2025-06-12,unstable
+120,2025-06-13,unstable
+120,2025-06-15,unstable
+120,2025-06-16,unstable
+120,2025-06-17,unstable
+120,2025-06-18,unstable
+120,2025-06-30,natural
+121,2025-01-01,natural
+121,2025-01-02,natural
+121,2025-01-03,natural
+121,2025-01-04,natural
+121,2025-01-28,natural
+121,2025-02-02,stable
+121,2025-02-04,stable
+121,2025-02-05,stable
+121,2025-02-08,stable
+121,2025-02-09,stable
+121,2025-02-14,stable
+121,2025-02-18,stable
+121,2025-02-20,stable
+121,2025-02-21,stable
+121,2025-02-23,stable
+121,2025-02-24,stable
+121,2025-02-25,stable
+121,2025-03-02,stable
+121,2025-03-03,stable
+121,2025-03-04,stable
+121,2025-03-05,stable
+121,2025-03-06,stable
+121,2025-03-10,stable
+121,2025-03-21,stable
+121,2025-03-25,stable
+121,2025-03-26,stable
+121,2025-03-27,stable
+121,2025-03-28,stable
+121,2025-03-29,stable
+121,2025-03-30,stable
+121,2025-03-31,stable
+121,2025-04-01,stable
+121,2025-04-02,stable
+121,2025-04-05,stable
+121,2025-04-08,stable
+121,2025-04-09,stable
+121,2025-04-13,stable
+121,2025-04-17,stable
+121,2025-04-19,stable
+121,2025-04-20,stable
+121,2025-04-21,stable
+121,2025-04-28,stable
+121,2025-04-30,stable
+121,2025-05-01,stable
+121,2025-05-02,stable
+121,2025-05-03,stable
+121,2025-05-04,stable
+121,2025-05-05,stable
+121,2025-05-07,stable
+121,2025-05-08,stable
+121,2025-05-10,stable
+121,2025-05-11,stable
+121,2025-05-12,stable
+121,2025-05-13,stable
+121,2025-05-14,stable
+121,2025-05-16,stable
+121,2025-05-18,stable
+121,2025-05-19,very stable
+121,2025-05-20,very stable
+121,2025-05-21,very stable
+121,2025-05-22,very stable
+121,2025-05-26,very stable
+121,2025-05-28,very stable
+121,2025-06-08,very stable
+121,2025-06-09,very stable
+121,2025-06-10,very stable
+121,2025-06-11,very stable
+121,2025-06-12,very stable
+121,2025-06-14,very stable
+121,2025-06-16,very stable
+121,2025-06-18,very stable
+121,2025-06-23,very stable
+121,2025-06-25,very stable
+121,2025-06-30,very stable
+124,2025-01-01,very unstable
+124,2025-01-02,very unstable
+124,2025-01-03,very unstable
+124,2025-01-07,very unstable
+124,2025-01-08,very unstable
+124,2025-01-09,very unstable
+124,2025-01-10,very unstable
+124,2025-01-11,very unstable
+124,2025-01-12,very unstable
+124,2025-01-14,very unstable
+124,2025-01-16,very unstable
+124,2025-01-19,very unstable
+124,2025-01-20,very unstable
+124,2025-01-21,very unstable
+124,2025-01-27,very unstable
+124,2025-01-28,very unstable
+124,2025-01-30,very unstable
+124,2025-01-31,very unstable
+124,2025-02-01,very unstable
+124,2025-02-02,very unstable
+124,2025-02-03,very unstable
+124,2025-02-06,very unstable
+124,2025-02-17,very unstable
+124,2025-02-18,very unstable
+124,2025-02-19,very unstable
+124,2025-02-20,very unstable
+124,2025-02-25,very unstable
+124,2025-02-27,very unstable
+124,2025-02-28,very unstable
+124,2025-03-22,very unstable
+124,2025-03-23,very unstable
+124,2025-03-27,very unstable
+124,2025-03-30,very unstable
+124,2025-03-31,very unstable
+124,2025-04-01,very unstable
+124,2025-04-02,very unstable
+124,2025-04-03,very unstable
+124,2025-04-26,very unstable
+124,2025-04-28,very unstable
+124,2025-04-30,very unstable
+124,2025-05-01,very unstable
+124,2025-05-12,very unstable
+124,2025-05-14,very unstable
+124,2025-05-16,very unstable
+124,2025-05-19,very unstable
+124,2025-05-20,very unstable
+124,2025-05-21,very unstable
+124,2025-05-23,very unstable
+124,2025-05-24,very unstable
+124,2025-05-26,very unstable
+124,2025-05-28,very unstable
+124,2025-05-30,very unstable
+124,2025-06-01,very unstable
+124,2025-06-02,very unstable
+124,2025-06-03,very unstable
+124,2025-06-04,very unstable
+124,2025-06-05,very unstable
+124,2025-06-06,very unstable
+124,2025-06-18,very unstable
+124,2025-06-23,very unstable
+124,2025-06-24,very unstable
+124,2025-06-27,very unstable
+124,2025-06-28,very unstable
+127,2025-01-28,very stable
+127,2025-01-29,very stable
+127,2025-01-30,very stable
+127,2025-02-02,very stable
+127,2025-02-03,very stable
+127,2025-02-17,very stable
+127,2025-02-21,very stable
+127,2025-02-22,very stable
+127,2025-02-23,very stable
+127,2025-02-24,very stable
+127,2025-02-26,very stable
+127,2025-02-27,very stable
+127,2025-02-28,very stable
+127,2025-03-01,very stable
+127,2025-03-12,very stable
+127,2025-03-13,very stable
+127,2025-03-27,very stable
+127,2025-03-28,very stable
+127,2025-04-09,very stable
+127,2025-04-10,very stable
+127,2025-04-15,very stable
+127,2025-04-16,very stable
+127,2025-04-18,very stable
+127,2025-04-20,very stable
+127,2025-04-23,very stable
+127,2025-05-05,very stable
+127,2025-05-17,very stable
+127,2025-05-18,very stable
+127,2025-05-19,very stable
+127,2025-05-20,very stable
+127,2025-05-21,very stable
+127,2025-05-23,very stable
+127,2025-05-24,very stable
+127,2025-05-25,very stable
+127,2025-05-27,very stable
+127,2025-05-28,very stable
+127,2025-05-29,very stable
+127,2025-05-31,very stable
+127,2025-06-01,very stable
+127,2025-06-02,very stable
+127,2025-06-06,very stable
+127,2025-06-07,very stable
+127,2025-06-08,very stable
+127,2025-06-09,very stable
+127,2025-06-10,very stable
+127,2025-06-11,very stable
+127,2025-06-12,very stable
+127,2025-06-13,very stable
+127,2025-06-14,very stable
+127,2025-06-15,very stable
+127,2025-06-16,very stable
+127,2025-06-17,very stable
+127,2025-06-19,very stable
+132,2025-04-20,stable
+132,2025-04-22,stable
+132,2025-04-24,stable
+132,2025-04-25,natural
+132,2025-04-27,natural
+132,2025-04-28,natural
+132,2025-04-29,natural
+132,2025-04-30,natural
+132,2025-05-02,natural
+132,2025-05-04,natural
+132,2025-05-13,natural
+132,2025-05-14,natural
+132,2025-05-15,natural
+132,2025-05-16,natural
+132,2025-05-19,natural
+132,2025-05-22,natural
+132,2025-05-27,natural
+132,2025-06-05,natural
+132,2025-06-06,natural
+132,2025-06-08,natural
+132,2025-06-11,natural
+132,2025-06-12,natural
+132,2025-06-14,natural
+132,2025-06-15,natural
+132,2025-06-16,natural
+132,2025-06-17,natural
+132,2025-06-18,natural
+132,2025-06-19,natural
+132,2025-06-20,natural
+132,2025-06-21,natural
+132,2025-06-23,natural
+132,2025-06-24,natural
+132,2025-06-27,natural
+132,2025-06-28,natural
+132,2025-06-29,natural
+132,2025-06-30,natural
+134,2025-01-01,very stable
+134,2025-01-02,very stable
+134,2025-01-05,very stable
+134,2025-01-06,very stable
+134,2025-01-08,very stable
+134,2025-01-11,very stable
+134,2025-01-13,very stable
+134,2025-01-15,very stable
+134,2025-01-16,very stable
+134,2025-01-17,very stable
+134,2025-01-19,very stable
+134,2025-01-20,stable
+134,2025-01-21,stable
+134,2025-01-22,stable
+134,2025-01-23,stable
+134,2025-01-24,stable
+134,2025-01-26,stable
+134,2025-02-05,stable
+134,2025-02-07,stable
+134,2025-02-08,stable
+134,2025-02-09,unstable
+134,2025-02-10,unstable
+134,2025-02-14,unstable
+134,2025-02-19,unstable
+134,2025-02-21,unstable
+134,2025-02-22,unstable
+134,2025-02-23,unstable
+134,2025-02-24,unstable
+134,2025-02-25,unstable
+134,2025-03-22,unstable
+134,2025-03-24,unstable
+134,2025-03-25,unstable
+134,2025-03-26,unstable
+134,2025-04-06,very unstable
+134,2025-04-08,very unstable
+134,2025-04-09,very unstable
+134,2025-04-10,very unstable
+134,2025-04-12,very unstable
+134,2025-04-17,very unstable
+134,2025-04-18,very unstable
+134,2025-04-19,very unstable
+134,2025-04-20,very unstable
+134,2025-04-22,very unstable
+134,2025-04-24,very unstable
+134,2025-04-25,very unstable
+134,2025-04-26,very unstable
+134,2025-04-27,very unstable
+134,2025-05-01,very unstable
+134,2025-05-08,very unstable
+134,2025-05-10,very unstable
+134,2025-05-11,very unstable
+134,2025-05-12,very unstable
+134,2025-05-15,very unstable
+134,2025-05-16,very unstable
+134,2025-05-17,very unstable
+134,2025-05-19,very unstable
+134,2025-05-20,very unstable
+134,2025-05-22,very unstable
+134,2025-05-23,very unstable
+134,2025-05-26,very unstable
+134,2025-05-28,very unstable
+134,2025-05-30,very unstable
+134,2025-05-31,very unstable
+134,2025-06-01,very unstable
+134,2025-06-02,very unstable
+134,2025-06-21,very unstable
+134,2025-06-26,very unstable
+134,2025-06-27,very unstable
+134,2025-06-28,very unstable
+134,2025-06-29,very unstable
+139,2025-05-25,unstable
+139,2025-05-26,unstable
+139,2025-05-27,unstable
+139,2025-05-28,unstable
+139,2025-05-30,unstable
+139,2025-05-31,unstable
+139,2025-06-01,unstable
+139,2025-06-03,unstable
+139,2025-06-04,unstable
+139,2025-06-05,natural
+139,2025-06-06,natural
+139,2025-06-07,natural
+139,2025-06-10,natural
+139,2025-06-12,natural
+139,2025-06-13,natural
+139,2025-06-14,natural
+139,2025-06-15,natural
+139,2025-06-20,natural
+139,2025-06-21,very stable
+139,2025-06-23,very stable
+139,2025-06-26,very stable
+139,2025-06-27,very stable
+139,2025-06-28,very stable
+139,2025-06-30,very stable
+143,2025-01-01,natural
+143,2025-01-02,natural
+143,2025-01-03,natural
+143,2025-01-04,natural
+143,2025-01-05,natural
+143,2025-01-06,natural
+143,2025-01-08,natural
+143,2025-01-09,natural
+143,2025-01-10,natural
+143,2025-01-11,natural
+143,2025-01-13,natural
+143,2025-01-14,natural
+143,2025-01-19,natural
+143,2025-01-20,natural
+143,2025-01-21,natural
+143,2025-01-22,natural
+143,2025-01-23,natural
+143,2025-01-24,natural
+143,2025-01-25,natural
+143,2025-01-26,natural
+143,2025-01-27,natural
+143,2025-01-28,natural
+143,2025-02-05,natural
+143,2025-02-06,natural
+143,2025-02-07,natural
+143,2025-02-08,natural
+143,2025-02-09,natural
+143,2025-02-10,natural
+143,2025-02-11,natural
+143,2025-02-12,natural
+143,2025-02-13,natural
+143,2025-02-14,natural
+143,2025-02-15,natural
+143,2025-02-16,very unstable
+143,2025-02-17,very unstable
+143,2025-02-21,very unstable
+143,2025-03-06,very unstable
+143,2025-03-07,very unstable
+143,2025-03-08,very unstable
+143,2025-03-10,very unstable
+143,2025-03-16,very unstable
+143,2025-03-17,very unstable
+143,2025-03-18,very unstable
+143,2025-03-24,very unstable
+143,2025-03-25,very unstable
+143,2025-03-26,very unstable
+143,2025-04-05,very unstable
+143,2025-04-06,very unstable
+143,2025-04-09,very unstable
+143,2025-04-10,very unstable
+143,2025-04-11,very unstable
+143,2025-04-12,very unstable
+143,2025-04-30,very unstable
+143,2025-05-01,very unstable
+143,2025-05-03,very unstable
+143,2025-05-04,very unstable
+143,2025-05-05,very unstable
+143,2025-05-08,very unstable
+143,2025-05-09,very unstable
+143,2025-05-10,very unstable
+143,2025-05-13,very unstable
+143,2025-05-14,very unstable
+143,2025-05-15,very unstable
+143,2025-05-16,very unstable
+143,2025-05-20,very unstable
+143,2025-05-22,very unstable
+143,2025-05-23,very unstable
+143,2025-05-25,very unstable
+143,2025-05-26,very unstable
+143,2025-05-29,very unstable
+143,2025-05-30,very unstable
+143,2025-05-31,very unstable
+143,2025-06-01,very unstable
+143,2025-06-05,very unstable
+143,2025-06-07,very unstable
+143,2025-06-08,very unstable
+143,2025-06-15,very unstable
+143,2025-06-16,very unstable
+143,2025-06-20,very unstable
+143,2025-06-24,very unstable
+143,2025-06-25,very unstable
+143,2025-06-29,very unstable
+143,2025-06-30,very unstable
+146,2025-02-02,very unstable
+146,2025-02-12,very unstable
+146,2025-02-15,very unstable
+146,2025-03-06,very unstable
+146,2025-03-08,very unstable
+146,2025-03-10,very unstable
+146,2025-03-11,very unstable
+146,2025-03-15,very unstable
+146,2025-03-16,very unstable
+146,2025-03-17,very unstable
+146,2025-03-18,very unstable
+146,2025-03-19,very unstable
+146,2025-03-20,very unstable
+146,2025-03-23,very unstable
+146,2025-03-24,very unstable
+146,2025-03-25,very unstable
+146,2025-03-27,very unstable
+146,2025-03-28,very unstable
+146,2025-04-01,very unstable
+146,2025-04-09,very unstable
+146,2025-04-13,very unstable
+146,2025-04-14,very unstable
+146,2025-04-15,very unstable
+146,2025-04-16,very unstable
+146,2025-04-18,very unstable
+146,2025-04-19,very unstable
+146,2025-04-20,very unstable
+146,2025-04-25,very unstable
+146,2025-04-27,very unstable
+146,2025-04-28,very unstable
+146,2025-04-30,very unstable
+146,2025-05-01,very unstable
+146,2025-05-02,very unstable
+146,2025-05-03,very unstable
+146,2025-05-04,very unstable
+146,2025-05-08,very unstable
+146,2025-05-09,very unstable
+146,2025-05-20,very unstable
+146,2025-05-22,very unstable
+146,2025-05-23,very unstable
+146,2025-05-24,very unstable
+146,2025-05-25,very unstable
+146,2025-05-27,very unstable
+146,2025-05-28,very unstable
+146,2025-05-29,very unstable
+146,2025-05-30,very unstable
+146,2025-05-31,very unstable
+146,2025-06-01,very unstable
+146,2025-06-08,very unstable
+146,2025-06-10,very unstable
+146,2025-06-11,very unstable
+146,2025-06-12,very unstable
+146,2025-06-13,very unstable
+146,2025-06-18,very unstable
+146,2025-06-20,very unstable
+146,2025-06-22,very unstable
+146,2025-06-23,very unstable
+148,2025-01-01,unstable
+148,2025-01-02,unstable
+148,2025-01-04,unstable
+148,2025-01-08,unstable
+148,2025-01-09,unstable
+148,2025-01-11,unstable
+148,2025-01-12,unstable
+148,2025-01-13,unstable
+148,2025-01-14,unstable
+148,2025-01-15,unstable
+148,2025-01-16,unstable
+148,2025-01-17,unstable
+148,2025-01-18,unstable
+148,2025-01-20,unstable
+148,2025-01-27,unstable
+148,2025-02-15,unstable
+148,2025-02-16,unstable
+148,2025-02-17,unstable
+148,2025-02-18,unstable
+148,2025-02-19,unstable
+148,2025-02-22,unstable
+148,2025-02-23,unstable
+148,2025-03-02,unstable
+148,2025-03-03,unstable
+148,2025-03-06,unstable
+148,2025-03-07,unstable
+148,2025-03-12,unstable
+148,2025-03-13,unstable
+148,2025-03-14,unstable
+148,2025-03-18,unstable
+148,2025-03-23,unstable
+148,2025-03-25,unstable
+148,2025-03-26,unstable
+148,2025-03-30,unstable
+148,2025-04-01,unstable
+148,2025-04-03,unstable
+148,2025-04-04,very unstable
+148,2025-04-06,very unstable
+148,2025-04-07,very unstable
+148,2025-04-08,very unstable
+148,2025-04-09,very unstable
+148,2025-04-12,very unstable
+148,2025-04-20,very unstable
+148,2025-05-01,very unstable
+148,2025-05-02,very unstable
+148,2025-05-03,very unstable
+148,2025-05-07,very unstable
+148,2025-05-08,very unstable
+148,2025-05-09,very unstable
+148,2025-05-10,very unstable
+148,2025-05-11,very unstable
+148,2025-05-15,very unstable
+148,2025-05-16,very unstable
+148,2025-05-17,very unstable
+148,2025-06-10,very unstable
+148,2025-06-11,unstable
+148,2025-06-12,unstable
+148,2025-06-14,unstable
+148,2025-06-16,unstable
+148,2025-06-19,unstable
+148,2025-06-20,unstable
+148,2025-06-21,unstable
+148,2025-06-22,unstable
+148,2025-06-25,unstable
+148,2025-06-26,unstable
+148,2025-06-30,unstable
+150,2025-01-27,unstable
+150,2025-01-29,unstable
+150,2025-01-31,unstable
+150,2025-02-01,unstable
+150,2025-02-02,unstable
+150,2025-02-07,unstable
+150,2025-02-09,unstable
+150,2025-02-10,unstable
+150,2025-02-11,unstable
+150,2025-02-13,unstable
+150,2025-02-14,unstable
+150,2025-02-16,natural
+150,2025-02-28,natural
+150,2025-03-01,unstable
+150,2025-03-04,unstable
+150,2025-03-12,unstable
+150,2025-03-31,unstable
+150,2025-04-02,unstable
+150,2025-04-05,unstable
+150,2025-04-06,unstable
+150,2025-04-17,unstable
+150,2025-04-25,unstable
+150,2025-04-26,unstable
+150,2025-04-27,unstable
+150,2025-04-28,unstable
+150,2025-04-29,unstable
+150,2025-04-30,unstable
+150,2025-05-05,natural
+150,2025-05-14,unstable
+150,2025-05-15,unstable
+150,2025-05-17,unstable
+150,2025-05-19,unstable
+150,2025-05-20,unstable
+150,2025-05-30,unstable
+150,2025-06-01,unstable
+150,2025-06-03,natural
+150,2025-06-04,natural
+150,2025-06-06,stable
+150,2025-06-07,stable
+150,2025-06-08,stable
+150,2025-06-13,stable
+150,2025-06-18,stable
+150,2025-06-20,stable
+150,2025-06-21,stable
+150,2025-06-23,stable
+150,2025-06-25,stable
+150,2025-06-28,stable
+150,2025-06-29,stable
+163,2025-01-01,unstable
+163,2025-01-03,unstable
+163,2025-01-07,unstable
+163,2025-01-08,unstable
+163,2025-01-09,unstable
+163,2025-01-20,unstable
+163,2025-01-21,unstable
+163,2025-01-22,unstable
+163,2025-01-24,unstable
+163,2025-01-25,unstable
+163,2025-01-26,unstable
+163,2025-01-27,unstable
+163,2025-01-28,unstable
+163,2025-01-31,unstable
+163,2025-02-02,unstable
+163,2025-02-03,unstable
+163,2025-02-04,unstable
+163,2025-02-13,unstable
+163,2025-02-16,unstable
+163,2025-02-17,unstable
+163,2025-02-19,unstable
+163,2025-02-20,unstable
+163,2025-02-21,unstable
+163,2025-03-04,unstable
+163,2025-03-05,unstable
+163,2025-03-07,unstable
+163,2025-03-09,unstable
+163,2025-03-11,unstable
+163,2025-03-13,unstable
+163,2025-03-15,unstable
+163,2025-03-16,unstable
+163,2025-03-19,unstable
+163,2025-03-20,unstable
+163,2025-03-22,unstable
+163,2025-03-24,unstable
+163,2025-03-25,unstable
+163,2025-03-26,unstable
+163,2025-03-28,unstable
+163,2025-03-30,unstable
+163,2025-03-31,unstable
+163,2025-04-01,unstable
+163,2025-04-03,natural
+163,2025-04-07,natural
+163,2025-04-08,very unstable
+163,2025-04-16,very unstable
+163,2025-04-19,very unstable
+163,2025-04-20,very unstable
+163,2025-04-21,very unstable
+163,2025-04-22,very unstable
+163,2025-04-23,very unstable
+163,2025-04-24,unstable
+163,2025-04-25,unstable
+163,2025-04-26,unstable
+163,2025-05-17,unstable
+163,2025-05-19,unstable
+163,2025-05-20,unstable
+163,2025-05-21,unstable
+163,2025-05-22,unstable
+163,2025-05-23,unstable
+163,2025-05-24,unstable
+163,2025-05-27,unstable
+163,2025-05-28,unstable
+163,2025-06-07,unstable
+163,2025-06-11,unstable
+163,2025-06-12,unstable
+163,2025-06-13,unstable
+163,2025-06-14,unstable
+163,2025-06-16,unstable
+163,2025-06-17,unstable
+173,2025-01-01,unstable
+173,2025-01-03,unstable
+173,2025-01-04,unstable
+173,2025-01-05,unstable
+173,2025-01-06,unstable
+173,2025-01-07,unstable
+173,2025-01-08,unstable
+173,2025-01-09,unstable
+173,2025-01-20,unstable
+173,2025-01-29,unstable
+173,2025-02-02,unstable
+173,2025-02-03,unstable
+173,2025-02-04,unstable
+173,2025-02-07,unstable
+173,2025-02-08,unstable
+173,2025-02-10,unstable
+173,2025-02-23,unstable
+173,2025-02-26,unstable
+173,2025-03-02,stable
+173,2025-03-05,very stable
+173,2025-03-07,very stable
+173,2025-03-08,very stable
+173,2025-03-11,very stable
+173,2025-04-05,very stable
+173,2025-04-06,very stable
+173,2025-04-08,very stable
+173,2025-04-09,very stable
+173,2025-04-10,very stable
+173,2025-04-11,very stable
+173,2025-04-12,very stable
+173,2025-04-14,very stable
+173,2025-05-04,very stable
+173,2025-05-07,very stable
+173,2025-05-08,very stable
+173,2025-05-09,very stable
+173,2025-05-10,very stable
+173,2025-05-15,very stable
+173,2025-05-16,very stable
+173,2025-05-18,very stable
+173,2025-05-19,very stable
+173,2025-05-20,very stable
+173,2025-05-21,very stable
+173,2025-05-22,very stable
+173,2025-05-23,very stable
+173,2025-05-26,very stable
+173,2025-06-10,very stable
+173,2025-06-12,very stable
+173,2025-06-13,very stable
+173,2025-06-14,very stable
+173,2025-06-16,very stable
+173,2025-06-17,very stable
+173,2025-06-23,very stable
+173,2025-06-24,very stable
+173,2025-06-25,very stable
+173,2025-06-27,very stable
+173,2025-06-29,very stable
+174,2025-01-18,stable
+174,2025-01-19,stable
+174,2025-01-20,stable
+174,2025-01-22,stable
+174,2025-01-23,stable
+174,2025-01-25,stable
+174,2025-02-16,stable
+174,2025-02-19,stable
+174,2025-02-24,stable
+174,2025-02-25,stable
+174,2025-02-26,stable
+174,2025-02-28,stable
+174,2025-03-02,stable
+174,2025-03-03,stable
+174,2025-03-05,stable
+174,2025-03-06,stable
+174,2025-03-07,stable
+174,2025-03-08,stable
+174,2025-03-09,stable
+174,2025-03-19,stable
+174,2025-03-29,stable
+174,2025-03-30,stable
+174,2025-04-01,stable
+174,2025-04-05,stable
+174,2025-04-06,stable
+174,2025-04-07,stable
+174,2025-04-09,stable
+174,2025-04-11,stable
+174,2025-04-12,stable
+174,2025-04-13,stable
+174,2025-04-15,stable
+174,2025-04-16,stable
+174,2025-04-20,stable
+174,2025-04-22,natural
+174,2025-04-23,natural
+174,2025-04-24,natural
+174,2025-04-25,natural
+174,2025-05-04,natural
+174,2025-05-07,natural
+174,2025-05-08,natural
+174,2025-05-09,natural
+174,2025-05-10,natural
+174,2025-05-11,natural
+174,2025-05-14,natural
+174,2025-05-17,natural
+174,2025-05-27,natural
+174,2025-05-29,natural
+174,2025-05-31,natural
+174,2025-06-01,natural
+174,2025-06-03,natural
+174,2025-06-13,natural
+174,2025-06-14,natural
+174,2025-06-15,natural
+174,2025-06-16,natural
+174,2025-06-17,natural
+174,2025-06-18,natural
+174,2025-06-19,natural
+174,2025-06-21,natural
+174,2025-06-22,natural
+174,2025-06-26,natural
+174,2025-06-28,natural
+174,2025-06-29,natural
+174,2025-06-30,unstable
+176,2025-01-01,natural
+176,2025-01-02,natural
+176,2025-01-25,natural
+176,2025-01-27,natural
+176,2025-01-28,natural
+176,2025-01-30,natural
+176,2025-01-31,natural
+176,2025-02-01,natural
+176,2025-02-03,natural
+176,2025-02-04,natural
+176,2025-02-07,natural
+176,2025-02-08,natural
+176,2025-02-09,natural
+176,2025-02-11,natural
+176,2025-02-14,natural
+176,2025-02-15,natural
+176,2025-02-17,natural
+176,2025-02-18,natural
+176,2025-02-19,natural
+176,2025-02-20,natural
+176,2025-02-21,natural
+176,2025-02-22,natural
+176,2025-02-23,natural
+176,2025-02-24,natural
+176,2025-02-26,natural
+176,2025-02-27,natural
+176,2025-03-19,natural
+176,2025-03-21,natural
+176,2025-03-22,natural
+176,2025-03-27,natural
+176,2025-04-08,natural
+176,2025-04-09,natural
+176,2025-04-10,natural
+176,2025-04-11,natural
+176,2025-04-13,natural
+176,2025-04-24,natural
+176,2025-04-26,natural
+176,2025-04-28,natural
+176,2025-04-29,natural
+176,2025-05-01,natural
+176,2025-05-03,natural
+176,2025-05-08,natural
+176,2025-05-09,natural
+176,2025-05-11,natural
+176,2025-05-13,natural
+176,2025-05-15,natural
+176,2025-05-16,natural
+176,2025-05-17,natural
+176,2025-05-24,natural
+176,2025-05-25,natural
+176,2025-05-28,natural
+176,2025-05-29,natural
+176,2025-05-30,natural
+176,2025-06-01,natural
+176,2025-06-03,natural
+176,2025-06-04,natural
+176,2025-06-05,natural
+176,2025-06-08,natural
+176,2025-06-09,natural
+176,2025-06-10,natural
+176,2025-06-11,natural
+176,2025-06-13,natural
+176,2025-06-14,natural
+176,2025-06-19,natural
+176,2025-06-21,natural
+176,2025-06-22,natural
+176,2025-06-23,natural
+176,2025-06-24,natural
+176,2025-06-25,natural
+176,2025-06-26,natural
+176,2025-06-27,natural
+176,2025-06-30,natural
+179,2025-01-01,very unstable
+179,2025-01-03,very unstable
+179,2025-01-04,very unstable
+179,2025-01-06,very unstable
+179,2025-01-07,very unstable
+179,2025-01-09,very unstable
+179,2025-01-10,very unstable
+179,2025-01-12,very unstable
+179,2025-01-24,very unstable
+179,2025-01-30,very unstable
+179,2025-02-01,very unstable
+179,2025-02-09,very unstable
+179,2025-02-11,very unstable
+179,2025-02-12,very unstable
+179,2025-02-13,very unstable
+179,2025-02-15,very unstable
+179,2025-02-16,very unstable
+179,2025-02-17,very unstable
+179,2025-02-20,very unstable
+179,2025-02-21,unstable
+179,2025-02-22,unstable
+179,2025-02-25,unstable
+179,2025-02-26,unstable
+179,2025-03-01,unstable
+179,2025-03-02,unstable
+179,2025-03-10,unstable
+179,2025-03-11,unstable
+179,2025-03-12,unstable
+179,2025-03-20,unstable
+179,2025-03-21,unstable
+179,2025-03-22,unstable
+179,2025-03-23,unstable
+179,2025-03-25,unstable
+179,2025-03-29,unstable
+179,2025-03-31,unstable
+179,2025-04-02,unstable
+179,2025-04-06,unstable
+179,2025-04-07,unstable
+179,2025-04-16,unstable
+179,2025-04-17,unstable
+179,2025-04-19,natural
+179,2025-04-20,natural
+179,2025-04-22,natural
+179,2025-04-23,natural
+179,2025-04-25,natural
+179,2025-04-26,natural
+179,2025-04-27,natural
+179,2025-05-08,natural
+179,2025-05-09,natural
+179,2025-05-10,natural
+179,2025-05-11,natural
+179,2025-05-12,natural
+179,2025-05-13,natural
+179,2025-05-23,natural
+179,2025-05-31,natural
+179,2025-06-03,natural
+179,2025-06-04,natural
+179,2025-06-07,natural
+179,2025-06-08,natural
+179,2025-06-09,natural
+179,2025-06-10,natural
+179,2025-06-12,natural
+179,2025-06-14,natural
+179,2025-06-15,natural
+179,2025-06-17,natural
+179,2025-06-18,natural
+179,2025-06-21,natural
+179,2025-06-23,natural
+179,2025-06-24,natural
+179,2025-06-25,natural
+179,2025-06-26,natural
+190,2025-01-01,unstable
+190,2025-01-02,unstable
+190,2025-01-05,unstable
+190,2025-01-06,unstable
+190,2025-01-07,unstable
+190,2025-01-08,unstable
+190,2025-01-09,unstable
+190,2025-01-10,unstable
+190,2025-02-01,unstable
+190,2025-02-05,unstable
+190,2025-02-06,unstable
+190,2025-02-07,unstable
+190,2025-02-09,unstable
+190,2025-02-19,unstable
+190,2025-02-20,stable
+190,2025-02-21,stable
+190,2025-02-22,stable
+190,2025-02-23,stable
+190,2025-02-25,stable
+190,2025-02-26,stable
+190,2025-02-28,stable
+190,2025-03-01,stable
+190,2025-03-03,stable
+190,2025-03-12,very stable
+190,2025-03-13,very stable
+190,2025-03-15,very stable
+190,2025-03-16,very stable
+190,2025-03-18,very stable
+190,2025-03-19,very stable
+190,2025-03-20,very stable
+190,2025-03-22,very stable
+190,2025-03-23,very stable
+190,2025-03-25,very stable
+190,2025-03-27,very stable
+190,2025-04-01,very stable
+190,2025-04-10,very stable
+190,2025-04-14,very stable
+190,2025-04-15,very stable
+190,2025-04-16,very stable
+190,2025-04-17,very stable
+190,2025-04-29,very stable
+190,2025-05-02,very stable
+190,2025-05-03,very stable
+190,2025-05-06,very stable
+190,2025-05-13,very stable
+190,2025-05-14,very stable
+190,2025-05-15,very stable
+190,2025-05-18,very stable
+190,2025-05-19,very stable
+190,2025-05-21,very stable
+190,2025-05-24,very stable
+190,2025-05-25,very stable
+190,2025-05-28,very stable
+190,2025-06-09,very stable
+190,2025-06-14,very stable
+190,2025-06-19,very stable
+190,2025-06-29,very stable
+190,2025-06-30,very stable
+196,2025-01-10,natural
+196,2025-01-11,natural
+196,2025-01-12,natural
+196,2025-01-16,natural
+196,2025-01-17,natural
+196,2025-01-20,natural
+196,2025-01-22,natural
+196,2025-01-24,natural
+196,2025-01-26,natural
+196,2025-01-28,natural
+196,2025-01-29,natural
+196,2025-01-30,natural
+196,2025-01-31,natural
+196,2025-02-01,natural
+196,2025-02-03,natural
+196,2025-02-05,very stable
+196,2025-02-07,very stable
+196,2025-02-08,very stable
+196,2025-02-16,very stable
+196,2025-02-17,very stable
+196,2025-03-08,very stable
+196,2025-03-09,very stable
+196,2025-03-10,very stable
+196,2025-03-11,very stable
+196,2025-03-13,very stable
+196,2025-03-14,very stable
+196,2025-03-16,very stable
+196,2025-03-22,very stable
+196,2025-03-23,very stable
+196,2025-03-24,very stable
+196,2025-03-25,very stable
+196,2025-03-26,very stable
+196,2025-03-28,very stable
+196,2025-03-29,very stable
+196,2025-03-31,very stable
+196,2025-04-03,very stable
+196,2025-04-05,very stable
+196,2025-04-07,very stable
+196,2025-04-12,very stable
+196,2025-04-13,very stable
+196,2025-04-14,very stable
+196,2025-04-15,very stable
+196,2025-04-17,very stable
+196,2025-04-18,very stable
+196,2025-04-22,very stable
+196,2025-04-23,very stable
+196,2025-04-26,very stable
+196,2025-04-28,very stable
+196,2025-04-29,very stable
+196,2025-05-02,very stable
+196,2025-05-03,very stable
+196,2025-05-04,very stable
+196,2025-05-05,very stable
+196,2025-05-21,very stable
+196,2025-05-22,very stable
+196,2025-05-23,very stable
+196,2025-05-24,very stable
+196,2025-06-17,very stable
+196,2025-06-19,very stable
+196,2025-06-20,very stable
+196,2025-06-21,very stable
+196,2025-06-23,very stable
+198,2025-01-01,very unstable
+198,2025-01-02,very unstable
+198,2025-01-03,very unstable
+198,2025-01-04,very unstable
+198,2025-01-05,very unstable
+198,2025-01-08,very unstable
+198,2025-01-09,very unstable
+198,2025-01-14,very unstable
+198,2025-01-16,very unstable
+198,2025-01-17,very unstable
+198,2025-01-19,very unstable
+198,2025-01-20,very unstable
+198,2025-02-05,very unstable
+198,2025-02-06,very unstable
+198,2025-02-07,very unstable
+198,2025-02-08,very unstable
+198,2025-02-09,very unstable
+198,2025-02-10,very unstable
+198,2025-02-13,very unstable
+198,2025-02-16,very unstable
+198,2025-02-18,very unstable
+198,2025-02-27,very unstable
+198,2025-03-02,very unstable
+198,2025-03-04,very unstable
+198,2025-03-12,very unstable
+198,2025-03-13,very unstable
+198,2025-03-14,very unstable
+198,2025-03-16,very unstable
+198,2025-03-17,very unstable
+198,2025-03-18,very unstable
+198,2025-03-20,very unstable
+198,2025-03-24,very unstable
+198,2025-03-25,very unstable
+198,2025-03-26,very unstable
+198,2025-03-27,very unstable
+198,2025-03-29,very unstable
+198,2025-03-30,very unstable
+198,2025-03-31,very unstable
+198,2025-04-03,very unstable
+198,2025-04-05,very unstable
+198,2025-04-10,very unstable
+198,2025-04-11,very unstable
+198,2025-04-12,very unstable
+198,2025-04-16,very unstable
+198,2025-05-01,very unstable
+198,2025-05-03,very unstable
+198,2025-05-05,very unstable
+198,2025-05-06,very unstable
+198,2025-05-07,very unstable
+198,2025-05-08,very unstable
+198,2025-05-10,very unstable
+198,2025-05-12,very unstable
+198,2025-05-26,very unstable
+198,2025-05-27,very unstable
+198,2025-05-28,very unstable
+198,2025-05-31,very unstable
+198,2025-06-05,very unstable
+198,2025-06-06,very unstable
+198,2025-06-08,very unstable
+198,2025-06-13,very unstable
+198,2025-06-18,very unstable
+198,2025-06-19,very unstable
+198,2025-06-20,very unstable
+198,2025-06-22,very unstable
+198,2025-06-26,very unstable
+199,2025-02-09,natural
+199,2025-02-10,natural
+199,2025-02-11,natural
+199,2025-02-12,natural
+199,2025-02-13,natural
+199,2025-02-17,natural
+199,2025-02-18,natural
+199,2025-02-19,natural
+199,2025-02-20,stable
+199,2025-02-28,stable
+199,2025-03-01,stable
+199,2025-03-02,natural
+199,2025-03-03,natural
+199,2025-03-14,natural
+199,2025-03-18,natural
+199,2025-03-19,natural
+199,2025-03-20,natural
+199,2025-03-21,natural
+199,2025-03-22,natural
+199,2025-04-01,natural
+199,2025-04-02,natural
+199,2025-04-03,natural
+199,2025-04-04,natural
+199,2025-04-05,natural
+199,2025-04-08,unstable
+199,2025-04-09,unstable
+199,2025-04-10,unstable
+199,2025-04-11,unstable
+199,2025-04-12,unstable
+199,2025-04-16,unstable
+199,2025-04-17,unstable
+199,2025-04-20,unstable
+199,2025-04-21,unstable
+199,2025-04-22,unstable
+199,2025-04-30,very unstable
+199,2025-05-02,very unstable
+199,2025-05-03,very unstable
+199,2025-05-05,very unstable
+199,2025-05-06,very unstable
+199,2025-05-07,very unstable
+199,2025-05-08,very unstable
+199,2025-05-13,very unstable
+199,2025-05-14,very unstable
+199,2025-05-15,very unstable
+199,2025-05-16,very unstable
+199,2025-05-18,very unstable
+199,2025-05-19,unstable
+199,2025-05-20,natural
+199,2025-05-21,natural
+199,2025-05-22,natural
+199,2025-05-23,natural
+199,2025-05-24,natural
+199,2025-05-25,natural
+199,2025-06-09,natural
+199,2025-06-10,natural
+199,2025-06-15,stable
+199,2025-06-16,stable
+199,2025-06-17,stable
+199,2025-06-18,stable
+199,2025-06-21,stable
+199,2025-06-22,stable
+200,2025-01-01,natural
+200,2025-01-12,natural
+200,2025-01-13,natural
+200,2025-01-14,natural
+200,2025-01-15,natural
+200,2025-01-18,natural
+200,2025-01-19,natural
+200,2025-01-20,natural
+200,2025-02-13,natural
+200,2025-02-15,natural
+200,2025-02-16,natural
+200,2025-02-17,stable
+200,2025-02-18,stable
+200,2025-03-04,stable
+200,2025-03-05,stable
+200,2025-03-07,stable
+200,2025-03-17,stable
+200,2025-03-18,stable
+200,2025-03-19,stable
+200,2025-03-20,stable
+200,2025-03-22,stable
+200,2025-03-23,stable
+200,2025-03-24,stable
+200,2025-03-25,stable
+200,2025-03-26,stable
+200,2025-03-27,stable
+200,2025-03-28,stable
+200,2025-04-04,stable
+200,2025-04-05,natural
+200,2025-04-09,natural
+200,2025-04-10,natural
+200,2025-04-11,natural
+200,2025-04-15,natural
+200,2025-04-16,natural
+200,2025-04-21,natural
+200,2025-04-26,natural
+200,2025-04-27,natural
+200,2025-04-28,natural
+200,2025-05-10,natural
+200,2025-05-12,natural
+200,2025-05-13,natural
+200,2025-05-15,natural
+200,2025-05-17,natural
+200,2025-05-18,natural
+200,2025-05-19,natural
+200,2025-05-20,natural
+200,2025-05-22,natural
+200,2025-05-26,natural
+200,2025-05-27,natural
+200,2025-05-28,natural
+200,2025-05-29,natural
+200,2025-05-30,natural
+200,2025-06-01,very stable
+200,2025-06-02,very stable
+200,2025-06-03,very stable
+200,2025-06-04,very stable
+200,2025-06-06,very stable
+200,2025-06-07,very stable
+200,2025-06-28,very stable
+200,2025-06-29,very stable
+200,2025-06-30,very stable

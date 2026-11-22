@@ -1,0 +1,171 @@
+breakdown_id,ticket_id,occurred_at,breakdown_category,component_name,effort_minutes,cost_egp,breakdown_description
+61030,2409,2025-07-02 22:26:24,Diagnosis,Mobile App,40,285.69,Isolated the fault domain and confirmed root cause candidate on Mobile App
+61103,4422,2025-07-05 09:42:27,Diagnosis,Server PSU,30,262.13,Isolated the fault domain and confirmed root cause candidate on Server PSU
+61180,2314,2025-07-08 05:13:24,Testing,Password Policy,20,92.36,Executed verification tests against Password Policy
+61185,4281,2025-07-08 07:48:10,Testing,Tempdb,35,166.77,Executed verification tests against Tempdb
+61202,4530,2025-07-09 00:45:16,Investigation,Workstation,50,213.37,Reviewed logs and reproduced the reported behaviour on Workstation
+61203,1468,2025-07-09 02:00:25,Repair,CRM Module,310,2507.05,Applied corrective repair to CRM Module
+61204,4525,2025-07-09 02:22:30,Investigation,Replication Job,35,172.02,Reviewed logs and reproduced the reported behaviour on Replication Job
+61205,4529,2025-07-09 04:43:16,Testing,SSO Provider,15,64.62,Executed verification tests against SSO Provider
+61206,4528,2025-07-09 05:03:52,Replacement,CRM Module,100,1143.80,Replaced faulty part or component of CRM Module
+61207,4528,2025-07-09 05:59:18,Investigation,Firewall Rule,40,196.91,Reviewed logs and reproduced the reported behaviour on Firewall Rule
+90231,99002,2025-07-12 05:00:00,Testing,VPN Gateway,20,50.00,Unknown ticket
+61208,4526,2025-07-09 06:17:21,Testing,Server PSU,10,47.75,Executed verification tests against Server PSU
+61209,4437,2025-07-09 07:15:52,Testing,VPN Gateway,105,528.50,Executed verification tests against VPN Gateway
+61210,4519,2025-07-09 07:44:44,Customer Communication,AD Account,35,123.64,Contacted customer regarding AD Account status
+61211,4526,2025-07-09 07:54:27,Testing,Firewall,45,174.92,Executed verification tests against Firewall
+61212,4530,2025-07-09 11:54:46,Investigation,Index Maintenance,55,216.33,Reviewed logs and reproduced the reported behaviour on Index Maintenance
+61213,4530,2025-07-09 15:01:44,Customer Communication,Load Test Rig,15,53.75,Contacted customer regarding Load Test Rig status
+61214,4437,2025-07-09 15:28:13,Monitoring,Server PSU,15,47.46,Monitored Server PSU for recurrence after the change
+61215,4414,2025-07-09 15:28:56,Testing,Installer Package,35,235.33,Executed verification tests against Installer Package
+61216,4528,2025-07-09 16:49:28,Investigation,VPN Gateway,15,73.96,Reviewed logs and reproduced the reported behaviour on VPN Gateway
+61217,2571,2025-07-09 16:55:50,Customer Communication,CRM Module,30,117.18,Contacted customer regarding CRM Module status
+61218,4524,2025-07-09 18:32:55,Testing,Mail Gateway,20,89.05,Executed verification tests against Mail Gateway
+61219,4532,2025-07-09 19:07:19,Investigation,Reporting Engine,60,2762.97,Reviewed logs and reproduced the reported behaviour on Reporting Engine
+61220,4517,2025-07-09 20:03:14,Configuration,ETL Job,65,1483.24,Adjusted configuration settings on ETL Job and documented the change
+61221,3482,2025-07-09 20:58:29,Investigation,Load Balancer,50,252.47,Reviewed logs and reproduced the reported behaviour on Load Balancer
+61222,4526,2025-07-09 22:44:34,Testing,Load Balancer,15,66.80,Executed verification tests against Load Balancer
+61223,4526,2025-07-10 02:31:21,Testing,Shared Drive ACL,30,179.71,Executed verification tests against Shared Drive ACL
+61224,1429,2025-07-10 03:36:24,Diagnosis,SFTP Drop,190,1516.61,Isolated the fault domain and confirmed root cause candidate on SFTP Drop
+61225,4535,2025-07-10 04:20:39,Repair,Message Queue,185,1337.63,Applied corrective repair to Message Queue
+61226,4526,2025-07-10 07:01:02,Investigation,Billing Service,45,270.27,Reviewed logs and reproduced the reported behaviour on Billing Service
+61227,3482,2025-07-10 07:10:37,Configuration,Disk Array,60,292.55,Adjusted configuration settings on Disk Array and documented the change
+61228,4526,2025-07-10 08:56:18,Testing,Firewall,40,178.41,Executed verification tests against Firewall
+61229,4512,2025-07-10 10:20:35,Configuration,Billing Service,175,971.85,Adjusted configuration settings on Billing Service and documented the change
+61230,4535,2025-07-10 10:28:15,Replacement,App Server,70,2108.32,Replaced faulty part or component of App Server
+61231,1429,2025-07-10 10:32:32,Testing,TLS Certificate,15,71.44,Executed verification tests against TLS Certificate
+61232,4524,2025-07-10 10:43:41,Testing,Cooling Unit,20,105.25,Executed verification tests against Cooling Unit
+61233,4512,2025-07-10 12:26:33,Diagnosis,DNS Server,40,246.73,Isolated the fault domain and confirmed root cause candidate on DNS Server
+61234,4530,2025-07-10 12:59:20,Investigation,Core Switch,80,412.54,Reviewed logs and reproduced the reported behaviour on Core Switch
+61235,3482,2025-07-10 15:15:50,Monitoring,Customer Portal,5,20.34,Monitored Customer Portal for recurrence after the change
+61236,4529,2025-07-10 16:19:57,Investigation,VPN Gateway,60,276.94,Reviewed logs and reproduced the reported behaviour on VPN Gateway
+61237,4535,2025-07-10 17:21:17,Monitoring,SIEM Rule,30,112.17,Monitored SIEM Rule for recurrence after the change
+61238,4530,2025-07-10 18:03:11,Investigation,Cache Layer,50,230.24,Reviewed logs and reproduced the reported behaviour on Cache Layer
+61239,4538,2025-07-10 18:38:34,Monitoring,CRM Module,15,51.45,Monitored CRM Module for recurrence after the change
+61240,4529,2025-07-10 19:04:19,Investigation,UPS Unit,75,352.02,Reviewed logs and reproduced the reported behaviour on UPS Unit
+61241,4536,2025-07-10 20:06:49,Testing,Billing Service,15,72.95,Executed verification tests against Billing Service
+61242,4414,2025-07-10 21:04:36,Diagnosis,Customer Portal,125,784.67,Isolated the fault domain and confirmed root cause candidate on Customer Portal
+61243,2571,2025-07-10 21:10:33,Customer Communication,Billing Service,30,101.37,Contacted customer regarding Billing Service status
+61244,3907,2025-07-10 21:39:40,Configuration,Batch Scheduler,70,362.61,Adjusted configuration settings on Batch Scheduler and documented the change
+61245,4539,2025-07-10 23:14:34,Testing,Installer Package,30,133.29,Executed verification tests against Installer Package
+61246,4536,2025-07-10 23:33:08,Diagnosis,Mobile App,605,3765.57,Isolated the fault domain and confirmed root cause candidate on Mobile App
+61247,4529,2025-07-11 02:23:52,Diagnosis,REST API,65,442.21,Isolated the fault domain and confirmed root cause candidate on REST API
+61248,4538,2025-07-11 03:13:30,Testing,Load Test Rig,20,104.91,Executed verification tests against Load Test Rig
+61249,4535,2025-07-11 03:40:57,Monitoring,Cooling Unit,5,18.03,Monitored Cooling Unit for recurrence after the change
+61250,3482,2025-07-11 04:14:26,Repair,Query Plan,50,5950.96,Applied corrective repair to Query Plan
+61251,4197,2025-07-11 10:18:22,Investigation,Installer Package,165,803.30,Reviewed logs and reproduced the reported behaviour on Installer Package
+61252,4529,2025-07-11 10:44:19,Repair,Mobile App,65,695.38,Applied corrective repair to Mobile App
+61253,1429,2025-07-11 12:16:39,Repair,MFA Service,80,466.20,Applied corrective repair to MFA Service
+61254,4538,2025-07-11 13:24:28,Testing,Message Queue,20,80.34,Executed verification tests against Message Queue
+61255,2586,2025-07-11 14:31:03,Customer Communication,Message Queue,45,203.22,Contacted customer regarding Message Queue status
+61256,1240,2025-07-11 15:08:39,Investigation,Reporting Engine,40,211.75,Reviewed logs and reproduced the reported behaviour on Reporting Engine
+61257,2586,2025-07-11 15:14:12,Diagnosis,Tempdb,40,250.02,Isolated the fault domain and confirmed root cause candidate on Tempdb
+61258,4539,2025-07-11 15:24:20,Repair,Webhook Endpoint,25,2344.65,Applied corrective repair to Webhook Endpoint
+61259,4538,2025-07-11 15:57:56,Investigation,REST API,40,212.66,Reviewed logs and reproduced the reported behaviour on REST API
+61260,4542,2025-07-11 16:00:00,Diagnosis,Message Queue,270,1839.15,Isolated the fault domain and confirmed root cause candidate on Message Queue
+61261,4535,2025-07-11 16:46:13,Testing,WAN Link,90,428.14,Executed verification tests against WAN Link
+61262,4534,2025-07-11 17:00:21,Escalation Work,Endpoint Agent,325,3167.66,Specialist escalation work performed on Endpoint Agent
+61263,4295,2025-07-11 17:13:25,Configuration,VPN Gateway,20,107.70,Adjusted configuration settings on VPN Gateway and documented the change
+61264,4539,2025-07-11 18:29:43,Repair,Endpoint Agent,55,361.75,Applied corrective repair to Endpoint Agent
+61265,4539,2025-07-11 19:11:31,Testing,Server PSU,20,82.50,Executed verification tests against Server PSU
+61266,1240,2025-07-11 21:19:40,Configuration,Load Test Rig,15,86.40,Adjusted configuration settings on Load Test Rig and documented the change
+61267,4535,2025-07-11 21:56:06,Diagnosis,ETL Job,20,116.00,Isolated the fault domain and confirmed root cause candidate on ETL Job
+61268,4544,2025-07-11 23:38:08,Testing,Server PSU,10,51.80,Executed verification tests against Server PSU
+61269,4542,2025-07-12 00:29:50,Repair,Replication Job,105,744.97,Applied corrective repair to Replication Job
+61270,4536,2025-07-12 03:12:11,Monitoring,App Server,60,232.68,Monitored App Server for recurrence after the change
+61271,4541,2025-07-12 03:33:57,Diagnosis,Mobile App,40,276.04,Isolated the fault domain and confirmed root cause candidate on Mobile App
+61272,4539,2025-07-12 03:43:44,Investigation,Access Point,45,224.67,Reviewed logs and reproduced the reported behaviour on Access Point
+61273,1240,2025-07-12 03:48:55,Investigation,Batch Scheduler,50,196.55,Reviewed logs and reproduced the reported behaviour on Batch Scheduler
+61274,4536,2025-07-12 04:23:23,Repair,CRM Module,160,1163.98,Applied corrective repair to CRM Module
+61275,4544,2025-07-12 09:23:51,Customer Communication,SFTP Drop,50,162.09,Contacted customer regarding SFTP Drop status
+61276,1468,2025-07-12 12:04:12,Monitoring,Firewall,5,15.57,Monitored Firewall for recurrence after the change
+61277,1240,2025-07-12 12:15:20,Repair,Cache Layer,130,849.43,Applied corrective repair to Cache Layer
+61278,1240,2025-07-12 12:58:40,Testing,Cache Layer,30,136.11,Executed verification tests against Cache Layer
+61279,3482,2025-07-12 13:24:04,Repair,Transaction Log,30,229.41,Applied corrective repair to Transaction Log
+61280,4545,2025-07-12 15:43:36,Diagnosis,ETL Job,25,148.36,Isolated the fault domain and confirmed root cause candidate on ETL Job
+61281,4548,2025-07-12 15:52:28,Configuration,Cache Layer,85,528.97,Adjusted configuration settings on Cache Layer and documented the change
+61282,4548,2025-07-12 16:17:31,Repair,Backup Job,75,547.07,Applied corrective repair to Backup Job
+61283,4547,2025-07-12 16:43:38,Monitoring,ERP Connector,25,96.62,Monitored ERP Connector for recurrence after the change
+61284,3482,2025-07-12 17:11:55,Diagnosis,Customer Portal,220,1296.12,Isolated the fault domain and confirmed root cause candidate on Customer Portal
+61285,4022,2025-07-12 17:34:38,Investigation,Memory Pool,40,175.40,Reviewed logs and reproduced the reported behaviour on Memory Pool
+61286,4543,2025-07-12 17:35:20,Repair,REST API,120,817.13,Applied corrective repair to REST API
+61287,1429,2025-07-12 17:49:45,Testing,SIEM Rule,30,124.57,Executed verification tests against SIEM Rule
+61288,1468,2025-07-12 17:55:03,Investigation,VPN Gateway,35,185.82,Reviewed logs and reproduced the reported behaviour on VPN Gateway
+61289,3482,2025-07-12 18:27:13,Investigation,Endpoint Agent,285,1323.87,Reviewed logs and reproduced the reported behaviour on Endpoint Agent
+61290,4546,2025-07-12 19:43:12,Monitoring,ETL Job,10,35.73,Monitored ETL Job for recurrence after the change
+61291,4536,2025-07-12 20:21:53,Investigation,Shared Drive ACL,30,131.53,Reviewed logs and reproduced the reported behaviour on Shared Drive ACL
+61292,4546,2025-07-12 20:30:09,Monitoring,MFA Service,10,39.83,Monitored MFA Service for recurrence after the change
+61293,3482,2025-07-12 21:30:21,Monitoring,Batch Scheduler,30,104.73,Monitored Batch Scheduler for recurrence after the change
+61294,1468,2025-07-12 22:03:43,Customer Communication,Batch Scheduler,30,98.29,Contacted customer regarding Batch Scheduler status
+61295,1240,2025-07-12 22:55:41,Configuration,SSO Provider,5,31.58,Adjusted configuration settings on SSO Provider and documented the change
+61296,4543,2025-07-13 00:50:14,Escalation Work,SQL Instance,190,1922.10,Specialist escalation work performed on SQL Instance
+61297,4537,2025-07-13 00:58:27,Testing,SFTP Drop,80,412.81,Executed verification tests against SFTP Drop
+61298,4547,2025-07-13 01:18:43,Diagnosis,Installer Package,50,418.99,Isolated the fault domain and confirmed root cause candidate on Installer Package
+61299,4517,2025-07-13 02:12:11,Repair,Shared Drive ACL,105,595.76,Applied corrective repair to Shared Drive ACL
+61300,4543,2025-07-13 03:18:35,Diagnosis,Password Policy,25,194.67,Isolated the fault domain and confirmed root cause candidate on Password Policy
+61301,4543,2025-07-13 03:27:44,Repair,Core Switch,80,722.06,Applied corrective repair to Core Switch
+61302,4537,2025-07-13 04:25:14,Investigation,Reporting Engine,85,406.94,Reviewed logs and reproduced the reported behaviour on Reporting Engine
+61303,4517,2025-07-13 05:07:41,Diagnosis,REST API,110,694.04,Isolated the fault domain and confirmed root cause candidate on REST API
+61304,3482,2025-07-13 05:11:54,Monitoring,TLS Certificate,10,36.31,Monitored TLS Certificate for recurrence after the change
+61305,4542,2025-07-13 05:13:57,Configuration,Backup Job,15,80.14,Adjusted configuration settings on Backup Job and documented the change
+61306,4545,2025-07-13 05:18:42,Testing,Installer Package,40,234.88,Executed verification tests against Installer Package
+61307,4549,2025-07-13 05:23:04,Replacement,CRM Module,100,1111.27,Replaced faulty part or component of CRM Module
+61308,4517,2025-07-13 05:40:43,Escalation Work,Cache Layer,45,434.81,Specialist escalation work performed on Cache Layer
+61309,4548,2025-07-13 07:10:49,Testing,Billing Service,45,267.48,Executed verification tests against Billing Service
+61310,4542,2025-07-13 07:19:00,Customer Communication,SFTP Drop,50,170.12,Contacted customer regarding SFTP Drop status
+61311,4536,2025-07-13 09:13:17,Investigation,Network Printer,70,315.13,Reviewed logs and reproduced the reported behaviour on Network Printer
+61312,4540,2025-07-13 09:43:42,Testing,Firewall,45,193.42,Executed verification tests against Firewall
+61313,4537,2025-07-13 11:03:55,Customer Communication,Installer Package,85,266.48,Contacted customer regarding Installer Package status
+61314,4549,2025-07-13 11:09:40,Testing,Core Switch,30,138.14,Executed verification tests against Core Switch
+61315,4551,2025-07-13 11:32:14,Investigation,Webhook Endpoint,60,386.50,Reviewed logs and reproduced the reported behaviour on Webhook Endpoint
+61316,4550,2025-07-13 11:43:55,Repair,SIEM Rule,55,1734.84,Applied corrective repair to SIEM Rule
+61317,4537,2025-07-13 11:44:29,Escalation Work,DNS Server,145,1219.23,Specialist escalation work performed on DNS Server
+61318,3482,2025-07-13 12:37:23,Customer Communication,MFA Service,15,44.87,Contacted customer regarding MFA Service status
+61319,4197,2025-07-13 12:46:12,Configuration,Network Printer,25,152.73,Adjusted configuration settings on Network Printer and documented the change
+61320,4549,2025-07-13 13:08:59,Investigation,ERP Connector,35,150.81,Reviewed logs and reproduced the reported behaviour on ERP Connector
+61321,4548,2025-07-13 13:48:07,Monitoring,Replication Job,20,77.56,Monitored Replication Job for recurrence after the change
+61322,4519,2025-07-13 14:13:01,Investigation,Mobile App,55,282.17,Reviewed logs and reproduced the reported behaviour on Mobile App
+61323,4540,2025-07-13 15:06:41,Monitoring,Shared Drive ACL,45,154.86,Monitored Shared Drive ACL for recurrence after the change
+61324,4414,2025-07-13 16:27:41,Investigation,CRM Module,40,170.66,Reviewed logs and reproduced the reported behaviour on CRM Module
+61325,4543,2025-07-13 16:31:35,Repair,ERP Connector,80,529.89,Applied corrective repair to ERP Connector
+61326,1240,2025-07-13 19:20:49,Replacement,IAM Policy,105,1780.31,Replaced faulty part or component of IAM Policy
+61327,4552,2025-07-13 21:06:45,Repair,REST API,120,837.00,Applied corrective repair to REST API
+61328,4551,2025-07-13 21:29:17,Escalation Work,Tempdb,335,3974.43,Specialist escalation work performed on Tempdb
+61329,4519,2025-07-13 21:36:24,Repair,Shared Drive ACL,140,909.12,Applied corrective repair to Shared Drive ACL
+61330,4551,2025-07-13 22:39:18,Investigation,App Server,30,126.98,Reviewed logs and reproduced the reported behaviour on App Server (flat-rate bundle)
+61331,4549,2025-07-13 22:57:04,Configuration,Access Point,55,269.04,Adjusted configuration settings on Access Point and documented the change
+61332,4529,2025-07-13 23:31:18,Diagnosis,VPN Gateway,55,367.00,Isolated the fault domain and confirmed root cause candidate on VPN Gateway
+61333,1240,2025-07-13 23:49:36,Investigation,SIEM Rule,30,115.36,Reviewed logs and reproduced the reported behaviour on SIEM Rule
+61334,3947,2025-07-14 00:14:40,Investigation,Cooling Unit,30,151.51,Reviewed logs and reproduced the reported behaviour on Cooling Unit
+61335,4540,2025-07-14 01:50:15,Replacement,Firewall,210,5910.67,Replaced faulty part or component of Firewall
+61336,4548,2025-07-14 02:34:05,Testing,Mobile App,5,24.76,Executed verification tests against Mobile App
+90232,1005,2025-07-12 05:00:00,Testing,VPN Gateway,20,-5.00,Negative cost
+61337,1240,2025-07-14 04:28:33,Monitoring,Installer Package,5,18.59,Monitored Installer Package for recurrence after the change
+61338,3947,2025-07-14 04:29:49,Monitoring,App Server,25,106.21,Monitored App Server for recurrence after the change
+61339,4517,2025-07-14 05:30:21,Monitoring,Firewall,5,16.17,Monitored Firewall for recurrence after the change
+61340,4554,2025-07-14 06:49:31,Investigation,Tempdb,40,864.06,Reviewed logs and reproduced the reported behaviour on Tempdb
+61341,3947,2025-07-14 07:45:58,Monitoring,Load Test Rig,30,111.06,Monitored Load Test Rig for recurrence after the change
+61342,4529,2025-07-14 07:49:41,Investigation,TLS Certificate,50,239.10,Reviewed logs and reproduced the reported behaviour on TLS Certificate
+61343,4529,2025-07-14 08:29:47,Repair,SSO Provider,35,247.19,Applied corrective repair to SSO Provider
+61344,4197,2025-07-14 09:24:34,Repair,MFA Service,105,959.25,Applied corrective repair to MFA Service
+61345,4534,2025-07-14 11:07:09,Investigation,CRM Module,115,511.97,Reviewed logs and reproduced the reported behaviour on CRM Module
+61346,4197,2025-07-14 13:06:56,Configuration,Shared Drive ACL,170,848.29,Adjusted configuration settings on Shared Drive ACL and documented the change
+61347,4517,2025-07-14 13:37:16,Testing,Replication Job,35,194.06,Executed verification tests against Replication Job
+61348,3947,2025-07-14 13:46:13,Diagnosis,VPN Gateway,300,2412.52,Isolated the fault domain and confirmed root cause candidate on VPN Gateway
+61349,4529,2025-07-14 13:57:52,Diagnosis,Billing Service,85,563.98,Isolated the fault domain and confirmed root cause candidate on Billing Service
+61350,4555,2025-07-14 15:43:00,Configuration,Memory Pool,75,396.65,Adjusted configuration settings on Memory Pool and documented the change
+61351,1240,2025-07-14 15:44:37,Testing,Installer Package,35,239.29,Executed verification tests against Installer Package
+61352,4552,2025-07-14 19:05:24,Monitoring,Firewall Rule,15,50.43,Monitored Firewall Rule for recurrence after the change
+61353,4555,2025-07-14 22:14:10,Diagnosis,SFTP Drop,215,1249.62,Isolated the fault domain and confirmed root cause candidate on SFTP Drop
+61354,4534,2025-07-14 22:32:53,Customer Communication,REST API,20,76.46,Contacted customer regarding REST API status
+61355,4556,2025-07-14 23:12:15,Testing,Webhook Endpoint,15,65.39,Executed verification tests against Webhook Endpoint
+61356,4555,2025-07-15 04:10:30,Investigation,SIEM Rule,40,182.11,Reviewed logs and reproduced the reported behaviour on SIEM Rule
+61357,4556,2025-07-15 06:21:47,Testing,Backup Job,150,600.55,Executed verification tests against Backup Job
+61358,4557,2025-07-15 08:30:32,Repair,Load Balancer,160,1200.30,Applied corrective repair to Load Balancer
+61359,4557,2025-07-15 14:04:13,Repair,IAM Policy,50,288.88,Applied corrective repair to IAM Policy
+61360,4022,2025-07-15 17:54:49,Investigation,App Server,40,176.32,Reviewed logs and reproduced the reported behaviour on App Server
+61361,4556,2025-07-15 19:13:22,Diagnosis,DNS Server,25,191.76,Isolated the fault domain and confirmed root cause candidate on DNS Server
+61362,4556,2025-07-15 22:49:50,Monitoring,Server PSU,15,43.81,Monitored Server PSU for recurrence after the change
+60996,4500,2025-07-01 04:26:07,Configuration,Server PSU,30,152.50,Adjusted configuration settings on Server PSU and documented the change
+60997,4422,2025-07-01 04:57:01,Monitoring,Shared Drive ACL,20,84.26,Monitored Shared Drive ACL for recurrence after the change
+60998,4501,2025-07-01 07:48:52,Diagnosis,Reporting Engine,85,742.08,Isolated the fault domain and confirmed root cause candidate on Reporting Engine

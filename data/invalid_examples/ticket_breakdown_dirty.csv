@@ -1,0 +1,11 @@
+breakdown_id,ticket_id,occurred_at,breakdown_category,component_name,effort_minutes,cost_egp,breakdown_description
+80001,1005,2025-06-10 10:00:00,Repair,Core Switch,60,310.50,Replaced faulty line card
+80002,1014,2025-06-10 11:10:00,Testing,VPN Gateway,30,90.00,Regression test
+80003,1015,2025-06-10 12:10:00,Repair,Firewall,-15,40.00,Negative effort
+80004,1020,2025-06-10 12:30:00,Repair,Firewall,15,abc,Cost not numeric
+80005,1038,2025-06-10 13:00:00,Repair,Firewall,15,-40.00,Negative cost
+80006,1045,June 10th,Repair,Firewall,15,40.00,Date text
+80007,424242,2025-06-11 08:00:00,Repair,Firewall,15,40.00,Ticket does not exist
+80008,1005,2025-06-11 09:00:00,Repair,,15,40.00,Blank component
+80009,1005,2025-06-11 10:00:00,Monitoring,Core Switch,20,55.25,Monitoring after fix
+80009,1005,2025-06-11 10:00:00,Monitoring,Core Switch,20,55.25,Monitoring after fix

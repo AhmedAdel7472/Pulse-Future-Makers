@@ -1,0 +1,201 @@
+customer_id,customer_name,customer_segment,region,onboarding_date
+1,Horus Star Holdings,Large,Cairo,2025-01-08
+2,Nile Nova Steel,Medium,Delta,2023-11-09
+3,Oasis Nova Engineering,Large,Delta,2022-08-30
+4,Thebes Bright Energy,Medium,Upper Egypt,2025-02-01
+5,Mansoura Union Energy,Small,Alexandria,2021-02-12
+6,Siwa Prime Retail,Large,Delta,2023-02-08
+7,Damietta Smart Printing,Medium,Alexandria,2022-08-29
+8,Giza Gate Harbor Steel,Medium,Alexandria,2025-03-05
+9,Memphis Core Clinics,Large,Cairo,2024-11-24
+10,Tanta Core Education,Enterprise,Cairo,2020-06-07
+11,Oasis Link Insurance,Large,Upper Egypt,2021-07-09
+12,Fayoum Prime Education,Medium,Delta,2023-07-13
+13,Damietta Summit Clinics,Small,Giza,2024-09-24
+14,Dahab Core Logistics,Small,Cairo,2024-03-28
+15,Karnak Nova Foods,Medium,Cairo,2022-10-14
+16,Horus Crown Textiles,Medium,Cairo,2024-02-06
+17,Giza Gate Link Holdings,Small,Alexandria,2023-01-10
+18,Abydos Union Insurance,Enterprise,Upper Egypt,2020-06-14
+19,Mansoura Bridge Travel,Small,Cairo,2019-02-11
+20,Papyrus Bridge Motors,Enterprise,Giza,2019-01-02
+21,Horus Smart Education,Medium,Delta,2019-02-14
+22,Aswan Bright Travel,Large,Cairo,2020-11-24
+23,Karnak Star Energy,Large,Alexandria,2020-12-24
+24,Horus Summit Education,Large,Cairo,2020-01-19
+25,Isis Summit Media,Small,Cairo,2025-03-24
+26,Lotus Smart Ceramics,Large,Upper Egypt,2025-04-19
+27,Giza Gate Union Travel,Large,Cairo,2020-02-17
+28,Fayoum Nova Ceramics,Medium,Giza,2020-01-05
+29,Dahab Smart Holdings,Enterprise,Alexandria,2021-06-16
+30,Sinai Star Trading,Large,Cairo,2022-08-25
+31,Rosetta Crown Foods,Small,Cairo,2021-01-15
+32,Ramses Valley Energy,Small,Giza,2022-05-03
+33,Karnak Core Retail,Small,Delta,2023-08-08
+34,Amun Apex Agro,Medium,Delta,2020-05-21
+35,Papyrus Valley Media,Large,Cairo,2023-07-22
+36,Horus Union Logistics,Large,Giza,2025-04-01
+37,Fayoum Valley Media,Enterprise,Cairo,2025-01-22
+38,Ramses Summit Clinics,Enterprise,Cairo,2023-05-17
+39,Lotus Harbor Media,Small,Upper Egypt,2021-02-20
+40,Amun Summit Agro,Small,Giza,2024-12-10
+41,Mansoura Star Insurance,Small,Delta,2022-03-15
+42,Giza Gate Crown Holdings,Small,Upper Egypt,2023-07-13
+43,Amun Crown Engineering,Small,Cairo,2020-02-08
+44,Amun Core Printing,Medium,Cairo,2019-07-27
+45,Sphinx Valley Steel,Small,Delta,2021-02-13
+46,Heliopolis Star Holdings,Medium,Giza,2019-07-29
+47,Mansoura Crown Clinics,Small,Giza,2019-07-10
+48,Thebes Prime Pharma,Large,Delta,2023-05-22
+49,Fayoum Union Trading,Small,Upper Egypt,2025-05-22
+50,Papyrus Vertex Media,Medium,Cairo,2024-05-02
+51,Sinai Crown Agro,Medium,Cairo,2022-01-08
+52,Zamalek Star Clinics,Medium,Delta,2019-01-12
+53,Ramses Crown Pharma,Large,Upper Egypt,2025-01-29
+54,Amun Harbor Travel,Large,Giza,2022-03-05
+55,Tanta Summit Pharma,Medium,Alexandria,2023-09-28
+56,Karnak Summit Developments,Large,Delta,2025-01-25
+57,Lotus Valley Pharma,Medium,Delta,2024-08-30
+58,Maadi Peak Logistics,Medium,Alexandria,2019-11-06
+59,Red Sea Pioneer Plastics,Large,Giza,2023-11-12
+60,Lotus Bright Printing,Small,Upper Egypt,2021-06-17
+61,Pyramid Bright Pharma,Medium,Giza,2019-11-17
+62,Lotus Summit Telecom,Small,Alexandria,2023-02-12
+63,Karnak Bright Steel,Medium,Cairo,2020-06-26
+64,Karnak Link Developments,Enterprise,Upper Egypt,2025-03-20
+65,Nile Vertex Developments,Small,Upper Egypt,2019-04-22
+66,Papyrus Union Retail,Medium,Giza,2019-02-05
+67,Maadi Bridge Telecom,Medium,Delta,2025-02-18
+68,Maadi Prime Education,Medium,Giza,2025-02-19
+69,Damietta Vertex Developments,Small,Alexandria,2022-10-22
+70,Nile Apex Retail,Medium,Giza,2019-02-17
+71,Pyramid Core Agro,Large,Alexandria,2023-10-25
+72,Nile Bridge Agro,Large,Cairo,2019-04-15
+73,Damietta Vertex Retail,Medium,Alexandria,2021-09-19
+74,Horus Smart Retail,Enterprise,Alexandria,2024-09-18
+75,Heliopolis Summit Plastics,Large,Alexandria,2021-07-26
+76,Papyrus Summit Retail,Small,Giza,2025-05-24
+77,Thebes Harbor Steel,Medium,Giza,2019-08-17
+78,Thebes Vertex Media,Large,Upper Egypt,2019-03-30
+79,Karnak Peak Engineering,Small,Alexandria,2025-04-08
+80,Luxor Core Developments,Small,Giza,2025-05-16
+81,Amun Core Engineering,Large,Cairo,2022-04-21
+82,Delta Nova Developments,Small,Delta,2020-03-21
+83,Pyramid Vertex Telecom,Large,Cairo,2021-03-01
+84,Lotus Bright Agro,Medium,Giza,2023-01-09
+85,Karnak Bridge Printing,Small,Delta,2022-07-31
+86,Papyrus Valley Plastics,Medium,Alexandria,2019-11-25
+87,Lotus Prime Holdings,Medium,Alexandria,2021-05-17
+88,Red Sea Pioneer Foods,Small,Cairo,2019-12-09
+89,Zamalek Summit Media,Small,Cairo,2022-04-10
+90,Thebes Smart Energy,Enterprise,Delta,2024-09-26
+91,Nile Apex Motors,Small,Giza,2023-04-10
+92,Pyramid Link Agro,Medium,Cairo,2021-02-04
+93,Dahab Summit Printing,Large,Cairo,2021-03-31
+94,Oasis Link Media,Medium,Giza,2020-06-02
+95,Fayoum Smart Telecom,Enterprise,Alexandria,2021-04-18
+96,Red Sea Core Clinics,Medium,Alexandria,2019-09-22
+97,Luxor Crown Clinics,Small,Cairo,2025-01-13
+98,Damietta Bridge Retail,Large,Cairo,2023-05-21
+99,Sinai Harbor Media,Small,Giza,2020-03-11
+100,Ramses Bright Insurance,Small,Delta,2025-04-18
+101,Aswan Union Holdings,Medium,Alexandria,2025-01-13
+102,Giza Gate Bridge Steel,Large,Cairo,2025-03-16
+103,Lotus Vertex Ceramics,Small,Delta,2022-04-13
+104,Sinai Link Foods,Medium,Cairo,2020-01-28
+105,Ramses Crown Plastics,Medium,Upper Egypt,2021-09-20
+106,Delta Peak Clinics,Enterprise,Giza,2025-02-04
+107,Pyramid Link Trading,Small,Cairo,2020-09-23
+108,Red Sea Pioneer Clinics,Small,Cairo,2025-05-30
+109,Memphis Core Ceramics,Small,Upper Egypt,2019-06-21
+110,Nile Smart Logistics,Large,Cairo,2019-03-28
+111,Heliopolis Union Media,Small,Giza,2024-05-30
+112,Damietta Summit Foods,Enterprise,Alexandria,2019-08-21
+113,Tanta Vertex Foods,Medium,Giza,2021-03-27
+114,Memphis Vertex Holdings,Large,Upper Egypt,2022-10-01
+115,Pyramid Valley Holdings,Small,Cairo,2025-04-15
+116,Damietta Smart Telecom,Medium,Cairo,2019-11-06
+117,Thebes Star Textiles,Medium,Alexandria,2023-02-24
+118,Siwa Pioneer Printing,Small,Giza,2025-05-16
+119,Maadi Bright Retail,Enterprise,Giza,2021-05-05
+120,Papyrus Vertex Motors,Large,Upper Egypt,2023-10-28
+121,Red Sea Summit Textiles,Small,Cairo,2022-01-16
+122,Sphinx Link Clinics,Enterprise,Cairo,2020-07-05
+123,Ramses Prime Printing,Medium,Alexandria,2024-10-10
+124,Siwa Apex Foods,Medium,Cairo,2021-09-22
+125,Dahab Vertex Travel,Medium,Alexandria,2024-07-15
+126,Tanta Peak Trading,Enterprise,Upper Egypt,2025-02-09
+127,Amun Apex Ceramics,Medium,Cairo,2022-06-14
+128,Fayoum Bridge Logistics,Medium,Giza,2020-02-16
+129,Damietta Nova Clinics,Small,Alexandria,2021-02-12
+130,Horus Bright Media,Large,Upper Egypt,2024-04-01
+131,Horus Summit Foods,Large,Delta,2023-10-18
+132,Amun Harbor Textiles,Small,Upper Egypt,2025-04-20
+133,Lotus Nova Engineering,Enterprise,Upper Egypt,2023-03-23
+134,Papyrus Link Logistics,Medium,Cairo,2020-09-09
+135,Aswan Apex Developments,Medium,Giza,2022-07-12
+136,Damietta Link Holdings,Small,Cairo,2025-02-24
+137,Red Sea Crown Clinics,Medium,Alexandria,2020-12-06
+138,Aswan Prime Clinics,Small,Cairo,2022-06-24
+139,Aswan Crown Developments,Small,Giza,2025-05-24
+140,Karnak Nova Engineering,Medium,Delta,2024-02-29
+141,Isis Prime Clinics,Medium,Cairo,2020-02-09
+142,Horus Smart Developments,Medium,Delta,2020-11-25
+143,Karnak Core Steel,Small,Cairo,2024-11-25
+144,Mansoura Crown Trading,Enterprise,Giza,2020-10-11
+145,Giza Gate Pioneer Trading,Medium,Cairo,2021-11-21
+146,Maadi Nova Clinics,Large,Delta,2023-11-12
+147,Ramses Summit Holdings,Medium,Cairo,2020-08-11
+148,Aswan Prime Ceramics,Enterprise,Giza,2019-04-18
+149,Sphinx Peak Printing,Enterprise,Giza,2021-01-25
+150,Siwa Star Energy,Small,Delta,2025-01-18
+151,Zamalek Link Engineering,Large,Delta,2023-09-12
+152,Rosetta Vertex Printing,Small,Alexandria,2023-02-10
+153,Lotus Vertex Foods,Medium,Alexandria,2019-02-15
+154,Luxor Pioneer Energy,Small,Cairo,2019-04-02
+155,Damietta Union Media,Medium,Alexandria,2023-01-17
+156,Mansoura Core Ceramics,Medium,Giza,2024-04-08
+157,Fayoum Apex Logistics,Large,Giza,2019-09-25
+158,Dahab Pioneer Logistics,Small,Cairo,2019-01-18
+159,Damietta Link Energy,Small,Cairo,2025-03-09
+160,Luxor Apex Agro,Large,Alexandria,2020-04-09
+161,Rosetta Vertex Developments,Small,Alexandria,2021-09-16
+162,Ramses Harbor Holdings,Medium,Cairo,2020-07-04
+163,Oasis Summit Textiles,Medium,Giza,2021-01-28
+164,Memphis Summit Motors,Large,Cairo,2020-12-24
+165,Damietta Vertex Plastics,Small,Giza,2024-06-23
+166,Thebes Pioneer Insurance,Small,Cairo,2025-04-10
+167,Heliopolis Union Energy,Large,Cairo,2020-07-26
+168,Siwa Peak Agro,Small,Upper Egypt,2019-06-13
+169,Dahab Core Engineering,Large,Cairo,2025-03-08
+170,Siwa Prime Energy,Enterprise,Cairo,2023-07-09
+171,Oasis Vertex Foods,Medium,Upper Egypt,2020-04-15
+172,Rosetta Peak Education,Large,Giza,2020-09-21
+173,Abydos Harbor Energy,Small,Delta,2024-03-22
+174,Maadi Core Energy,Medium,Alexandria,2023-11-09
+175,Aswan Bridge Engineering,Enterprise,Delta,2020-07-27
+176,Fayoum Peak Travel,Large,Alexandria,2024-10-08
+177,Abydos Apex Motors,Large,Cairo,2019-07-05
+178,Karnak Harbor Engineering,Medium,Giza,2022-05-23
+179,Heliopolis Crown Clinics,Small,Delta,2021-01-11
+180,Mansoura Valley Telecom,Medium,Giza,2024-04-17
+181,Siwa Peak Textiles,Small,Delta,2024-02-29
+182,Dahab Star Motors,Small,Alexandria,2023-11-19
+183,Giza Gate Nova Media,Medium,Delta,2025-03-19
+184,Mansoura Vertex Pharma,Medium,Cairo,2024-12-13
+185,Maadi Union Energy,Large,Cairo,2023-10-28
+186,Memphis Star Clinics,Small,Cairo,2022-10-27
+187,Rosetta Smart Printing,Large,Alexandria,2019-12-15
+188,Sinai Summit Retail,Enterprise,Delta,2021-08-29
+189,Dahab Core Motors,Medium,Giza,2019-12-31
+190,Pyramid Apex Trading,Large,Giza,2019-05-29
+191,Nile Summit Printing,Medium,Alexandria,2025-01-30
+192,Damietta Prime Printing,Small,Giza,2021-03-13
+193,Rosetta Nova Media,Medium,Delta,2025-02-26
+194,Aswan Core Agro,Small,Upper Egypt,2022-09-11
+195,Damietta Summit Holdings,Small,Alexandria,2022-04-18
+196,Giza Gate Bright Developments,Large,Cairo,2020-11-10
+197,Isis Summit Developments,Medium,Cairo,2020-02-28
+198,Maadi Link Developments,Small,Delta,2022-06-04
+199,Papyrus Pioneer Developments,Medium,Upper Egypt,2023-09-17
+200,Lotus Pioneer Telecom,Large,Giza,2022-04-11

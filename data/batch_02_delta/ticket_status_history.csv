@@ -1,0 +1,259 @@
+status_event_id,ticket_id,status,status_at,changed_by_agent_id,status_reason
+31505,4501,Closed,2025-07-07 04:16:46,,Auto-closed after 72h without response
+31506,2139,Closed,2025-07-07 04:19:35,,Auto-closed after 72h without response
+31560,4514,Closed,2025-07-08 12:24:48,,Auto-closed after 72h without response
+31588,4531,Created,2025-07-09 01:00:00,,
+31589,4531,Assigned,2025-07-09 01:08:43,1,Auto-routed by queue
+31590,4519,Pending Customer,2025-07-09 01:22:00,14,Awaiting customer approval
+31591,4513,Closed,2025-07-09 01:23:46,,Auto-closed after 72h without response
+31592,2586,In Progress,2025-07-09 01:28:37,3,Work started
+31593,4529,In Progress,2025-07-09 02:49:56,19,Resumed after update
+31594,4522,Resolved,2025-07-09 03:07:39,23,Fix applied
+31595,3459,Closed,2025-07-09 03:21:11,,Customer confirmed resolution
+31596,4531,In Progress,2025-07-09 05:53:42,1,Resumed after update
+31597,3233,Closed,2025-07-09 06:43:59,,Auto-closed after 72h without response
+31598,4532,Created,2025-07-09 06:44:10,,
+31599,4437,In Progress,2025-07-09 07:15:52,4,Work started
+31600,3744,Closed,2025-07-09 07:38:18,,Auto-closed after 72h without response
+31601,4519,In Progress,2025-07-09 07:44:44,14,Resumed after update
+31602,4533,Created,2025-07-09 08:03:48,,
+31603,4532,Assigned,2025-07-09 08:11:22,,Assigned by team lead
+31604,4533,Assigned,2025-07-09 08:52:03,,Skill-based routing
+31605,4531,Resolved,2025-07-09 08:58:10,1,Component replaced
+31606,1468,Pending Customer,2025-07-09 09:12:47,29,Awaiting maintenance window
+31607,2586,Pending Customer,2025-07-09 09:55:44,3,Awaiting customer information
+31608,4512,In Progress,2025-07-09 11:27:20,6,Resumed after update
+31609,4525,Resolved,2025-07-09 11:43:23,26,Cannot reproduce
+31610,4532,In Progress,2025-07-09 13:48:00,27,Resumed after update
+31611,1429,In Progress,2025-07-09 14:45:48,2,Work started
+31612,4503,Closed,2025-07-09 15:08:18,,Customer confirmed resolution
+31613,4534,Created,2025-07-09 16:14:09,,
+31614,4437,Resolved,2025-07-09 17:16:49,4,Fix applied
+31615,4524,In Progress,2025-07-09 18:32:55,14,Work started
+31616,4535,Created,2025-07-09 19:00:00,,
+31617,4534,Assigned,2025-07-09 19:03:07,,Auto-routed by queue
+31618,4532,Resolved,2025-07-09 19:07:19,27,Component replaced
+31619,4535,Assigned,2025-07-09 19:19:56,11,Auto-routed by queue
+31620,2571,Escalated,2025-07-09 19:51:41,7,Customer executive escalation
+31621,3482,In Progress,2025-07-09 20:58:29,12,Resumed after update
+31622,4517,Resolved,2025-07-09 21:20:54,7,Component replaced
+31623,4530,Pending Customer,2025-07-09 21:41:59,11,Awaiting customer information
+31624,4535,In Progress,2025-07-09 22:13:54,11,Resumed after update
+31625,4534,In Progress,2025-07-09 22:53:24,11,Investigation underway
+31626,4519,Resolved,2025-07-09 23:13:06,14,Workaround provided
+31627,1429,Escalated,2025-07-09 23:15:07,2,SLA at risk
+31628,2020,Closed,2025-07-09 23:50:21,,Customer confirmed resolution
+31629,2571,In Progress,2025-07-10 01:23:29,7,Investigation underway
+31630,4526,Escalated,2025-07-10 02:31:21,14,SLA at risk
+31631,4528,Resolved,2025-07-10 03:07:43,23,Fix applied
+31632,4530,In Progress,2025-07-10 03:43:01,11,Work started
+31633,4534,Pending Customer,2025-07-10 04:20:54,11,Awaiting customer approval
+31634,3974,Closed,2025-07-10 04:32:04,,Customer confirmed resolution
+31635,4536,Created,2025-07-10 05:00:00,,
+31636,4519,Reopened,2025-07-10 05:08:47,,Issue recurred
+31637,3865,Closed,2025-07-10 05:36:23,,Customer confirmed resolution
+31638,4537,Created,2025-07-10 06:12:33,,
+31639,2597,Closed,2025-07-10 06:23:08,,Customer confirmed resolution
+31640,4519,Assigned,2025-07-10 06:58:05,,Skill-based routing
+31641,4536,Assigned,2025-07-10 07:22:38,,Assigned by team lead
+31642,3907,Reopened,2025-07-10 07:39:51,,Customer disputed resolution
+31643,4537,Assigned,2025-07-10 08:22:26,,Assigned by team lead
+31644,3907,Assigned,2025-07-10 08:54:16,,Auto-routed by queue
+31645,3907,In Progress,2025-07-10 09:43:47,4,Work started
+31646,4281,Closed,2025-07-10 09:51:13,,Auto-closed after 72h without response
+31647,3190,Closed,2025-07-10 10:18:19,,Customer confirmed resolution
+31648,4538,Created,2025-07-10 10:23:09,,
+31649,4519,In Progress,2025-07-10 10:47:02,2,Resumed after update
+31650,4214,Closed,2025-07-10 10:49:21,,Auto-closed after 72h without response
+31651,4539,Created,2025-07-10 11:00:00,,
+31652,4536,In Progress,2025-07-10 11:11:12,25,Work started
+31653,4538,Assigned,2025-07-10 11:14:56,,Assigned by team lead
+31654,4512,Resolved,2025-07-10 13:02:27,6,Workaround provided
+31655,4538,In Progress,2025-07-10 13:28:38,8,Resumed after update
+31656,4524,Resolved,2025-07-10 13:52:40,14,Component replaced
+31657,4539,Assigned,2025-07-10 13:56:01,28,Skill-based routing
+31658,1429,Pending Customer,2025-07-10 13:59:58,2,Awaiting customer information
+31659,4519,Pending Customer,2025-07-10 14:01:20,2,Awaiting maintenance window
+31660,4535,Escalated,2025-07-10 14:26:06,11,SLA at risk
+31661,4537,In Progress,2025-07-10 14:34:40,3,Work started
+31662,4401,Closed,2025-07-10 15:15:48,,Auto-closed after 72h without response
+31663,3963,Closed,2025-07-10 16:08:59,,Customer confirmed resolution
+31664,4539,In Progress,2025-07-10 18:22:04,28,Work started
+31665,4537,Pending Customer,2025-07-10 20:58:12,3,Awaiting customer approval
+31666,2571,Resolved,2025-07-10 21:13:59,7,Component replaced
+31667,3907,Resolved,2025-07-10 21:39:40,4,Workaround provided
+31668,4523,Closed,2025-07-10 23:05:29,,Auto-closed after 72h without response
+31669,4526,Resolved,2025-07-10 23:15:52,14,Workaround provided
+31670,4197,Reopened,2025-07-10 23:58:02,,Incomplete fix
+31671,4197,Assigned,2025-07-11 00:41:15,,Assigned by team lead
+31672,4530,Resolved,2025-07-11 02:21:52,11,Workaround provided
+31673,4510,Closed,2025-07-11 02:37:08,,Customer confirmed resolution
+31674,4295,Reopened,2025-07-11 02:42:38,,Customer disputed resolution
+31675,4529,Escalated,2025-07-11 02:47:54,19,Root cause unresolved
+31676,4295,Assigned,2025-07-11 03:00:28,,Auto-routed by queue
+31677,1240,In Progress,2025-07-11 03:05:03,11,Resumed after update
+31678,4540,Created,2025-07-11 03:16:21,,
+31679,2586,In Progress,2025-07-11 04:10:37,3,Resumed after update
+31680,4295,In Progress,2025-07-11 05:42:03,16,Resumed after update
+31681,4541,Created,2025-07-11 05:51:24,,
+31682,4540,Assigned,2025-07-11 06:06:23,,Auto-routed by queue
+31683,4542,Created,2025-07-11 06:55:38,,
+31684,4543,Created,2025-07-11 07:00:00,,
+31685,4542,Assigned,2025-07-11 07:18:43,,Skill-based routing
+31686,4535,In Progress,2025-07-11 07:49:45,27,Resumed after update
+31687,4197,In Progress,2025-07-11 07:50:34,2,Resumed after update
+31688,4533,Cancelled,2025-07-11 07:51:20,,Customer withdrew request
+31689,4540,In Progress,2025-07-11 08:05:13,14,Resumed after update
+31690,4542,In Progress,2025-07-11 08:09:14,1,Investigation underway
+31691,4541,Assigned,2025-07-11 08:29:44,,Auto-routed by queue
+31692,4544,Created,2025-07-11 08:34:47,,
+31693,4544,Assigned,2025-07-11 09:11:08,6,Skill-based routing
+31694,4543,Assigned,2025-07-11 09:29:16,,Assigned by team lead
+31695,3340,Closed,2025-07-11 10:10:18,,Auto-closed after 72h without response
+31696,4543,In Progress,2025-07-11 10:59:39,26,Investigation underway
+31697,4520,Closed,2025-07-11 12:12:33,,Auto-closed after 72h without response
+31698,1429,In Progress,2025-07-11 12:16:39,2,Investigation underway
+31699,4541,In Progress,2025-07-11 12:19:10,10,Investigation underway
+31700,4534,In Progress,2025-07-11 15:10:08,11,Investigation underway
+31701,4197,Pending Customer,2025-07-11 15:12:49,2,Awaiting maintenance window
+31702,4540,Pending Customer,2025-07-11 16:23:04,14,Awaiting customer information
+31703,2937,Closed,2025-07-11 17:01:02,,Auto-closed after 72h without response
+31704,4544,In Progress,2025-07-11 17:04:26,6,Work started
+31705,4529,Resolved,2025-07-11 17:10:02,28,Fix applied
+31706,4522,Closed,2025-07-11 17:26:34,,Customer confirmed resolution
+31707,4534,Pending Customer,2025-07-11 17:55:40,11,Awaiting customer information
+31708,4539,Escalated,2025-07-11 18:56:13,28,Root cause unresolved
+31709,4525,Closed,2025-07-11 19:54:34,,Customer confirmed resolution
+31710,3482,Escalated,2025-07-11 20:50:49,12,Root cause unresolved
+31711,4295,Resolved,2025-07-11 23:04:36,16,Configuration corrected
+31712,4531,Closed,2025-07-11 23:36:11,,Auto-closed after 72h without response
+31713,4535,Resolved,2025-07-11 23:54:04,27,Component replaced
+31714,4545,Created,2025-07-12 00:19:41,,
+31715,4546,Created,2025-07-12 01:17:53,,
+31716,4022,Reopened,2025-07-12 01:36:44,,Issue recurred
+31717,4547,Created,2025-07-12 02:00:00,,
+31718,4545,Assigned,2025-07-12 02:35:47,,Skill-based routing
+31719,4547,Assigned,2025-07-12 02:36:55,,Auto-routed by queue
+31720,4539,In Progress,2025-07-12 02:52:54,29,Work started
+31721,4437,Closed,2025-07-12 03:20:45,,Auto-closed after 72h without response
+31722,2571,Closed,2025-07-12 03:23:31,,Auto-closed after 72h without response
+31723,4022,Assigned,2025-07-12 03:27:52,,Assigned by team lead
+31724,4546,Assigned,2025-07-12 03:33:17,,Skill-based routing
+31725,4541,Resolved,2025-07-12 03:33:57,10,Component replaced
+31726,4538,Resolved,2025-07-12 03:40:17,8,Component replaced
+31727,4546,In Progress,2025-07-12 03:43:48,23,Resumed after update
+31728,4548,Created,2025-07-12 03:44:59,,
+31729,4548,Assigned,2025-07-12 04:07:21,,Assigned by team lead
+31730,4539,Resolved,2025-07-12 05:26:05,29,Workaround provided
+31731,4528,Closed,2025-07-12 05:27:13,,Auto-closed after 72h without response
+31732,4547,In Progress,2025-07-12 05:49:07,26,Investigation underway
+31733,4545,In Progress,2025-07-12 07:06:37,22,Work started
+31734,1468,In Progress,2025-07-12 07:20:31,29,Investigation underway
+31735,4022,In Progress,2025-07-12 09:19:07,23,Resumed after update
+31736,4544,Cancelled,2025-07-12 09:23:51,,Customer withdrew request
+31737,4548,In Progress,2025-07-12 09:25:03,16,Investigation underway
+31738,4549,Created,2025-07-12 09:40:05,,
+31739,2586,Resolved,2025-07-12 09:41:05,3,Configuration corrected
+31740,2314,Closed,2025-07-12 09:59:46,,Customer confirmed resolution
+31741,1240,Escalated,2025-07-12 10:25:43,11,Customer executive escalation
+31742,4549,Assigned,2025-07-12 10:41:15,,Assigned by team lead
+31743,4536,Escalated,2025-07-12 10:54:20,25,Customer executive escalation
+31744,4517,Reopened,2025-07-12 11:47:43,,Issue recurred
+31745,4517,Assigned,2025-07-12 13:35:43,17,Skill-based routing
+31746,4549,In Progress,2025-07-12 16:45:44,5,Investigation underway
+31747,3482,In Progress,2025-07-12 17:14:18,12,Resumed after update
+31748,1429,Resolved,2025-07-12 17:49:45,2,Configuration corrected
+31749,4532,Closed,2025-07-12 18:21:06,,Customer confirmed resolution
+31750,4517,In Progress,2025-07-12 21:19:06,17,Investigation underway
+31751,3947,Reopened,2025-07-12 23:30:23,,Issue recurred
+31752,4550,Created,2025-07-13 00:48:50,,
+31753,3947,Assigned,2025-07-13 00:57:10,,Skill-based routing
+31754,4537,In Progress,2025-07-13 00:58:27,3,Work started
+31755,4547,Resolved,2025-07-13 01:18:43,26,Cannot reproduce
+31756,4536,In Progress,2025-07-13 01:28:22,25,Investigation underway
+31757,4550,Assigned,2025-07-13 01:56:25,,Skill-based routing
+31758,4022,Pending Customer,2025-07-13 02:17:06,23,Awaiting maintenance window
+31759,3947,In Progress,2025-07-13 03:02:41,30,Investigation underway
+31760,4551,Created,2025-07-13 04:00:00,,
+31761,4529,Reopened,2025-07-13 04:10:00,,Customer disputed resolution
+31762,4537,Escalated,2025-07-13 04:25:14,3,Root cause unresolved
+90221,1005,Closed,2025-07-xx 10:00:00,,
+31763,4546,Resolved,2025-07-13 04:46:33,23,Cannot reproduce
+31764,4197,In Progress,2025-07-13 05:13:59,2,Work started
+31765,4530,Closed,2025-07-13 05:15:26,,Customer confirmed resolution
+31766,4529,Assigned,2025-07-13 05:24:55,,Auto-routed by queue
+31767,4519,In Progress,2025-07-13 05:28:12,2,Investigation underway
+31768,4551,Assigned,2025-07-13 06:47:44,,Skill-based routing
+31769,4512,Closed,2025-07-13 07:26:57,,Auto-closed after 72h without response
+31770,4542,Resolved,2025-07-13 07:30:24,1,Cannot reproduce
+31771,4529,In Progress,2025-07-13 07:48:06,18,Resumed after update
+31772,4550,In Progress,2025-07-13 08:53:08,21,Investigation underway
+31773,4540,In Progress,2025-07-13 09:43:42,14,Work started
+31774,4545,Resolved,2025-07-13 10:02:16,22,Cannot reproduce
+31775,4543,Escalated,2025-07-13 10:22:49,26,Customer executive escalation
+31776,4536,Resolved,2025-07-13 10:28:11,25,Configuration corrected
+31777,4295,Closed,2025-07-13 10:45:22,,Auto-closed after 72h without response
+31778,1468,Resolved,2025-07-13 11:04:21,29,Component replaced
+31779,4551,In Progress,2025-07-13 11:32:14,11,Work started
+31780,4552,Created,2025-07-13 14:05:22,,
+31781,4553,Created,2025-07-13 15:00:00,,
+31782,4526,Closed,2025-07-13 15:01:06,,Auto-closed after 72h without response
+31783,4552,Assigned,2025-07-13 15:17:58,,Auto-routed by queue
+31784,4552,In Progress,2025-07-13 16:13:53,22,Resumed after update
+31785,4553,Assigned,2025-07-13 16:16:27,10,Auto-routed by queue
+31786,4554,Created,2025-07-13 16:33:19,,
+31787,4543,Resolved,2025-07-13 16:33:46,26,Workaround provided
+31788,4550,Resolved,2025-07-13 17:52:06,21,Component replaced
+31789,4548,Escalated,2025-07-13 18:02:35,16,SLA at risk
+31790,4517,Escalated,2025-07-13 18:26:23,17,Requires specialist team
+31791,4554,Assigned,2025-07-13 19:14:55,,Assigned by team lead
+31792,1240,In Progress,2025-07-13 19:20:49,11,Resumed after update
+31793,4553,In Progress,2025-07-14 00:07:17,10,Work started
+31794,4537,Resolved,2025-07-14 00:43:40,3,Cannot reproduce
+31795,4524,Closed,2025-07-14 01:06:30,,Auto-closed after 72h without response
+31796,3482,Resolved,2025-07-14 01:19:26,12,Fix applied
+31797,4519,Resolved,2025-07-14 01:21:30,2,Cannot reproduce
+31798,4554,In Progress,2025-07-14 01:36:39,19,Investigation underway
+31799,4548,In Progress,2025-07-14 02:06:01,14,Investigation underway
+31800,4553,Resolved,2025-07-14 02:18:05,10,Workaround provided
+31801,4549,Resolved,2025-07-14 02:21:15,5,Workaround provided
+31802,2586,Closed,2025-07-14 05:31:28,,Customer confirmed resolution
+31803,4534,In Progress,2025-07-14 05:50:14,11,Resumed after update
+31804,4540,Resolved,2025-07-14 06:38:56,14,Workaround provided
+31805,4548,Pending Customer,2025-07-14 06:45:29,14,Awaiting customer information
+31806,4555,Created,2025-07-14 07:15:32,,
+31807,4554,Resolved,2025-07-14 08:20:36,19,Workaround provided
+31808,4555,Assigned,2025-07-14 08:47:58,,Assigned by team lead
+31809,4556,Created,2025-07-14 09:32:46,,
+31810,4556,Assigned,2025-07-14 12:05:07,,Auto-routed by queue
+31811,4551,Resolved,2025-07-14 13:07:27,11,Workaround provided
+31812,3907,Closed,2025-07-14 14:24:07,,Auto-closed after 72h without response
+31813,4517,Pending Customer,2025-07-14 14:26:10,17,Customer unreachable
+31814,4529,Resolved,2025-07-14 15:26:44,18,Component replaced
+31815,4555,In Progress,2025-07-14 15:43:00,23,Resumed after update
+31816,4556,In Progress,2025-07-14 17:32:13,24,Resumed after update
+31817,1429,Closed,2025-07-14 18:59:38,,Customer confirmed resolution
+31818,4197,Resolved,2025-07-14 19:18:21,2,Component replaced
+31819,4552,Resolved,2025-07-14 20:45:36,22,Component replaced
+31820,3947,Resolved,2025-07-14 22:21:29,30,Configuration corrected
+31821,4534,Resolved,2025-07-14 22:48:38,11,Workaround provided
+31822,4545,Closed,2025-07-14 22:58:07,,Customer confirmed resolution
+31823,4557,Created,2025-07-15 00:00:00,,
+31824,4557,Assigned,2025-07-15 02:13:02,,Skill-based routing
+31825,4539,Closed,2025-07-15 02:39:45,,Auto-closed after 72h without response
+31826,4556,Escalated,2025-07-15 07:01:56,24,Customer executive escalation
+31827,4557,In Progress,2025-07-15 08:30:32,13,Work started
+31828,1240,Resolved,2025-07-15 08:38:28,11,Cannot reproduce
+31829,4538,Closed,2025-07-15 09:15:34,,Auto-closed after 72h without response
+31830,4555,Pending Customer,2025-07-15 12:07:35,23,Awaiting customer approval
+31831,4541,Closed,2025-07-15 12:18:04,,Customer confirmed resolution
+31832,4535,Closed,2025-07-15 14:44:01,,Auto-closed after 72h without response
+31833,4558,Created,2025-07-15 15:32:43,,
+31834,1468,Closed,2025-07-15 17:03:22,,Customer confirmed resolution
+31835,4022,In Progress,2025-07-15 17:51:08,23,Resumed after update
+31836,4558,Assigned,2025-07-15 18:02:27,,Auto-routed by queue
+31837,4540,Closed,2025-07-15 22:52:41,,Auto-closed after 72h without response
+31243,4501,Created,2025-07-01 00:17:24,,
+31244,4500,Assigned,2025-07-01 01:09:11,,Skill-based routing
+31245,4501,Assigned,2025-07-01 02:51:31,,Assigned by team lead
+31505,4501,Closed,2025-07-07 04:16:46,,Auto-closed after 72h without response

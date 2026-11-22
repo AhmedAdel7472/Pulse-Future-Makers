@@ -1,0 +1,31 @@
+agent_id,agent_name,team,region,hire_date
+1,Mohamed Sabry,L1 Support,Upper Egypt,2020-06-13
+2,Mostafa Awad,L1 Support,Cairo,2023-11-14
+3,Ali Amin,L1 Support,Cairo,2025-04-21
+4,Reem Kamel,L1 Support,Alexandria,2018-10-25
+5,Tarek Helmy,L1 Support,Giza,2022-06-30
+6,Aya Khalil,L1 Support,Cairo,2019-04-04
+7,Noha Saad,L1 Support,Delta,2025-04-19
+8,Youssef Hamed,L1 Support,Delta,2023-02-28
+9,Mahmoud Metwally,L1 Support,Cairo,2024-01-28
+10,Hany Selim,L2 Support,Cairo,2025-03-27
+11,Khaled Fouad,L2 Support,Cairo,2018-06-17
+12,Nada Fahmy,L2 Support,Cairo,2025-04-01
+13,Rania Badawi,L2 Support,Upper Egypt,2016-05-23
+14,Hassan Farouk,L2 Support,Giza,2023-01-21
+15,Mona Shawky,L2 Support,Alexandria,2018-04-30
+16,Laila Morsi,Network Operations,Cairo,2021-02-07
+17,Omar Ragab,Network Operations,Alexandria,2022-05-10
+18,Salma Ghanem,Network Operations,Upper Egypt,2021-03-04
+19,Sherif Nassar,Network Operations,Alexandria,2023-08-12
+20,Fatma Mansour,Database Operations,Delta,2019-09-16
+21,Amr Lotfy,Database Operations,Delta,2022-06-22
+22,Yasmine Rizk,Database Operations,Cairo,2019-10-11
+23,Mariam Younis,Security Operations,Upper Egypt,2017-02-27
+24,Heba Taha,Security Operations,Cairo,2020-02-06
+25,Karim Wahba,Security Operations,Giza,2019-08-26
+26,Dina Gaber,Escalation Team,Cairo,2024-03-03
+27,Hoda Said,Escalation Team,Cairo,2022-10-22
+28,Nour Soliman,Escalation Team,Alexandria,2021-11-05
+29,Sara Zaki,Escalation Team,Alexandria,2017-01-04
+30,Ahmed Habib,Escalation Team,Giza,2016-08-29

@@ -1,0 +1,7 @@
+status_event_id,ticket_id,status,status_at,changed_by_agent_id,status_reason
+80101,1005,In Progress,2025-06-10 09:00:00,,Work started
+80102,1014,Escalated,2025-06-10 09:30:00,4,SLA at risk
+80103,1015,Exploded,2025-06-10 09:45:00,,
+80104,424242,Resolved,2025-06-10 10:45:00,,Fix applied
+80105,1020,Resolved,2025-06-10 99:99:99,,Fix applied
+80106,1038,Pending Customer,2025-06-10 11:00:00,777,

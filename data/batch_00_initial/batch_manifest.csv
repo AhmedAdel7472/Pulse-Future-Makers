@@ -1,0 +1,10 @@
+batch_id,batch_name,batch_label,processing_date,window_start,window_end_exclusive,cutoff_ts,file_name,source_row_count
+0,batch_00_initial,Initial load,2025-07-01,2025-01-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,customer_stability_observations.csv,3669
+0,batch_00_initial,Initial load,2025-07-01,2025-01-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,customers.csv,60
+0,batch_00_initial,Initial load,2025-07-01,2025-01-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,stability_levels.csv,5
+0,batch_00_initial,Initial load,2025-07-01,2025-01-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,support_agents.csv,30
+0,batch_00_initial,Initial load,2025-07-01,2025-01-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,ticket_agent_assignments.csv,550
+0,batch_00_initial,Initial load,2025-07-01,2025-01-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,ticket_breakdown.csv,1443
+0,batch_00_initial,Initial load,2025-07-01,2025-01-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,ticket_details.csv,485
+0,batch_00_initial,Initial load,2025-07-01,2025-01-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,ticket_status_history.csv,2954
+0,batch_00_initial,Initial load,2025-07-01,2025-01-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,tickets.csv,514

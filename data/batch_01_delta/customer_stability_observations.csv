@@ -1,0 +1,120 @@
+customer_id,snapshot_date,stability_status
+3,2025-07-04,stable
+3,2025-07-05,stable
+11,2025-07-01,stable
+11,2025-07-05,stable
+9998,2025-07-04,stable
+11,2025-07-08,natural
+12,2025-07-01,natural
+12,2025-07-03,natural
+15,2025-07-02,stable
+15,2025-07-04,natural
+16,2025-07-01,very stable
+16,2025-07-02,stable
+20,2025-07-01,very stable
+20,2025-07-02,very stable
+20,2025-07-06,very stable
+22,2025-07-02,natural
+22,2025-07-05,stable
+22,2025-07-06,stable
+22,2025-07-07,stable
+22,2025-07-08,stable
+24,2025-07-01,very stable
+24,2025-07-07,very stable
+25,2025-07-01,very stable
+25,2025-07-04,very stable
+25,2025-07-05,very stable
+25,2025-07-08,very stable
+26,2025-07-06,unstable
+34,2025-07-02,very stable
+34,2025-07-03,very stable
+34,2025-07-05,very stable
+34,2025-07-08,very stable
+39,2025-07-01,natural
+39,2025-07-04,natural
+39,2025-07-07,natural
+42,2025-07-02,very stable
+42,2025-07-04,very stable
+44,2025-07-02,natural
+44,2025-07-03,natural
+44,2025-07-06,natural
+44,2025-07-07,unstable
+44,2025-07-08,unstable
+47,2025-07-03,natural
+47,2025-07-05,natural
+47,2025-07-08,unstable
+53,2025-07-05,very unstable
+53,2025-07-08,very unstable
+66,2025-07-06,stable
+70,2025-07-03,natural
+70,2025-07-05,natural
+70,2025-07-06,natural
+75,2025-07-01,very unstable
+75,2025-07-03,very unstable
+75,2025-07-06,very unstable
+75,2025-07-08,very unstable
+79,2025-07-03,very unstable
+79,2025-07-04,very unstable
+79,2025-07-07,very unstable
+20,2025-07-04,super stable
+81,2025-07-05,unstable
+81,2025-07-07,unstable
+82,2025-07-04,stable
+82,2025-07-06,stable
+86,2025-07-01,stable
+86,2025-07-02,stable
+100,2025-07-03,very stable
+100,2025-07-06,very stable
+103,2025-07-04,stable
+103,2025-07-05,very stable
+103,2025-07-08,very stable
+104,2025-07-04,very stable
+104,2025-07-05,very stable
+108,2025-07-04,natural
+108,2025-07-07,natural
+112,2025-07-01,natural
+112,2025-07-04,stable
+112,2025-07-07,stable
+116,2025-07-01,natural
+116,2025-07-02,natural
+116,2025-07-03,natural
+116,2025-07-04,natural
+116,2025-07-08,stable
+117,2025-07-02,very stable
+117,2025-07-04,stable
+117,2025-07-07,very stable
+124,2025-07-07,very unstable
+127,2025-07-01,very stable
+127,2025-07-03,stable
+127,2025-07-07,stable
+132,2025-07-06,natural
+134,2025-07-01,very unstable
+134,2025-07-03,very unstable
+134,2025-07-05,very unstable
+134,2025-07-06,very unstable
+139,2025-07-02,very stable
+139,2025-07-03,very stable
+139,2025-07-06,very stable
+143,2025-07-04,unstable
+143,2025-07-07,unstable
+146,2025-07-02,unstable
+146,2025-07-08,natural
+148,2025-07-06,unstable
+150,2025-07-02,stable
+150,2025-07-06,stable
+163,2025-07-01,very unstable
+163,2025-07-02,very unstable
+163,2025-07-03,very unstable
+173,2025-07-03,stable
+176,2025-07-03,stable
+179,2025-07-01,unstable
+179,2025-07-05,natural
+179,2025-07-07,natural
+190,2025-07-03,very stable
+196,2025-07-06,very stable
+196,2025-07-08,very stable
+198,2025-07-02,very unstable
+198,2025-07-04,very unstable
+198,2025-07-07,very unstable
+199,2025-07-05,stable
+199,2025-07-06,stable

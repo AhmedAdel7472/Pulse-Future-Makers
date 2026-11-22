@@ -1,0 +1,9 @@
+batch_id,batch_name,batch_label,processing_date,window_start,window_end_exclusive,cutoff_ts,file_name,source_row_count
+1,batch_01_delta,First incremental load,2025-07-09,2025-07-01 00:00:00,2025-07-09 00:00:00,2025-07-09 00:00:00,customer_snapshot.csv,13
+1,batch_01_delta,First incremental load,2025-07-09,2025-07-01 00:00:00,2025-07-09 00:00:00,2025-07-09 00:00:00,customer_stability_observations.csv,119
+1,batch_01_delta,First incremental load,2025-07-09,2025-07-01 00:00:00,2025-07-09 00:00:00,2025-07-09 00:00:00,support_agents.csv,1
+1,batch_01_delta,First incremental load,2025-07-09,2025-07-01 00:00:00,2025-07-09 00:00:00,2025-07-09 00:00:00,ticket_agent_assignments.csv,87
+1,batch_01_delta,First incremental load,2025-07-09,2025-07-01 00:00:00,2025-07-09 00:00:00,2025-07-09 00:00:00,ticket_breakdown.csv,205
+1,batch_01_delta,First incremental load,2025-07-09,2025-07-01 00:00:00,2025-07-09 00:00:00,2025-07-09 00:00:00,ticket_details.csv,27
+1,batch_01_delta,First incremental load,2025-07-09,2025-07-01 00:00:00,2025-07-09 00:00:00,2025-07-09 00:00:00,ticket_status_history.csv,344
+1,batch_01_delta,First incremental load,2025-07-09,2025-07-01 00:00:00,2025-07-09 00:00:00,2025-07-09 00:00:00,tickets.csv,34

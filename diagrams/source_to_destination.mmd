@@ -1,0 +1,38 @@
+flowchart LR
+    subgraph FILES["CSV files (batch folders)"]
+        M[batch_manifest.csv]
+        F1[customers / customer_snapshot]
+        F2[support_agents]
+        F3[tickets + ticket_details]
+        F4[ticket_status_history]
+        F5[ticket_breakdown]
+        F6[customer_stability_observations]
+        F7[ticket_agent_assignments]
+        D[dirty examples]
+    end
+    subgraph SRC["TechnicalSupport_Source (OLE DB, Lab 3)"]
+        S[(9 operational tables)]
+    end
+    subgraph DW["TechnicalSupport_DW"]
+        STG[stg.* staging]
+        REJ[etl.ETL_Rejects]
+        LOG[etl.ETL_BatchLog / ETL_Watermark / ETL_BatchManifest]
+        DIM[dim.DimCustomer / DimAgent / DimTicketType / DimDate]
+        FACT[fact.FactTicket / FactTicketStatusEvent / FactTicketBreakdown]
+        HIST[hist.* history]
+        VW[rpt.vw_* views]
+    end
+    M --> LOG
+    F1 & F2 & F3 & F4 & F5 & F6 & F7 --> STG
+    D -.-> STG
+    STG -- bad rows --> REJ
+    STG --> DIM
+    STG --> FACT
+    STG --> HIST
+    S -- Lab 3 --> DIM
+    S -- Lab 3 --> FACT
+    S -- Lab 3 --> HIST
+    DIM --> FACT
+    DIM --> VW
+    FACT --> VW
+    HIST --> FACT

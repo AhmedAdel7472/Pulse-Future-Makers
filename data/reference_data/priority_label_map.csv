@@ -1,0 +1,9 @@
+label_key,priority
+CRITICAL,Critical
+HIGH,High
+LOW,Low
+MEDIUM,Medium
+P1,Critical
+P2,High
+P3,Medium
+P4,Low

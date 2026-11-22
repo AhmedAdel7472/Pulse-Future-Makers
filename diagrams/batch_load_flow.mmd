@@ -1,0 +1,16 @@
+flowchart TD
+    A([Start: BatchId + manifest]) --> B{watermark >= BatchId ?}
+    B -- yes --> SK[Log Skipped] --> Z([End OK])
+    B -- no --> C{watermark < BatchId - 1 ?}
+    C -- yes --> FL[Fail: batch missing] --> ZF([End Failed])
+    C -- no --> D[Clean this batch: staging, rejects, manifest]
+    D --> E[Stage files - stage 1 validation]
+    E --> R[Reconcile with manifest]
+    R --> G[Load: agents, customers SCD, tickets, details, status, observations, assignments, breakdowns]
+    G --> H[Recompute ticket lifecycle for the cutoff]
+    H --> I[Log Succeeded with counts]
+    I --> W[Advance watermark - LAST task]
+    W --> Z
+    E -. error .-> EH[OnError handler: log Failed]
+    G -. error .-> EH
+    EH --> ZF

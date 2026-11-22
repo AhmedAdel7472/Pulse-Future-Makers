@@ -1,0 +1,6 @@
+batch_id,batch_name,batch_label,processing_date,window_start,window_end_exclusive,cutoff_ts,file_name,source_row_count
+99,invalid_examples,Dirty input fixture (cleansing lab),2025-07-01,2025-06-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,customer_stability_observations_dirty.csv,8
+99,invalid_examples,Dirty input fixture (cleansing lab),2025-07-01,2025-06-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,customers_dirty.csv,10
+99,invalid_examples,Dirty input fixture (cleansing lab),2025-07-01,2025-06-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,ticket_breakdown_dirty.csv,10
+99,invalid_examples,Dirty input fixture (cleansing lab),2025-07-01,2025-06-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,ticket_status_history_dirty.csv,6
+99,invalid_examples,Dirty input fixture (cleansing lab),2025-07-01,2025-06-01 00:00:00,2025-07-01 00:00:00,2025-07-01 00:00:00,tickets_dirty.csv,10

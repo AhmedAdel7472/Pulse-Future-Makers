@@ -1,0 +1,9 @@
+customer_id,snapshot_date,stability_status
+3,2025-06-20,stable
+11,2025-06-20,very stable
+12,2025-06-21,super stable
+9999,2025-06-21,stable
+15,2025-06-31,natural
+16,2025-06-22,
+20,2025-06-22, unstable 
+3,2025-06-20,stable

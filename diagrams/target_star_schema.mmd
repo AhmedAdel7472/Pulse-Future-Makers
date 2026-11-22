@@ -1,0 +1,77 @@
+erDiagram
+    DimCustomer ||--o{ FactTicket : "customer_key (version at creation)"
+    DimTicketType ||--o{ FactTicket : "ticket_type_key (-1 = Unknown)"
+    DimDate ||--o{ FactTicket : "created_date_key"
+    FactTicket ||--o{ FactTicketStatusEvent : "ticket_id"
+    FactTicket ||--o{ FactTicketBreakdown : "ticket_id"
+    DimCustomer ||--o{ FactTicketBreakdown : "customer_key (version at event)"
+    DimAgent ||--o{ FactTicketBreakdown : "agent_key (owner at event, nullable)"
+    DimDate ||--o{ FactTicketBreakdown : "event_date_key"
+    DimAgent ||--o{ HistAgentAssignment : "agent_key"
+    FactTicket ||--o{ HistAgentAssignment : "ticket_id"
+    DimCustomer {
+        int customer_key PK
+        int customer_id "business key"
+        nvarchar customer_name "Type 1"
+        varchar customer_segment "Type 2"
+        varchar region "Type 2"
+        date onboarding_date "fixed"
+        date effective_from
+        date effective_to "half-open"
+        bit is_current
+        int version_number
+    }
+    FactTicket {
+        int ticket_id PK "grain: ticket"
+        int customer_key FK
+        int ticket_type_key FK
+        varchar priority
+        varchar latest_status
+        datetime first_resolution_at
+        datetime last_resolution_at
+        decimal resolution_minutes
+        int reopen_count
+    }
+    FactTicketBreakdown {
+        int breakdown_id PK "grain: breakdown event"
+        int ticket_id FK
+        int customer_key FK
+        int agent_key FK
+        varchar ticket_status_at_event
+        varchar customer_stability_at_event "NULL = Unknown"
+        int effort_minutes
+        decimal cost_egp
+    }
+    FactTicketStatusEvent {
+        int status_event_id PK "grain: status event"
+        int ticket_id FK
+        varchar status
+        datetime status_at
+    }
+    HistCustomerStability {
+        int customer_id "business key"
+        date snapshot_date "grain: observation"
+        varchar stability_status
+    }
+    HistAgentAssignment {
+        int assignment_id PK "grain: ownership interval"
+        int ticket_id FK
+        int agent_key FK
+        datetime started_at
+        datetime ended_at
+    }
+    DimAgent {
+        int agent_key PK
+        int agent_id "business key"
+        nvarchar agent_name
+        varchar team
+        varchar region
+    }
+    DimTicketType {
+        int ticket_type_key PK
+        varchar ticket_type
+    }
+    DimDate {
+        int date_key PK
+        date full_date
+    }

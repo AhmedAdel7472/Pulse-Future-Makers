@@ -1,0 +1,486 @@
+ticket_id,ticket_name,ticket_type,severity,description
+1005,Billing module crashes on export,Software,Sev3,Billing module crashes on export. Limited impact with a workaround available. Requester asked for an update every few hours.
+1015,New starter account request,Access Management,Sev3,New starter account request. Limited impact with a workaround available. No recent changes were reported by the customer.
+1020,Data import wizard hangs,Software,Sev3,Data import wizard hangs. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+1038,Message queue backlog growing,Integration,Sev2,Message queue backlog growing. Major degradation affecting a department. Affects a single site only.
+1045,Rack cooling alarm,Hardware,Sev2,Rack cooling alarm. Major degradation affecting a department. Issue has happened before according to the customer.
+1048,Firewall blocking partner traffic,Network,Sev4,Firewall blocking partner traffic. Minor issue with negligible business impact. Affects a single site only.
+1056,Update failed on workstation image,Software,Sev1,Update failed on workstation image. Business-critical outage affecting all users. Issue has happened before according to the customer.
+1074,Mobile app login loop,Software,Sev3,Mobile app login loop. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+1075,Data import wizard hangs,Software,Sev3,Data import wizard hangs. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+1079,Mobile app login loop,Software,Sev2,Mobile app login loop. Major degradation affecting a department. Affects multiple sites.
+1082,Customer portal page errors,Software,Sev3,Customer portal page errors. Limited impact with a workaround available. Affects multiple sites.
+1084,Leaver account still active,Access Management,Sev4,Leaver account still active. Minor issue with negligible business impact. No recent changes were reported by the customer.
+1087,Permissions missing on shared drive,Access Management,Sev3,Permissions missing on shared drive. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+1095,Tempdb contention,Database,Sev4,Tempdb contention. Minor issue with negligible business impact. Affects a single site only.
+1096,Data import wizard hangs,Software,Sev2,Data import wizard hangs. Major degradation affecting a department. Issue has happened before according to the customer.
+1100,Data import wizard hangs,Software,Sev2,Data import wizard hangs. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+1107,Deadlocks during peak hours,Database,Sev3,Deadlocks during peak hours. Limited impact with a workaround available. Affects multiple sites.
+1112,Mobile app login loop,Software,Sev2,Mobile app login loop. Major degradation affecting a department. Issue has happened before according to the customer.
+1114,Firewall blocking partner traffic,Network,Sev1,Firewall blocking partner traffic. Business-critical outage affecting all users. No recent changes were reported by the customer.
+1124,Wi-Fi coverage gap in warehouse,Network,Sev3,Wi-Fi coverage gap in warehouse. Limited impact with a workaround available. Affects multiple sites.
+1125,Permissions missing on shared drive,Access Management,Sev4,Permissions missing on shared drive. Minor issue with negligible business impact. No recent changes were reported by the customer.
+1132,Billing module crashes on export,Software,Sev3,Billing module crashes on export. Limited impact with a workaround available. Issue has happened before according to the customer.
+1137,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Requester asked for an update every few hours.
+1142,DNS resolution failures,Network,Sev3,DNS resolution failures. Limited impact with a workaround available. Requester asked for an update every few hours.
+1147,Deadlocks during peak hours,Database,Sev2,Deadlocks during peak hours. Major degradation affecting a department. No recent changes were reported by the customer.
+1149,Replication lag on reporting replica,Database,Sev1,Replication lag on reporting replica. Business-critical outage affecting all users. Requester asked for an update every few hours.
+1152,Server disk failure alert,Hardware,Sev2,Server disk failure alert. Major degradation affecting a department. Affects multiple sites.
+1157,Memory leak suspected in service,Performance,Sev4,Memory leak suspected in service. Minor issue with negligible business impact. Issue has happened before according to the customer.
+1163,Firewall blocking partner traffic,Network,Sev4,Firewall blocking partner traffic. Minor issue with negligible business impact. Requester asked for an update every few hours.
+1166,Transaction log growth uncontrolled,Database,Sev3,Transaction log growth uncontrolled. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+1180,Update failed on workstation image,Software,Sev4,Update failed on workstation image. Minor issue with negligible business impact. Issue has happened before according to the customer.
+1184,Network printer offline,Hardware,Sev3,Network printer offline. Limited impact with a workaround available. No recent changes were reported by the customer.
+1191,Report scheduler not running,Software,Sev2,Report scheduler not running. Major degradation affecting a department. Affects multiple sites.
+1206,Deadlocks during peak hours,Database,Sev4,Deadlocks during peak hours. Minor issue with negligible business impact. Issue has happened before according to the customer.
+1207,VPN tunnel drops intermittently,Network,Sev3,VPN tunnel drops intermittently. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+1224,Branch WAN link down,Network,Sev3,Branch WAN link down. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+1225,Update failed on workstation image,Software,Sev2,Update failed on workstation image. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+1236,Partner SFTP drop not processed,Integration,Sev3,Partner SFTP drop not processed. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+1240,Network printer offline,Hardware,Sev2,Network printer offline. Major degradation affecting a department. Requester asked for an update every few hours.
+1248,New starter account request,Access Management,Sev3,New starter account request. Limited impact with a workaround available. No recent changes were reported by the customer.
+1254,New starter account request,Access Management,Sev3,New starter account request. Limited impact with a workaround available. Affects a single site only.
+1295,Rack cooling alarm,Hardware,Sev3,Rack cooling alarm. Limited impact with a workaround available. No recent changes were reported by the customer.
+1306,Report scheduler not running,Software,Sev4,Report scheduler not running. Minor issue with negligible business impact. Affects a single site only.
+1307,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Affects a single site only.
+1308,Report scheduler not running,Software,Sev4,Report scheduler not running. Minor issue with negligible business impact. Affects multiple sites.
+1310,Report scheduler not running,Software,Sev1,Report scheduler not running. Business-critical outage affecting all users. Issue has happened before according to the customer.
+1312,Firewall blocking partner traffic,Network,Sev4,Firewall blocking partner traffic. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+1313,API returns 500 for batch endpoint,Integration,Sev3,API returns 500 for batch endpoint. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+1315,Cache hit ratio degraded,Performance,Sev4,Cache hit ratio degraded. Minor issue with negligible business impact. Issue has happened before according to the customer.
+1320,High CPU on application server,Performance,Sev3,High CPU on application server. Limited impact with a workaround available. Affects multiple sites.
+1335,Data import wizard hangs,Software,Sev3,Data import wizard hangs. Limited impact with a workaround available. Requester asked for an update every few hours.
+1337,Customer portal page errors,Software,Sev3,Customer portal page errors. Limited impact with a workaround available. No recent changes were reported by the customer.
+1348,Customer portal page errors,Software,Sev2,Customer portal page errors. Major degradation affecting a department. Affects multiple sites.
+1361,Dashboard load time over 30s,Performance,Sev3,Dashboard load time over 30s. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+1372,Deadlocks during peak hours,Database,Sev1,Deadlocks during peak hours. Business-critical outage affecting all users. No recent changes were reported by the customer.
+1373,Network printer offline,Hardware,Sev2,Network printer offline. Major degradation affecting a department. Affects a single site only.
+1381,Replication lag on reporting replica,Database,Sev4,Replication lag on reporting replica. Minor issue with negligible business impact. Issue has happened before according to the customer.
+1386,SSO redirect error,Access Management,Sev2,SSO redirect error. Major degradation affecting a department. Affects multiple sites.
+1396,DNS resolution failures,Network,Sev3,DNS resolution failures. Limited impact with a workaround available. Requester asked for an update every few hours.
+1398,Permissions missing on shared drive,Access Management,Sev3,Permissions missing on shared drive. Limited impact with a workaround available. No recent changes were reported by the customer.
+1412,Nightly backup job failed,Database,Sev2,Nightly backup job failed. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+1415,UPS battery fault,Hardware,Sev2,UPS battery fault. Major degradation affecting a department. Requester asked for an update every few hours.
+1420,Billing module crashes on export,Software,Sev4,Billing module crashes on export. Minor issue with negligible business impact. No recent changes were reported by the customer.
+1423,Branch WAN link down,Network,Sev3,Branch WAN link down. Limited impact with a workaround available. No recent changes were reported by the customer.
+1428,Rack cooling alarm,Hardware,Sev2,Rack cooling alarm. Major degradation affecting a department. No recent changes were reported by the customer.
+1429,Network printer offline,Hardware,Sev2,Network printer offline. Major degradation affecting a department. Affects multiple sites.
+1437,SSO redirect error,Access Management,Sev3,SSO redirect error. Limited impact with a workaround available. Affects multiple sites.
+1440,Message queue backlog growing,Integration,Sev2,Message queue backlog growing. Major degradation affecting a department. Issue has happened before according to the customer.
+1443,Update failed on workstation image,Software,Sev4,Update failed on workstation image. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+1446,Branch WAN link down,Network,Sev2,Branch WAN link down. Major degradation affecting a department. Affects a single site only.
+1450,Password reset not working,Access Management,Sev3,Password reset not working. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+1456,Firewall blocking partner traffic,Network,Sev1,Firewall blocking partner traffic. Business-critical outage affecting all users. Requester asked for an update every few hours.
+1458,Tempdb contention,Database,Sev3,Tempdb contention. Limited impact with a workaround available. No recent changes were reported by the customer.
+1462,Firewall blocking partner traffic,Network,Sev2,Firewall blocking partner traffic. Major degradation affecting a department. Affects a single site only.
+1467,Deadlocks during peak hours,Database,Sev3,Deadlocks during peak hours. Limited impact with a workaround available. Requester asked for an update every few hours.
+1468,Update failed on workstation image,Software,Sev2,Update failed on workstation image. Major degradation affecting a department. Issue has happened before according to the customer.
+1470,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+1473,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Affects multiple sites.
+1478,Nightly backup job failed,Database,Sev2,Nightly backup job failed. Major degradation affecting a department. No recent changes were reported by the customer.
+1481,Nightly backup job failed,Database,Sev2,Nightly backup job failed. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+1482,Partner SFTP drop not processed,Integration,Sev3,Partner SFTP drop not processed. Limited impact with a workaround available. Requester asked for an update every few hours.
+1492,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Requester asked for an update every few hours.
+1498,DNS resolution failures,Network,Sev2,DNS resolution failures. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+1508,Leaver account still active,Access Management,Sev4,Leaver account still active. Minor issue with negligible business impact. Issue has happened before according to the customer.
+1516,Network printer offline,Hardware,Sev4,Network printer offline. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+1520,Customer portal page errors,Software,Sev3,Customer portal page errors. Limited impact with a workaround available. No recent changes were reported by the customer.
+1527,Deadlocks during peak hours,Database,Sev3,Deadlocks during peak hours. Limited impact with a workaround available. Affects multiple sites.
+1530,Customer portal page errors,Software,Sev2,Customer portal page errors. Major degradation affecting a department. Affects a single site only.
+1544,Replication lag on reporting replica,Database,Sev3,Replication lag on reporting replica. Limited impact with a workaround available. No recent changes were reported by the customer.
+1561,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. Issue has happened before according to the customer.
+1563,Password reset not working,Access Management,Sev4,Password reset not working. Minor issue with negligible business impact. Issue has happened before according to the customer.
+1564,New starter account request,Access Management,Sev4,New starter account request. Minor issue with negligible business impact. Requester asked for an update every few hours.
+1568,Update failed on workstation image,Software,Sev2,Update failed on workstation image. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+1572,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Affects multiple sites.
+1576,Data import wizard hangs,Software,Sev3,Data import wizard hangs. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+1579,Workstation will not boot,Hardware,Sev3,Workstation will not boot. Limited impact with a workaround available. No recent changes were reported by the customer.
+1580,Report scheduler not running,Software,Sev2,Report scheduler not running. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+1582,Report scheduler not running,Software,Sev2,Report scheduler not running. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+1590,Mobile app login loop,Software,Sev3,Mobile app login loop. Limited impact with a workaround available. Issue has happened before according to the customer.
+1599,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. Requester asked for an update every few hours.
+1625,Webhook deliveries delayed,Integration,Sev3,Webhook deliveries delayed. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+1629,Password reset not working,Access Management,Sev2,Password reset not working. Major degradation affecting a department. Issue has happened before according to the customer.
+1643,Billing module crashes on export,Software,Sev4,Billing module crashes on export. Minor issue with negligible business impact. No recent changes were reported by the customer.
+1649,Billing module crashes on export,Software,Sev4,Billing module crashes on export. Minor issue with negligible business impact. Affects multiple sites.
+1650,Packet loss on core switch,Network,Sev4,Packet loss on core switch. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+1661,Billing module crashes on export,Software,Sev3,Billing module crashes on export. Limited impact with a workaround available. No recent changes were reported by the customer.
+1662,VPN tunnel drops intermittently,Network,Sev4,VPN tunnel drops intermittently. Minor issue with negligible business impact. Affects multiple sites.
+1678,Webhook deliveries delayed,Integration,Sev4,Webhook deliveries delayed. Minor issue with negligible business impact. Affects multiple sites.
+1680,Customer portal page errors,Software,Sev3,Customer portal page errors. Limited impact with a workaround available. Requester asked for an update every few hours.
+1692,New starter account request,Access Management,Sev3,New starter account request. Limited impact with a workaround available. No recent changes were reported by the customer.
+1694,Vulnerability scan findings,Security,Sev3,Vulnerability scan findings. Limited impact with a workaround available. No recent changes were reported by the customer.
+1696,Webhook deliveries delayed,Integration,Sev3,Webhook deliveries delayed. Limited impact with a workaround available. Affects multiple sites.
+1701,Batch window overrun,Performance,Sev1,Batch window overrun. Business-critical outage affecting all users. Issue has happened before according to the customer.
+1708,Update failed on workstation image,Software,Sev2,Update failed on workstation image. Major degradation affecting a department. Issue has happened before according to the customer.
+1718,MFA token not delivered,Access Management,Sev3,MFA token not delivered. Limited impact with a workaround available. No recent changes were reported by the customer.
+1723,Nightly backup job failed,Database,Sev4,Nightly backup job failed. Minor issue with negligible business impact. Requester asked for an update every few hours.
+1729,Deadlocks during peak hours,Database,Sev2,Deadlocks during peak hours. Major degradation affecting a department. No recent changes were reported by the customer.
+1746,ETL job produces duplicate rows,Integration,Sev2,ETL job produces duplicate rows. Major degradation affecting a department. Requester asked for an update every few hours.
+1754,Firewall blocking partner traffic,Network,Sev3,Firewall blocking partner traffic. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+1758,Data import wizard hangs,Software,Sev1,Data import wizard hangs. Business-critical outage affecting all users. Issue has happened before according to the customer.
+1764,Password reset not working,Access Management,Sev2,Password reset not working. Major degradation affecting a department. Requester asked for an update every few hours.
+1766,High CPU on application server,Performance,Sev2,High CPU on application server. Major degradation affecting a department. Requester asked for an update every few hours.
+1769,Permissions missing on shared drive,Access Management,Sev2,Permissions missing on shared drive. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+1772,Workstation will not boot,Hardware,Sev3,Workstation will not boot. Limited impact with a workaround available. No recent changes were reported by the customer.
+1779,Update failed on workstation image,Software,Sev1,Update failed on workstation image. Business-critical outage affecting all users. Screenshots and logs were attached by the requester.
+1795,Packet loss on core switch,Network,Sev4,Packet loss on core switch. Minor issue with negligible business impact. Requester asked for an update every few hours.
+1796,Permissions missing on shared drive,Access Management,Sev3,Permissions missing on shared drive. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+1798,Billing module crashes on export,Software,Sev3,Billing module crashes on export. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+1811,Packet loss on core switch,Network,Sev3,Packet loss on core switch. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+1815,ETL job produces duplicate rows,Integration,Sev3,ETL job produces duplicate rows. Limited impact with a workaround available. Affects multiple sites.
+1822,Firewall blocking partner traffic,Network,Sev2,Firewall blocking partner traffic. Major degradation affecting a department. No recent changes were reported by the customer.
+1836,API returns 500 for batch endpoint,Integration,Sev4,API returns 500 for batch endpoint. Minor issue with negligible business impact. Affects a single site only.
+1845,SSO redirect error,Access Management,Sev3,SSO redirect error. Limited impact with a workaround available. Affects multiple sites.
+1849,Packet loss on core switch,Network,Sev2,Packet loss on core switch. Major degradation affecting a department. Issue has happened before according to the customer.
+1875,Expired TLS certificate,Security,Sev3,Expired TLS certificate. Limited impact with a workaround available. No recent changes were reported by the customer.
+1876,Packet loss on core switch,Network,Sev3,Packet loss on core switch. Limited impact with a workaround available. Affects a single site only.
+1885,Customer portal page errors,Software,Sev1,Customer portal page errors. Business-critical outage affecting all users. Screenshots and logs were attached by the requester.
+1888,Data import wizard hangs,Software,Sev2,Data import wizard hangs. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+1891,New starter account request,Access Management,Sev3,New starter account request. Limited impact with a workaround available. Issue has happened before according to the customer.
+1899,Workstation will not boot,Hardware,Sev1,Workstation will not boot. Business-critical outage affecting all users. Issue has happened before according to the customer.
+1900,SSO redirect error,Access Management,Sev3,SSO redirect error. Limited impact with a workaround available. No recent changes were reported by the customer.
+1904,Dashboard load time over 30s,Performance,Sev3,Dashboard load time over 30s. Limited impact with a workaround available. Affects a single site only.
+1929,VPN tunnel drops intermittently,Network,Sev2,VPN tunnel drops intermittently. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+1933,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. No recent changes were reported by the customer.
+1945,API returns 500 for batch endpoint,Integration,Sev1,API returns 500 for batch endpoint. Business-critical outage affecting all users. Affects a single site only.
+1956,Permissions missing on shared drive,Access Management,Sev2,Permissions missing on shared drive. Major degradation affecting a department. Affects a single site only.
+1961,Network printer offline,Hardware,Sev3,Network printer offline. Limited impact with a workaround available. Requester asked for an update every few hours.
+1963,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Affects a single site only.
+1982,API returns 500 for batch endpoint,Integration,Sev2,API returns 500 for batch endpoint. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+1992,Rack cooling alarm,Hardware,Sev3,Rack cooling alarm. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+2001,Webhook deliveries delayed,Integration,Sev4,Webhook deliveries delayed. Minor issue with negligible business impact. Requester asked for an update every few hours.
+2009,Data import wizard hangs,Software,Sev2,Data import wizard hangs. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+2015,Application slow at month end,Performance,Sev4,Application slow at month end. Minor issue with negligible business impact. Affects a single site only.
+2016,Server disk failure alert,Hardware,Sev4,Server disk failure alert. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+2020,Webhook deliveries delayed,Integration,Sev3,Webhook deliveries delayed. Limited impact with a workaround available. Affects multiple sites.
+2028,POS terminal not responding,Hardware,Sev4,POS terminal not responding. Minor issue with negligible business impact. Issue has happened before according to the customer.
+2031,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Issue has happened before according to the customer.
+2035,UPS battery fault,Hardware,Sev3,UPS battery fault. Limited impact with a workaround available. Affects a single site only.
+2074,Billing module crashes on export,Software,Sev3,Billing module crashes on export. Limited impact with a workaround available. Affects a single site only.
+2078,Data import wizard hangs,Software,Sev3,Data import wizard hangs. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+2079,Packet loss on core switch,Network,Sev3,Packet loss on core switch. Limited impact with a workaround available. Issue has happened before according to the customer.
+2089,Update failed on workstation image,Software,Sev1,Update failed on workstation image. Business-critical outage affecting all users. Screenshots and logs were attached by the requester.
+2098,Leaver account still active,Access Management,Sev2,Leaver account still active. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+2101,Application slow at month end,Performance,Sev4,Application slow at month end. Minor issue with negligible business impact. Issue has happened before according to the customer.
+2118,Transaction log growth uncontrolled,Database,Sev3,Transaction log growth uncontrolled. Limited impact with a workaround available. Issue has happened before according to the customer.
+2124,Workstation will not boot,Hardware,Sev2,Workstation will not boot. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+2129,VPN tunnel drops intermittently,Network,Sev1,VPN tunnel drops intermittently. Business-critical outage affecting all users. Requester asked for an update every few hours.
+2139,Branch WAN link down,Network,Sev3,Branch WAN link down. Limited impact with a workaround available. No recent changes were reported by the customer.
+2143,Batch window overrun,Performance,Sev4,Batch window overrun. Minor issue with negligible business impact. Affects multiple sites.
+2151,New starter account request,Access Management,Sev2,New starter account request. Major degradation affecting a department. Issue has happened before according to the customer.
+2158,High CPU on application server,Performance,Sev4,High CPU on application server. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+2161,High CPU on application server,Performance,Sev4,High CPU on application server. Minor issue with negligible business impact. No recent changes were reported by the customer.
+2166,Replication lag on reporting replica,Database,Sev3,Replication lag on reporting replica. Limited impact with a workaround available. Issue has happened before according to the customer.
+2167,Dashboard load time over 30s,Performance,Sev3,Dashboard load time over 30s. Limited impact with a workaround available. No recent changes were reported by the customer.
+2183,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+2185,Application slow at month end,Performance,Sev3,Application slow at month end. Limited impact with a workaround available. Affects a single site only.
+2186,ETL job produces duplicate rows,Integration,Sev1,ETL job produces duplicate rows. Business-critical outage affecting all users. Screenshots and logs were attached by the requester.
+2188,Deadlocks during peak hours,Database,Sev1,Deadlocks during peak hours. Business-critical outage affecting all users. Customer reports the issue started after the last maintenance window.
+2215,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Requester asked for an update every few hours.
+2216,Memory leak suspected in service,Performance,Sev1,Memory leak suspected in service. Business-critical outage affecting all users. No recent changes were reported by the customer.
+2222,Cache hit ratio degraded,Performance,Sev3,Cache hit ratio degraded. Limited impact with a workaround available. Issue has happened before according to the customer.
+2230,Application slow at month end,Performance,Sev1,Application slow at month end. Business-critical outage affecting all users. Affects a single site only.
+2252,VPN tunnel drops intermittently,Network,Sev3,VPN tunnel drops intermittently. Limited impact with a workaround available. Requester asked for an update every few hours.
+2256,Transaction log growth uncontrolled,Database,Sev2,Transaction log growth uncontrolled. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+2260,SSO redirect error,Access Management,Sev1,SSO redirect error. Business-critical outage affecting all users. Affects multiple sites.
+2265,Vulnerability scan findings,Security,Sev3,Vulnerability scan findings. Limited impact with a workaround available. No recent changes were reported by the customer.
+2268,Password reset not working,Access Management,Sev3,Password reset not working. Limited impact with a workaround available. Requester asked for an update every few hours.
+2287,ETL job produces duplicate rows,Integration,Sev3,ETL job produces duplicate rows. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+2290,DNS resolution failures,Network,Sev3,DNS resolution failures. Limited impact with a workaround available. No recent changes were reported by the customer.
+2291,Memory leak suspected in service,Performance,Sev4,Memory leak suspected in service. Minor issue with negligible business impact. Issue has happened before according to the customer.
+2292,Billing module crashes on export,Software,Sev1,Billing module crashes on export. Business-critical outage affecting all users. Affects multiple sites.
+2299,Server disk failure alert,Hardware,Sev3,Server disk failure alert. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+2312,Packet loss on core switch,Network,Sev3,Packet loss on core switch. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+2314,POS terminal not responding,Hardware,Sev2,POS terminal not responding. Major degradation affecting a department. Issue has happened before according to the customer.
+2319,Memory leak suspected in service,Performance,Sev2,Memory leak suspected in service. Major degradation affecting a department. Issue has happened before according to the customer.
+2320,VPN tunnel drops intermittently,Network,Sev3,VPN tunnel drops intermittently. Limited impact with a workaround available. Requester asked for an update every few hours.
+2325,Slow stored procedure after release,Database,Sev3,Slow stored procedure after release. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+2333,Tempdb contention,Database,Sev4,Tempdb contention. Minor issue with negligible business impact. Requester asked for an update every few hours.
+2340,Slow stored procedure after release,Database,Sev2,Slow stored procedure after release. Major degradation affecting a department. Affects multiple sites.
+2347,Webhook deliveries delayed,Integration,Sev2,Webhook deliveries delayed. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+2353,Deadlocks during peak hours,Database,Sev3,Deadlocks during peak hours. Limited impact with a workaround available. Issue has happened before according to the customer.
+2355,Password reset not working,Access Management,Sev2,Password reset not working. Major degradation affecting a department. Issue has happened before according to the customer.
+2361,MFA token not delivered,Access Management,Sev3,MFA token not delivered. Limited impact with a workaround available. Issue has happened before according to the customer.
+2366,Application slow at month end,Performance,Sev2,Application slow at month end. Major degradation affecting a department. No recent changes were reported by the customer.
+2381,Tempdb contention,Database,Sev3,Tempdb contention. Limited impact with a workaround available. Affects multiple sites.
+2383,VPN tunnel drops intermittently,Network,Sev3,VPN tunnel drops intermittently. Limited impact with a workaround available. Affects a single site only.
+2386,Wi-Fi coverage gap in warehouse,Network,Sev2,Wi-Fi coverage gap in warehouse. Major degradation affecting a department. Affects multiple sites.
+2391,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+2395,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Issue has happened before according to the customer.
+2405,Branch WAN link down,Network,Sev2,Branch WAN link down. Major degradation affecting a department. Requester asked for an update every few hours.
+2406,Memory leak suspected in service,Performance,Sev1,Memory leak suspected in service. Business-critical outage affecting all users. Screenshots and logs were attached by the requester.
+2409,ETL job produces duplicate rows,Integration,Sev3,ETL job produces duplicate rows. Limited impact with a workaround available. No recent changes were reported by the customer.
+2410,Transaction log growth uncontrolled,Database,Sev1,Transaction log growth uncontrolled. Business-critical outage affecting all users. No recent changes were reported by the customer.
+2414,Customer portal page errors,Software,Sev2,Customer portal page errors. Major degradation affecting a department. Affects a single site only.
+2428,Firewall blocking partner traffic,Network,Sev4,Firewall blocking partner traffic. Minor issue with negligible business impact. Requester asked for an update every few hours.
+2434,Mobile app login loop,Software,Sev2,Mobile app login loop. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+2437,Transaction log growth uncontrolled,Database,Sev3,Transaction log growth uncontrolled. Limited impact with a workaround available. Issue has happened before according to the customer.
+2441,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. Affects multiple sites.
+2453,Packet loss on core switch,Network,Sev4,Packet loss on core switch. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+2456,Billing module crashes on export,Software,Sev3,Billing module crashes on export. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+2465,Dashboard load time over 30s,Performance,Sev2,Dashboard load time over 30s. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+2478,DNS resolution failures,Network,Sev4,DNS resolution failures. Minor issue with negligible business impact. No recent changes were reported by the customer.
+2485,Leaver account still active,Access Management,Sev4,Leaver account still active. Minor issue with negligible business impact. Affects a single site only.
+2487,POS terminal not responding,Hardware,Sev3,POS terminal not responding. Limited impact with a workaround available. No recent changes were reported by the customer.
+2488,Mobile app login loop,Software,Sev3,Mobile app login loop. Limited impact with a workaround available. Affects multiple sites.
+2489,VPN tunnel drops intermittently,Network,Sev4,VPN tunnel drops intermittently. Minor issue with negligible business impact. Requester asked for an update every few hours.
+2490,Application slow at month end,Performance,Sev2,Application slow at month end. Major degradation affecting a department. Affects a single site only.
+2492,Nightly backup job failed,Database,Sev3,Nightly backup job failed. Limited impact with a workaround available. Requester asked for an update every few hours.
+2495,Unauthorized firewall rule change,Security,Sev4,Unauthorized firewall rule change. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+2500,Firewall blocking partner traffic,Network,Sev1,Firewall blocking partner traffic. Business-critical outage affecting all users. Affects a single site only.
+2505,MFA token not delivered,Access Management,Sev1,MFA token not delivered. Business-critical outage affecting all users. Customer reports the issue started after the last maintenance window.
+2516,Mobile app login loop,Software,Sev3,Mobile app login loop. Limited impact with a workaround available. No recent changes were reported by the customer.
+2517,Replication lag on reporting replica,Database,Sev3,Replication lag on reporting replica. Limited impact with a workaround available. No recent changes were reported by the customer.
+2518,Workstation will not boot,Hardware,Sev2,Workstation will not boot. Major degradation affecting a department. Requester asked for an update every few hours.
+2528,Wi-Fi coverage gap in warehouse,Network,Sev4,Wi-Fi coverage gap in warehouse. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+2530,Partner SFTP drop not processed,Integration,Sev2,Partner SFTP drop not processed. Major degradation affecting a department. Affects multiple sites.
+2537,High CPU on application server,Performance,Sev4,High CPU on application server. Minor issue with negligible business impact. No recent changes were reported by the customer.
+2547,Branch WAN link down,Network,Sev4,Branch WAN link down. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+2549,Wi-Fi coverage gap in warehouse,Network,Sev2,Wi-Fi coverage gap in warehouse. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+2552,Mobile app login loop,Software,Sev4,Mobile app login loop. Minor issue with negligible business impact. Affects multiple sites.
+2559,SSO redirect error,Access Management,Sev3,SSO redirect error. Limited impact with a workaround available. Affects multiple sites.
+2571,Dashboard load time over 30s,Performance,Sev2,Dashboard load time over 30s. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+2572,API returns 500 for batch endpoint,Integration,Sev2,API returns 500 for batch endpoint. Major degradation affecting a department. No recent changes were reported by the customer.
+2575,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. No recent changes were reported by the customer.
+2586,Leaver account still active,Access Management,Sev2,Leaver account still active. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+2590,Replication lag on reporting replica,Database,Sev3,Replication lag on reporting replica. Limited impact with a workaround available. Requester asked for an update every few hours.
+2596,Replication lag on reporting replica,Database,Sev1,Replication lag on reporting replica. Business-critical outage affecting all users. Screenshots and logs were attached by the requester.
+2597,API returns 500 for batch endpoint,Integration,Sev3,API returns 500 for batch endpoint. Limited impact with a workaround available. Requester asked for an update every few hours.
+2602,Replication lag on reporting replica,Database,Sev3,Replication lag on reporting replica. Limited impact with a workaround available. No recent changes were reported by the customer.
+2609,Permissions missing on shared drive,Access Management,Sev4,Permissions missing on shared drive. Minor issue with negligible business impact. Affects multiple sites.
+2630,VPN tunnel drops intermittently,Network,Sev1,VPN tunnel drops intermittently. Business-critical outage affecting all users. Requester asked for an update every few hours.
+2635,Branch WAN link down,Network,Sev2,Branch WAN link down. Major degradation affecting a department. Affects a single site only.
+2641,High CPU on application server,Performance,Sev4,High CPU on application server. Minor issue with negligible business impact. Issue has happened before according to the customer.
+2642,ETL job produces duplicate rows,Integration,Sev2,ETL job produces duplicate rows. Major degradation affecting a department. No recent changes were reported by the customer.
+2653,API returns 500 for batch endpoint,Integration,Sev3,API returns 500 for batch endpoint. Limited impact with a workaround available. Affects multiple sites.
+2659,Permissions missing on shared drive,Access Management,Sev3,Permissions missing on shared drive. Limited impact with a workaround available. Affects a single site only.
+2661,Tempdb contention,Database,Sev1,Tempdb contention. Business-critical outage affecting all users. Affects multiple sites.
+2673,Billing module crashes on export,Software,Sev2,Billing module crashes on export. Major degradation affecting a department. Requester asked for an update every few hours.
+2688,Firewall blocking partner traffic,Network,Sev3,Firewall blocking partner traffic. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+2710,UPS battery fault,Hardware,Sev3,UPS battery fault. Limited impact with a workaround available. No recent changes were reported by the customer.
+2723,DNS resolution failures,Network,Sev3,DNS resolution failures. Limited impact with a workaround available. Issue has happened before according to the customer.
+2739,Memory leak suspected in service,Performance,Sev3,Memory leak suspected in service. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+2750,Permissions missing on shared drive,Access Management,Sev1,Permissions missing on shared drive. Business-critical outage affecting all users. Affects multiple sites.
+2755,Packet loss on core switch,Network,Sev2,Packet loss on core switch. Major degradation affecting a department. No recent changes were reported by the customer.
+2758,ERP to CRM sync failing,Integration,Sev4,ERP to CRM sync failing. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+2768,Mobile app login loop,Software,Sev1,Mobile app login loop. Business-critical outage affecting all users. Requester asked for an update every few hours.
+2778,Slow stored procedure after release,Database,Sev3,Slow stored procedure after release. Limited impact with a workaround available. Affects a single site only.
+2782,POS terminal not responding,Hardware,Sev4,POS terminal not responding. Minor issue with negligible business impact. Issue has happened before according to the customer.
+2785,Billing module crashes on export,Software,Sev4,Billing module crashes on export. Minor issue with negligible business impact. Issue has happened before according to the customer.
+2796,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+2803,Data import wizard hangs,Software,Sev1,Data import wizard hangs. Business-critical outage affecting all users. No recent changes were reported by the customer.
+2812,SSO redirect error,Access Management,Sev4,SSO redirect error. Minor issue with negligible business impact. No recent changes were reported by the customer.
+2820,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Affects multiple sites.
+2832,Partner SFTP drop not processed,Integration,Sev3,Partner SFTP drop not processed. Limited impact with a workaround available. Requester asked for an update every few hours.
+2840,SSO redirect error,Access Management,Sev3,SSO redirect error. Limited impact with a workaround available. Issue has happened before according to the customer.
+2858,Replication lag on reporting replica,Database,Sev3,Replication lag on reporting replica. Limited impact with a workaround available. Affects a single site only.
+2859,Endpoint agent flagged malware,Security,Sev4,Endpoint agent flagged malware. Minor issue with negligible business impact. No recent changes were reported by the customer.
+2874,Nightly backup job failed,Database,Sev2,Nightly backup job failed. Major degradation affecting a department. Issue has happened before according to the customer.
+2878,VPN tunnel drops intermittently,Network,Sev2,VPN tunnel drops intermittently. Major degradation affecting a department. Affects multiple sites.
+2894,Memory leak suspected in service,Performance,Sev3,Memory leak suspected in service. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+2897,Workstation will not boot,Hardware,Sev3,Workstation will not boot. Limited impact with a workaround available. Affects a single site only.
+2903,MFA token not delivered,Access Management,Sev3,MFA token not delivered. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+2905,SSO redirect error,Access Management,Sev2,SSO redirect error. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+2907,VPN tunnel drops intermittently,Network,Sev2,VPN tunnel drops intermittently. Major degradation affecting a department. Affects a single site only.
+2918,Firewall blocking partner traffic,Network,Sev3,Firewall blocking partner traffic. Limited impact with a workaround available. Affects a single site only.
+2931,Partner SFTP drop not processed,Integration,Sev1,Partner SFTP drop not processed. Business-critical outage affecting all users. Issue has happened before according to the customer.
+2934,New starter account request,Access Management,Sev2,New starter account request. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+2942,Endpoint agent flagged malware,Security,Sev4,Endpoint agent flagged malware. Minor issue with negligible business impact. Affects a single site only.
+2943,Nightly backup job failed,Database,Sev2,Nightly backup job failed. Major degradation affecting a department. Affects a single site only.
+2958,Memory leak suspected in service,Performance,Sev4,Memory leak suspected in service. Minor issue with negligible business impact. Issue has happened before according to the customer.
+2962,UPS battery fault,Hardware,Sev1,UPS battery fault. Business-critical outage affecting all users. No recent changes were reported by the customer.
+2986,Update failed on workstation image,Software,Sev4,Update failed on workstation image. Minor issue with negligible business impact. Issue has happened before according to the customer.
+2988,Unauthorized firewall rule change,Security,Sev3,Unauthorized firewall rule change. Limited impact with a workaround available. Affects a single site only.
+2996,Application slow at month end,Performance,Sev3,Application slow at month end. Limited impact with a workaround available. Issue has happened before according to the customer.
+3002,Workstation will not boot,Hardware,Sev4,Workstation will not boot. Minor issue with negligible business impact. No recent changes were reported by the customer.
+3005,Permissions missing on shared drive,Access Management,Sev3,Permissions missing on shared drive. Limited impact with a workaround available. Requester asked for an update every few hours.
+3015,Batch window overrun,Performance,Sev1,Batch window overrun. Business-critical outage affecting all users. No recent changes were reported by the customer.
+3046,MFA token not delivered,Access Management,Sev3,MFA token not delivered. Limited impact with a workaround available. No recent changes were reported by the customer.
+3047,Endpoint agent flagged malware,Security,Sev1,Endpoint agent flagged malware. Business-critical outage affecting all users. No recent changes were reported by the customer.
+3052,ETL job produces duplicate rows,Integration,Sev2,ETL job produces duplicate rows. Major degradation affecting a department. Requester asked for an update every few hours.
+3054,Slow stored procedure after release,Database,Sev2,Slow stored procedure after release. Major degradation affecting a department. Requester asked for an update every few hours.
+3063,Rack cooling alarm,Hardware,Sev4,Rack cooling alarm. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+3070,API returns 500 for batch endpoint,Integration,Sev3,API returns 500 for batch endpoint. Limited impact with a workaround available. Affects multiple sites.
+3098,POS terminal not responding,Hardware,Sev3,POS terminal not responding. Limited impact with a workaround available. No recent changes were reported by the customer.
+3110,Customer portal page errors,Software,Sev2,Customer portal page errors. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+3117,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. No recent changes were reported by the customer.
+3131,ERP to CRM sync failing,Integration,Sev1,ERP to CRM sync failing. Business-critical outage affecting all users. Requester asked for an update every few hours.
+3132,Report scheduler not running,Software,Sev4,Report scheduler not running. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+3135,API returns 500 for batch endpoint,Integration,Sev1,API returns 500 for batch endpoint. Business-critical outage affecting all users. Issue has happened before according to the customer.
+3136,Application slow at month end,Performance,Sev2,Application slow at month end. Major degradation affecting a department. No recent changes were reported by the customer.
+3140,Rack cooling alarm,Hardware,Sev3,Rack cooling alarm. Limited impact with a workaround available. Requester asked for an update every few hours.
+3147,Leaver account still active,Access Management,Sev4,Leaver account still active. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+3156,Packet loss on core switch,Network,Sev2,Packet loss on core switch. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+3162,Permissions missing on shared drive,Access Management,Sev3,Permissions missing on shared drive. Limited impact with a workaround available. Issue has happened before according to the customer.
+3166,High CPU on application server,Performance,Sev2,High CPU on application server. Major degradation affecting a department. Issue has happened before according to the customer.
+3169,Mobile app login loop,Software,Sev4,Mobile app login loop. Minor issue with negligible business impact. Issue has happened before according to the customer.
+3173,Message queue backlog growing,Integration,Sev3,Message queue backlog growing. Limited impact with a workaround available. Affects a single site only.
+3180,Customer portal page errors,Software,Sev1,Customer portal page errors. Business-critical outage affecting all users. Screenshots and logs were attached by the requester.
+3190,Password reset not working,Access Management,Sev4,Password reset not working. Minor issue with negligible business impact. Requester asked for an update every few hours.
+3193,Password reset not working,Access Management,Sev4,Password reset not working. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+3210,Mobile app login loop,Software,Sev2,Mobile app login loop. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+3213,Branch WAN link down,Network,Sev3,Branch WAN link down. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+3215,Customer portal page errors,Software,Sev2,Customer portal page errors. Major degradation affecting a department. Affects multiple sites.
+3233,Branch WAN link down,Network,Sev4,Branch WAN link down. Minor issue with negligible business impact. Affects multiple sites.
+3234,Workstation will not boot,Hardware,Sev4,Workstation will not boot. Minor issue with negligible business impact. No recent changes were reported by the customer.
+3242,Tempdb contention,Database,Sev2,Tempdb contention. Major degradation affecting a department. Affects multiple sites.
+3243,Expired TLS certificate,Security,Sev2,Expired TLS certificate. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+3249,ETL job produces duplicate rows,Integration,Sev4,ETL job produces duplicate rows. Minor issue with negligible business impact. Affects multiple sites.
+3267,Branch WAN link down,Network,Sev4,Branch WAN link down. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+3268,Billing module crashes on export,Software,Sev3,Billing module crashes on export. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+3269,ETL job produces duplicate rows,Integration,Sev3,ETL job produces duplicate rows. Limited impact with a workaround available. No recent changes were reported by the customer.
+3271,Wi-Fi coverage gap in warehouse,Network,Sev4,Wi-Fi coverage gap in warehouse. Minor issue with negligible business impact. Issue has happened before according to the customer.
+3284,Vulnerability scan findings,Security,Sev4,Vulnerability scan findings. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+3301,Update failed on workstation image,Software,Sev4,Update failed on workstation image. Minor issue with negligible business impact. Affects a single site only.
+3307,Network printer offline,Hardware,Sev4,Network printer offline. Minor issue with negligible business impact. Affects a single site only.
+3310,DNS resolution failures,Network,Sev2,DNS resolution failures. Major degradation affecting a department. Affects a single site only.
+3336,Slow stored procedure after release,Database,Sev3,Slow stored procedure after release. Limited impact with a workaround available. Issue has happened before according to the customer.
+3338,SSO redirect error,Access Management,Sev2,SSO redirect error. Major degradation affecting a department. Requester asked for an update every few hours.
+3340,Mobile app login loop,Software,Sev3,Mobile app login loop. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+3345,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. No recent changes were reported by the customer.
+3347,Update failed on workstation image,Software,Sev4,Update failed on workstation image. Minor issue with negligible business impact. Affects multiple sites.
+3359,Leaver account still active,Access Management,Sev4,Leaver account still active. Minor issue with negligible business impact. No recent changes were reported by the customer.
+3364,Report scheduler not running,Software,Sev1,Report scheduler not running. Business-critical outage affecting all users. No recent changes were reported by the customer.
+3395,Branch WAN link down,Network,Sev1,Branch WAN link down. Business-critical outage affecting all users. Affects a single site only.
+3401,High CPU on application server,Performance,Sev3,High CPU on application server. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+3404,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Affects a single site only.
+3405,Cache hit ratio degraded,Performance,Sev4,Cache hit ratio degraded. Minor issue with negligible business impact. No recent changes were reported by the customer.
+3410,MFA token not delivered,Access Management,Sev3,MFA token not delivered. Limited impact with a workaround available. Issue has happened before according to the customer.
+3425,Phishing campaign reported,Security,Sev1,Phishing campaign reported. Business-critical outage affecting all users. Customer reports the issue started after the last maintenance window.
+3432,Expired TLS certificate,Security,Sev2,Expired TLS certificate. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+3441,Data import wizard hangs,Software,Sev4,Data import wizard hangs. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+3445,Wi-Fi coverage gap in warehouse,Network,Sev1,Wi-Fi coverage gap in warehouse. Business-critical outage affecting all users. Affects multiple sites.
+3458,Partner SFTP drop not processed,Integration,Sev3,Partner SFTP drop not processed. Limited impact with a workaround available. Affects multiple sites.
+3459,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. Affects multiple sites.
+3466,Workstation will not boot,Hardware,Sev3,Workstation will not boot. Limited impact with a workaround available. Affects multiple sites.
+3469,Nightly backup job failed,Database,Sev3,Nightly backup job failed. Limited impact with a workaround available. No recent changes were reported by the customer.
+3472,Packet loss on core switch,Network,Sev3,Packet loss on core switch. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+3473,Rack cooling alarm,Hardware,Sev2,Rack cooling alarm. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+3474,Endpoint agent flagged malware,Security,Sev3,Endpoint agent flagged malware. Limited impact with a workaround available. No recent changes were reported by the customer.
+3476,Data import wizard hangs,Software,Sev3,Data import wizard hangs. Limited impact with a workaround available. Affects a single site only.
+3482,Update failed on workstation image,Software,Sev3,Update failed on workstation image. Limited impact with a workaround available. Affects multiple sites.
+3492,Mobile app login loop,Software,Sev3,Mobile app login loop. Limited impact with a workaround available. Issue has happened before according to the customer.
+3506,Transaction log growth uncontrolled,Database,Sev2,Transaction log growth uncontrolled. Major degradation affecting a department. No recent changes were reported by the customer.
+3515,Tempdb contention,Database,Sev4,Tempdb contention. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+3521,Application slow at month end,Performance,Sev4,Application slow at month end. Minor issue with negligible business impact. Issue has happened before according to the customer.
+3547,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Requester asked for an update every few hours.
+3566,Memory leak suspected in service,Performance,Sev3,Memory leak suspected in service. Limited impact with a workaround available. Affects a single site only.
+3575,Dashboard load time over 30s,Performance,Sev3,Dashboard load time over 30s. Limited impact with a workaround available. Requester asked for an update every few hours.
+3608,Network printer offline,Hardware,Sev3,Network printer offline. Limited impact with a workaround available. Affects multiple sites.
+3618,Batch window overrun,Performance,Sev2,Batch window overrun. Major degradation affecting a department. Affects a single site only.
+3635,Customer portal page errors,Software,Sev2,Customer portal page errors. Major degradation affecting a department. Requester asked for an update every few hours.
+3640,Password reset not working,Access Management,Sev2,Password reset not working. Major degradation affecting a department. Issue has happened before according to the customer.
+3642,Data import wizard hangs,Software,Sev2,Data import wizard hangs. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+3665,Branch WAN link down,Network,Sev1,Branch WAN link down. Business-critical outage affecting all users. Customer reports the issue started after the last maintenance window.
+3674,Firewall blocking partner traffic,Network,Sev1,Firewall blocking partner traffic. Business-critical outage affecting all users. Issue has happened before according to the customer.
+3688,Message queue backlog growing,Integration,Sev2,Message queue backlog growing. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+3692,Data import wizard hangs,Software,Sev3,Data import wizard hangs. Limited impact with a workaround available. Requester asked for an update every few hours.
+3697,DNS resolution failures,Network,Sev2,DNS resolution failures. Major degradation affecting a department. Affects a single site only.
+3721,Rack cooling alarm,Hardware,Sev4,Rack cooling alarm. Minor issue with negligible business impact. Affects multiple sites.
+3723,Packet loss on core switch,Network,Sev4,Packet loss on core switch. Minor issue with negligible business impact. Requester asked for an update every few hours.
+3734,Deadlocks during peak hours,Database,Sev1,Deadlocks during peak hours. Business-critical outage affecting all users. No recent changes were reported by the customer.
+3738,DNS resolution failures,Network,Sev3,DNS resolution failures. Limited impact with a workaround available. No recent changes were reported by the customer.
+3739,Tempdb contention,Database,Sev2,Tempdb contention. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+3742,Server disk failure alert,Hardware,Sev1,Server disk failure alert. Business-critical outage affecting all users. Affects a single site only.
+3744,Server disk failure alert,Hardware,Sev3,Server disk failure alert. Limited impact with a workaround available. No recent changes were reported by the customer.
+3746,Replication lag on reporting replica,Database,Sev4,Replication lag on reporting replica. Minor issue with negligible business impact. Requester asked for an update every few hours.
+3747,Unauthorized firewall rule change,Security,Sev3,Unauthorized firewall rule change. Limited impact with a workaround available. Affects multiple sites.
+3756,Password reset not working,Access Management,Sev3,Password reset not working. Limited impact with a workaround available. Affects a single site only.
+3762,New starter account request,Access Management,Sev3,New starter account request. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+3766,Packet loss on core switch,Network,Sev4,Packet loss on core switch. Minor issue with negligible business impact. No recent changes were reported by the customer.
+3781,MFA token not delivered,Access Management,Sev3,MFA token not delivered. Limited impact with a workaround available. Issue has happened before according to the customer.
+3792,Billing module crashes on export,Software,Sev4,Billing module crashes on export. Minor issue with negligible business impact. Affects multiple sites.
+3805,Unauthorized firewall rule change,Security,Sev3,Unauthorized firewall rule change. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+3810,Rack cooling alarm,Hardware,Sev3,Rack cooling alarm. Limited impact with a workaround available. Issue has happened before according to the customer.
+3816,Data import wizard hangs,Software,Sev2,Data import wizard hangs. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+3819,Wi-Fi coverage gap in warehouse,Network,Sev3,Wi-Fi coverage gap in warehouse. Limited impact with a workaround available. Affects a single site only.
+3831,Replication lag on reporting replica,Database,Sev2,Replication lag on reporting replica. Major degradation affecting a department. Affects multiple sites.
+3836,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Issue has happened before according to the customer.
+3837,Branch WAN link down,Network,Sev3,Branch WAN link down. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+3840,New starter account request,Access Management,Sev4,New starter account request. Minor issue with negligible business impact. Affects multiple sites.
+3851,MFA token not delivered,Access Management,Sev3,MFA token not delivered. Limited impact with a workaround available. Issue has happened before according to the customer.
+3852,Password reset not working,Access Management,Sev3,Password reset not working. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+3856,Unauthorized firewall rule change,Security,Sev1,Unauthorized firewall rule change. Business-critical outage affecting all users. Affects a single site only.
+3865,Tempdb contention,Database,Sev2,Tempdb contention. Major degradation affecting a department. Issue has happened before according to the customer.
+3881,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. No recent changes were reported by the customer.
+3895,Server disk failure alert,Hardware,Sev3,Server disk failure alert. Limited impact with a workaround available. Affects a single site only.
+3903,Report scheduler not running,Software,Sev3,Report scheduler not running. Limited impact with a workaround available. Affects multiple sites.
+3907,VPN tunnel drops intermittently,Network,Sev3,VPN tunnel drops intermittently. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+3911,Message queue backlog growing,Integration,Sev1,Message queue backlog growing. Business-critical outage affecting all users. Requester asked for an update every few hours.
+3913,Dashboard load time over 30s,Performance,Sev1,Dashboard load time over 30s. Business-critical outage affecting all users. Affects multiple sites.
+3931,Password reset not working,Access Management,Sev2,Password reset not working. Major degradation affecting a department. Requester asked for an update every few hours.
+3944,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Affects multiple sites.
+3950,Password reset not working,Access Management,Sev2,Password reset not working. Major degradation affecting a department. Requester asked for an update every few hours.
+3952,Leaver account still active,Access Management,Sev3,Leaver account still active. Limited impact with a workaround available. Issue has happened before according to the customer.
+3953,Nightly backup job failed,Database,Sev3,Nightly backup job failed. Limited impact with a workaround available. No recent changes were reported by the customer.
+3955,Workstation will not boot,Hardware,Sev4,Workstation will not boot. Minor issue with negligible business impact. Affects multiple sites.
+3958,Data import wizard hangs,Software,Sev4,Data import wizard hangs. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+3963,POS terminal not responding,Hardware,Sev3,POS terminal not responding. Limited impact with a workaround available. No recent changes were reported by the customer.
+3974,Report scheduler not running,Software,Sev2,Report scheduler not running. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+3992,New starter account request,Access Management,Sev3,New starter account request. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+3995,Firewall blocking partner traffic,Network,Sev4,Firewall blocking partner traffic. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+4014,Data import wizard hangs,Software,Sev4,Data import wizard hangs. Minor issue with negligible business impact. No recent changes were reported by the customer.
+4018,VPN tunnel drops intermittently,Network,Sev1,VPN tunnel drops intermittently. Business-critical outage affecting all users. No recent changes were reported by the customer.
+4022,POS terminal not responding,Hardware,Sev4,POS terminal not responding. Minor issue with negligible business impact. Affects a single site only.
+4036,Network printer offline,Hardware,Sev4,Network printer offline. Minor issue with negligible business impact. No recent changes were reported by the customer.
+4050,Data import wizard hangs,Software,Sev4,Data import wizard hangs. Minor issue with negligible business impact. Requester asked for an update every few hours.
+4079,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+4089,UPS battery fault,Hardware,Sev2,UPS battery fault. Major degradation affecting a department. Affects a single site only.
+4101,Deadlocks during peak hours,Database,Sev4,Deadlocks during peak hours. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+4108,Server disk failure alert,Hardware,Sev3,Server disk failure alert. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+4112,Transaction log growth uncontrolled,Database,Sev3,Transaction log growth uncontrolled. Limited impact with a workaround available. No recent changes were reported by the customer.
+4113,Branch WAN link down,Network,Sev1,Branch WAN link down. Business-critical outage affecting all users. Affects multiple sites.
+4117,Workstation will not boot,Hardware,Sev3,Workstation will not boot. Limited impact with a workaround available. Affects multiple sites.
+4121,Suspicious login attempts detected,Security,Sev4,Suspicious login attempts detected. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+4122,Memory leak suspected in service,Performance,Sev2,Memory leak suspected in service. Major degradation affecting a department. Affects a single site only.
+4130,UPS battery fault,Hardware,Sev2,UPS battery fault. Major degradation affecting a department. Requester asked for an update every few hours.
+4136,Workstation will not boot,Hardware,Sev4,Workstation will not boot. Minor issue with negligible business impact. Issue has happened before according to the customer.
+4141,Server disk failure alert,Hardware,Sev3,Server disk failure alert. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+4146,Mobile app login loop,Software,Sev3,Mobile app login loop. Limited impact with a workaround available. Requester asked for an update every few hours.
+4153,SSO redirect error,Access Management,Sev1,SSO redirect error. Business-critical outage affecting all users. Affects multiple sites.
+4156,Replication lag on reporting replica,Database,Sev4,Replication lag on reporting replica. Minor issue with negligible business impact. Screenshots and logs were attached by the requester.
+4170,Permissions missing on shared drive,Access Management,Sev3,Permissions missing on shared drive. Limited impact with a workaround available. Issue has happened before according to the customer.
+4176,Wi-Fi coverage gap in warehouse,Network,Sev2,Wi-Fi coverage gap in warehouse. Major degradation affecting a department. Issue has happened before according to the customer.
+4182,Update failed on workstation image,Software,Sev2,Update failed on workstation image. Major degradation affecting a department. Affects multiple sites.
+4194,Customer portal page errors,Software,Sev1,Customer portal page errors. Business-critical outage affecting all users. Requester asked for an update every few hours.
+4197,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Affects a single site only.
+4214,Memory leak suspected in service,Performance,Sev4,Memory leak suspected in service. Minor issue with negligible business impact. Issue has happened before according to the customer.
+4224,Vulnerability scan findings,Security,Sev3,Vulnerability scan findings. Limited impact with a workaround available. Issue has happened before according to the customer.
+4225,High CPU on application server,Performance,Sev2,High CPU on application server. Major degradation affecting a department. No recent changes were reported by the customer.
+4256,Cache hit ratio degraded,Performance,Sev3,Cache hit ratio degraded. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+4264,High CPU on application server,Performance,Sev3,High CPU on application server. Limited impact with a workaround available. No recent changes were reported by the customer.
+4273,Leaver account still active,Access Management,Sev3,Leaver account still active. Limited impact with a workaround available. Requester asked for an update every few hours.
+4276,Nightly backup job failed,Database,Sev2,Nightly backup job failed. Major degradation affecting a department. Affects multiple sites.
+4281,Suspicious login attempts detected,Security,Sev2,Suspicious login attempts detected. Major degradation affecting a department. Screenshots and logs were attached by the requester.
+4286,MFA token not delivered,Access Management,Sev3,MFA token not delivered. Limited impact with a workaround available. Requester asked for an update every few hours.
+4292,Leaver account still active,Access Management,Sev1,Leaver account still active. Business-critical outage affecting all users. Requester asked for an update every few hours.
+4294,Customer portal page errors,Software,Sev4,Customer portal page errors. Minor issue with negligible business impact. Requester asked for an update every few hours.
+4295,UPS battery fault,Hardware,Sev4,UPS battery fault. Minor issue with negligible business impact. Affects multiple sites.
+4297,Tempdb contention,Database,Sev3,Tempdb contention. Limited impact with a workaround available. Issue has happened before according to the customer.
+4303,Branch WAN link down,Network,Sev2,Branch WAN link down. Major degradation affecting a department. No recent changes were reported by the customer.
+4304,Memory leak suspected in service,Performance,Sev4,Memory leak suspected in service. Minor issue with negligible business impact. Issue has happened before according to the customer.
+4306,Mobile app login loop,Software,Sev3,Mobile app login loop. Limited impact with a workaround available. No recent changes were reported by the customer.
+4317,Network printer offline,Hardware,Sev3,Network printer offline. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+4352,Vulnerability scan findings,Security,Sev4,Vulnerability scan findings. Minor issue with negligible business impact. Affects multiple sites.
+4353,Billing module crashes on export,Software,Sev2,Billing module crashes on export. Major degradation affecting a department. Affects multiple sites.
+4358,Password reset not working,Access Management,Sev4,Password reset not working. Minor issue with negligible business impact. Affects a single site only.
+4363,Billing module crashes on export,Software,Sev4,Billing module crashes on export. Minor issue with negligible business impact. Affects multiple sites.
+4366,Password reset not working,Access Management,Sev2,Password reset not working. Major degradation affecting a department. Affects a single site only.
+4373,Batch window overrun,Performance,Sev2,Batch window overrun. Major degradation affecting a department. Issue has happened before according to the customer.
+4378,Packet loss on core switch,Network,Sev3,Packet loss on core switch. Limited impact with a workaround available. Requester asked for an update every few hours.
+4396,Billing module crashes on export,Software,Sev2,Billing module crashes on export. Major degradation affecting a department. Requester asked for an update every few hours.
+4400,Batch window overrun,Performance,Sev1,Batch window overrun. Business-critical outage affecting all users. Affects a single site only.
+4401,Billing module crashes on export,Software,Sev2,Billing module crashes on export. Major degradation affecting a department. Customer reports the issue started after the last maintenance window.
+4414,Server disk failure alert,Hardware,Sev3,Server disk failure alert. Limited impact with a workaround available. Affects multiple sites.
+4419,Transaction log growth uncontrolled,Database,Sev3,Transaction log growth uncontrolled. Limited impact with a workaround available. Customer reports the issue started after the last maintenance window.
+4422,Slow stored procedure after release,Database,Sev3,Slow stored procedure after release. Limited impact with a workaround available. Screenshots and logs were attached by the requester.
+4430,Transaction log growth uncontrolled,Database,Sev2,Transaction log growth uncontrolled. Major degradation affecting a department. Affects a single site only.
+4437,Replication lag on reporting replica,Database,Sev3,Replication lag on reporting replica. Limited impact with a workaround available. Requester asked for an update every few hours.
+4443,Report scheduler not running,Software,Sev1,Report scheduler not running. Business-critical outage affecting all users. Issue has happened before according to the customer.
+4448,UPS battery fault,Hardware,Sev2,UPS battery fault. Major degradation affecting a department. Issue has happened before according to the customer.
+4454,Tempdb contention,Database,Sev3,Tempdb contention. Limited impact with a workaround available. No recent changes were reported by the customer.
+4456,Transaction log growth uncontrolled,Database,Sev2,Transaction log growth uncontrolled. Major degradation affecting a department. Issue has happened before according to the customer.
+4486,Server disk failure alert,Hardware,Sev4,Server disk failure alert. Minor issue with negligible business impact. Customer reports the issue started after the last maintenance window.
+4493,POS terminal not responding,Hardware,Sev3,POS terminal not responding. Limited impact with a workaround available. Requester asked for an update every few hours.
+4495,API returns 500 for batch endpoint,Integration,Sev4,API returns 500 for batch endpoint. Minor issue with negligible business impact. No recent changes were reported by the customer.

@@ -1,0 +1,14 @@
+customer_id,customer_name,customer_segment,region,onboarding_date,effective_date
+201,Karnak Prime Logistics,Medium,Upper Egypt,2025-07-02,2025-07-02
+202,  Siwa  Bright  Foods ,Medium,Alexandria,2025-07-04,2025-07-04
+203,Memphis Core Textiles,Enterprise,Upper Egypt,2025-07-07,2025-07-07
+112,Damietta Summit Foods International,Enterprise,Alexandria,2019-08-21,2025-07-04
+15,Karnak Nova Foods Group,Medium,Cairo,2022-10-14,2025-07-07
+96,Red Sea Core Clinics,Medium,Giza,2019-09-22,2025-07-03
+124,Siwa Apex Foods,Medium,Giza,2021-09-22,2025-07-06
+90102,,Small,Delta,2025-07-04,2025-07-04
+173,Abydos Harbor Energy Holdings Ltd,Small,Upper Egypt,2024-03-22,2025-07-05
+196, Giza Gate Bright Developments  ,Large,Cairo,2020-11-10,2025-07-01
+120,Papyrus Vertex Motors,Large,Upper Egypt,2023-10-28,2025-07-01
+90101,Pyramid Gold Trading,Platinum,Cairo,2025-07-03,2025-07-03
+200,Lotus Pioneer Telecom,Large,Giza,2022-04-11,2025-07-01
